@@ -303,8 +303,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 Recommended game settings are listed below.  Note that the above Wabbajack install has already been pre-configured with the following tweaks which are merely listed for reference.
 
 ### INI Settings
-* INI files are found in C:\(Your Game Folder)\profiles\Default
-* These INI files will override any vanilla INI files which are stored in: C:\Users\[Username]\Documents\My Games\Skyrim VR\  
+* INI files are found in C:\ (Your Game Folder)\profiles\Default
+* These INI files will override any vanilla INI files which are stored in: C:\Users\ (Username)\Documents\My Games\Skyrim VR\  
 * Recommended INI settings: 
 1. Open INI files and add this text somewhere under the [Launcher] section: bEnableFileSelection=1 (Enables mods)
 2. Open INI files and add this text somewhere under the [Display] section: iTintTextureResolution=2048 (NPC Overhaul tweak)
