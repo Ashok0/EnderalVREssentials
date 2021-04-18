@@ -143,7 +143,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)
 
 [Dear Diary - Enderal version v2.2.4](https://www.nexusmods.com/enderal/mods/164?tab=files)
-- Optionally skip installation for Tab Menu ONLY and extract 'tweenmenu.swf' and overwrite file with same name in above Dear Diary VR mod.
+- Install Tab Menu ONLY.
 
 [Menu Mouse Fix v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files)
 
@@ -170,6 +170,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [Spell Wheel VR v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files)
 
 [EngineFixesVR v1.20 (MemoryManager = false, SelectAllocator = 1 in EngineFixesVR.ini)](https://github.com/rollingrock/EngineFixesVR/releases)
+-Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1
 
 [HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files)
 
@@ -207,7 +208,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Basic Dining Set Replacer 1k v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files)
 
-[Noble Skyrim FULL PACK Performance Edition v5.5.0 (Recommend placing before other texture packs; Remove "whroughgroundmud.dds")](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
+[Noble Skyrim FULL PACK Performance Edition v5.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
+- Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
 
 [Real Mountains Rebuilt v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/3704?tab=files)
 
@@ -217,7 +219,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Pine Branches Redone 4K v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files)
 
-[Embers XD v2.2.1 (delete ESP files)](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files)
+[Embers XD v2.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files)
+- Delete ESP files.
 
 [STO - Stars 2K Only small stars v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/4931?tab=files)
 
@@ -296,7 +299,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 ### GAME TWEAKS 
 * Recommended game settings are listed below.  Note that the above Wabbajack install has already been pre-configured with the following tweaks which are merely listed for reference.
 
-##INI Settings
+## INI Settings
 * INI files are found in C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\profiles\Default
 * These INI files will override any vanilla INI files which are stored in: C:\Users\[Username]\Documents\My Games\Skyrim VR\  
 * Recommended INI settings: 
@@ -342,7 +345,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 11. Distance sliders are set to: Item 20%, Actor 20%, Objects 40%, Grass 100%
 
 ## SkyVRaan Configuration 
-* SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
+SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
 1. Close Mod Organizer 2 if open
 2. Create a blank Skyrim.ini file in C:\Users\[Username]\Documents\My Games\Skyrim VR\ (Not sure if this is necessary)
 3. Install .NET SDK 5.0 and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
@@ -364,7 +367,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 16. You may need to re-run this process if you change your load order.
 
 ## Flinching installation
-* Flinching adds flinching animations to NPCs.  SkyVRaan has been pre-configured with Flinching but the configuration process has been documented below for reference. 
+Flinching adds flinching animations to NPCs.  SkyVRaan has been pre-configured with Flinching but the configuration process has been documented below for reference. 
 1. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\Nemesis_Engine > Select Nemesis Unlimited Behavior Engine.exe > OK
 2. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
 3. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
