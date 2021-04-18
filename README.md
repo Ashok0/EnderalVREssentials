@@ -153,7 +153,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Enderal VR - Patch](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files)
 
-[SKSEVR 2.0.12](https://skse.silverlock.org)
+[SKSEVR 2.0.12](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
 [EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
 - Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
