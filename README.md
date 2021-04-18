@@ -1,3 +1,5 @@
+# ENDERAL VR ESSENTIALS (EVRE)
+
 ## Table of contents
 * [Preamble](#preamble)
 * [System Requirements](#system-requirements)
@@ -80,6 +82,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 ## Known issues
 * Your headset and controllers must be active before launching the game or it will not start.
+* The loading screens are broken and no artwork shows up unless TAA is enabled.  TAA should always be disabled, however, as enabling TAA will cause in-game blur.
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
 * No body during tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
 * If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
