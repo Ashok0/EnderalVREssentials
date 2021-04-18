@@ -100,6 +100,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 ## MODS --- MOD ORGANIZER 2
 [Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
 [Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
+
 [Enderal SE - Bug Fixes v1.26.2](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files)
 [SkyUI v1.0-beta.4](https://github.com/Odie/skyui-vr)
 [JContainers VR v4.1.13](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
