@@ -84,13 +84,13 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * For scoped bows, open VRIK MCM and disable "Adjust Held Weapons Position"
 * You can add scoped bows to your inventory by pressing "~" with Enderal VR active on your Windows desktop and entering one of the following lines:
 
-Player.AddItem 000CC392 1 (Angi's Bow)\
-Player.AddItem 000AB705 1 (Bow of the Hunt)\
-Player.AddItem 0006B9AD 1 (Dravin's Bow)\
-Player.AddItem 00017059 1 (Firiniel's End)\
-Player.AddItem 000C0186 1 (Froki's Bow)\
-Player.AddItem 000F5D22 1 (Gauldur Blackbow)\
-Player.AddItem 000F652C 1 (Nightingale Bow)
+    * Player.AddItem 000CC392 1 (Angi's Bow)\
+    * Player.AddItem 000AB705 1 (Bow of the Hunt)\
+    * Player.AddItem 0006B9AD 1 (Dravin's Bow)\
+    * Player.AddItem 00017059 1 (Firiniel's End)\
+    * Player.AddItem 000C0186 1 (Froki's Bow)\
+    * Player.AddItem 000F5D22 1 (Gauldur Blackbow)\
+    * Player.AddItem 000F652C 1 (Nightingale Bow)
 
 ## Supersampling: 
 * Supersampling can be done via in-game Supersampling and Contrast Adaptive Sharpening (CAS) via The Sharper Eye mod.  For optimal image fidelity and performance, in-game Supersampling should always disabled.  CAS should always be enabled via The Sharper Eye mod. 
@@ -120,27 +120,17 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)\
 [Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)\
 [Enderal SE - Bug Fixes v1.26.2](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files)\
-
 [SkyUI v1.0-beta.4](https://github.com/Odie/skyui-vr)\
-
 [JContainers VR v4.1.13](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)\
-
 [moreHUD VR v1.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/33215?tab=files)\
-
 [SkyrimVRTools v2.3-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files)\
-
 [Enderal VR - Patch](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files)\
-
 [SKSEVR 2.0.12](https://skse.silverlock.org)\
-
 [Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)\
-
 [Dear Diary - Enderal version v2.2.4](https://www.nexusmods.com/enderal/mods/164?tab=files)\
 * Optionally skip installation for Tab Menu ONLY and extract 'tweenmenu.swf' and overwrite file with same name in above Dear Diary VR mod.
 [Menu Mouse Fix v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files)\
-
 [Smaller HUD for VR v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files)\
-
 [Dot Crosshair VR v0.8](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files)\
 
 [Nemesis Unlimited Behavior Engine v0.84-beta](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases)\
