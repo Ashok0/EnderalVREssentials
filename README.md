@@ -6,7 +6,7 @@
 ## Preamble
 This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stories SE in VR using Wabbajack.  Note that the ONLY game you need installed on Steam is Skyrim VR.  The new Steam edition of Enderal SE is for flatscreen gaming only.  While VR cannot be added to the Steam edition of Enderal SE, Skyrim VR can be "modded" to successfully load Enderal SE in VR!
 
-Wabbajack simplifies the process of downloading all the required Skyrim VR mods and patches necessary to play Enderal SE in VR to a single click.  This guide uses a lightweight modlist designed to deliver an optimal VR experience with minimal performance loss.  This modlist was optimized for Virtual Desktop and should perform extremely well when playing the game wirelessly.  Special thanks to the Enderal SE modding team and sasa2727 for the VR patch which makes this guide possible!
+Wabbajack simplifies the process of downloading all the required Skyrim VR mods and patches necessary to play Enderal SE in VR to a single click.  This guide uses a lightweight modlist designed to deliver an optimal VR experience with minimal performance loss.  This modlist was optimized for Virtual Desktop and should perform extremely well when playing the game wirelessly.  Special thanks to the Enderal SE modding team and sasa2727 for the VR patch which made this guide possible!
 
 ## System Requirements
 Minimum:
@@ -17,7 +17,7 @@ Minimum:
 * STORAGE: 40GB
 
 Recommended:
-* CPU: Intel Core i7-4790 or AMD Ryzen 5 1500X
+* CPU: Intel Core i7-4790 or AMD Ryzen 5 1500X or better
 * RAM: 8 GB
 * OS: Windows 10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 3070 or better
@@ -31,7 +31,7 @@ Recommended:
 * [Premium NexusMods account](https://www.nexusmods.com/)
 	
 ## Installation
-1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/). The game needs to be in your Steam library but does not need to be installed.
+1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
 2.  Install a clean copy of Skyrim VR from [HERE](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/).
 3.  Run Skyrim VR one time from Steam and then exit the game.
 4.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack (Make sure the path contains no spaces)
@@ -50,7 +50,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 1. Disable "Adjust Held Weapons Position". (Fixes scoped bows)
 2. Select Body Holsters > (Scroll down to Left Shoulder Holster) > Untick "Visible" (Prevent your bow from clipping into the edge of your FOV when crouching in real life)  
 
-### YOU'RE ALL DONE!  ENJOY ENDERAL: FORGOTTEN STORIES IN VR!  ALL STEPS BEYOND THIS POINT ARE OPTIONAL.
+# YOU'RE ALL DONE!  ENJOY ENDERAL: FORGOTTEN STORIES IN VR!  ALL STEPS BEYOND THIS POINT ARE OPTIONAL.
 
 
 
