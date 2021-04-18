@@ -110,7 +110,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 * C:\ (Your Game Folder)\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
 * C:\ (Your Game Folder)\mods\Enderal VR - Patch\EnderalVRpatch.ini
 
-## MODS --- SKYRIM INSTALLATION FOLDER
+## MODS --- SKYRIMVR INSTALLATION FOLDER
 [SKSE VR v2.0.12](https://skse.silverlock.org)
 
 [EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
