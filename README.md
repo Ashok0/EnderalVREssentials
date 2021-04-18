@@ -58,7 +58,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 
 
-## Noteworthy mods:
+## Noteworthy mods
 * [Dear Diary VR](https://www.nexusmods.com/skyrimspecialedition/mods/44874):  Custom paper skin for the SkyUI menu.  Disable to revert back to the classic SkyUI.
 * [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726):  Shrinks HUD and text size for added immersion.  Disable if you prefer having a larger HUD and larger font. 
 * [VRIK Rift-Index-WMR Controller Bindings V2.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/23416):  Optional bindings for Rift/Index/WMR controllers. 
@@ -67,7 +67,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * [Bijin skin UNP and CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/20078?tab=files): Smoother skin for NPCs with less blemishes.  Disable if you prefer vanilla skin.
 * [Replaces spiders with wolfs and bears](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files).  Removes spiders from game for arachnophobic players.  Disable if you want spiders! 
 
-## Known issues:
+## Known issues
 * Your headset and controllers must be active before launching the game or it will not start.
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
 * No body during tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
@@ -93,7 +93,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
     * Player.AddItem 000F5D22 1 (Gauldur Blackbow)
     * Player.AddItem 000F652C 1 (Nightingale Bow)
 
-## Supersampling: 
+## Supersampling
 * Supersampling can be done via in-game Supersampling and Contrast Adaptive Sharpening (CAS) via The Sharper Eye mod.  For optimal image fidelity and performance, in-game Supersampling should always disabled.  CAS should always be enabled via The Sharper Eye mod. 
 * If using The Sharper Eye mod for supersampling, pressing the HOME key with Enderal VR active on your Windows desktop will open the built-in Reshade UI. Here you can adjust the parameters for CAS, Contrast, Brightness, and Color Saturation.  Default settings should be optimal for VR.
 * In addition to improving visuals with The Sharper Eye mod, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.
@@ -101,10 +101,10 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
     * If playing wired on an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
     * If playing wirelessly on the Quest 2 in Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.
 
-## Game capture:
+## Game capture
 * If you want to take screenshots or record footage while in VR, use [OBS Studio](https://obsproject.com) with the [OBS OpenVR Input Plugin v1.5](https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in widescreen at a higher resolution than what can be achieved when capturing the game from either the Virtual Desktop or SteamVR mirror window.
 
-## Language Packs:
+## Language Packs
 Enderal SE supports language packs which allow the game to be played in Chinese, French, German, Italian, Japanese, Korean, Russian, and Spanish.  You can download the packs [HERE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Install the language pack with Mod Organizer 2 and install it with a unique name i.e. "Enderal SE - German Language Pack" and place it underneath "Enderal SE" and "Enderal SE - Update" in your mod loadout.  Finally, edit the following line "sLanguage=ENGLISH" with the preferred language in the following three files:
 * C:\(Your Game Folder)\mods\Enderal SE\Enderal - Forgotten Stories.ini
 * C:\(Your Game Folder)\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
