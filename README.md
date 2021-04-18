@@ -105,9 +105,9 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 ## Language Packs:
 Enderal SE supports language packs which allow the game to be played in Chinese, French, German, Italian, Japanese, Korean, Russian, and Spanish.  You can download the packs [HERE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Install the language pack with Mod Organizer 2 and install it with a unique name i.e. "Enderal SE - German Language Pack" and place it underneath "Enderal SE" and "Enderal SE - Update" in your mod loadout.  Finally, edit the following line "sLanguage=ENGLISH" with the preferred language in the following three files:
-* C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal SE\Enderal - Forgotten Stories.ini
-* C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
-* C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal VR - Patch\EnderalVRpatch.ini
+* C:\(Your Game Folder)\mods\Enderal SE\Enderal - Forgotten Stories.ini
+* C:\(Your Game Folder)\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
+* C:\(Your Game Folder)\mods\Enderal VR - Patch\EnderalVRpatch.ini
 
 ## MODS --- SKYRIM INSTALLATION FOLDER
 [SKSE VR v2.0.12](https://skse.silverlock.org)
@@ -160,7 +160,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
 
 [Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files)
-- Requires patching with Nemesis
+- Requires patching with Nemesis.
 
 [VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts)
 
@@ -171,7 +171,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [Spell Wheel VR v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files)
 
 [EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
-- Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1
+- Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
 
 [HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files)
 
@@ -204,7 +204,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [R.A.S.S - Rain Ash And Snow Shaders v3.2.2](https://www.nexusmods.com/skyrimspecialedition/mods/22780?tab=files)
 
 [SkyVRaan - Shimmering VR Waters v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files)
-- Requires patching with Synthesis
+- Requires patching with Synthesis.
 
 [Storm Lightning for SSE and VR v1.4.9](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files)
 
@@ -302,7 +302,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 Recommended game settings are listed below.  Note that the above Wabbajack install has already been pre-configured with the following tweaks which are merely listed for reference.
 
 ### INI Settings
-* INI files are found in C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\profiles\Default
+* INI files are found in C:\(Your Game Folder)\profiles\Default
 * These INI files will override any vanilla INI files which are stored in: C:\Users\[Username]\Documents\My Games\Skyrim VR\  
 * Recommended INI settings: 
 1. Open INI files and add this text somewhere under the [Launcher] section: bEnableFileSelection=1 (Enables mods)
@@ -311,7 +311,10 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 4. Open INI files and add this text somewhere under the [VR] section: fVrScale=72 (Tweaks world scale for VR; Typical values are between 72-78)
 5. Open INI files and add this text somewhere under the [VRUI] section: fHUDCompassScale=0.5000 (Decrease compass size)
 6. Open INI files and add this text somewhere under the [VRUI] section: bPlayVRMeleeWorldImpactSounds=0 (Disable impact sounds; Set to "1" if you like the effect.)
-7. Open INI files and add this text somewhere under the [VRUI] section to decrease text size: 
+7. Open INI files and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
+8. Open INI files and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks bows for Embers XD)
+9. Open INI files and add this text somewhere under the [VRUI] section to decrease text size: 
+
          fActivateRolloverSecondaryScale=10
 	 
          fActivateRolloverSecondaryZ=0
@@ -328,11 +331,8 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 	 
          fActivateRolloverSecondaryScale=10.0000
 	 
-         fActivateRolloverPrimaryScale=10.0000 
-	 
-8. Open INI files and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
-9. Open INI files and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks bows for Embers XD)
-
+         fActivateRolloverPrimaryScale=10.0000
+ 
 ### In-Game Settings
 1. Set Movement speed to 50%
 2. Activate "Physical Sneaking" and "Realistic Bow Aiming"
