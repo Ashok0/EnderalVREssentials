@@ -3,9 +3,22 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+## Preamble
 The following guide describes how to setup Enderal: Forgotten Stories SE with Skyrim VR using Wabbajack.  Wabbajack simplifies the process of downloading all the required mods and patches necessary to play Enderal SE in VR to a single click.  This guide uses a lightweight modlist designed to deliver an optimal VR experience with minimal performance loss.  This modlist was optimized for Virtual Desktop and should perform extremely well when playing the game wirelessly.  Special thanks to the Enderal SE modding team and sasa2727 for the VR patch which makes this guide possible!
-	
+
+## System Requirements
+Minimum:
+* CPU: Intel Core i5-6600K or AMD Ryzen 5 1400 or better
+* RAM: 8 GB
+* OS: Windows 7/8.1/10 (64-bit versions)
+* VIDEO CARD: Nvidia GeForce GTX 970 / AMD RX 480 8GB or better
+
+Recommended:
+* CPU: Intel Core i5-6600K or AMD Ryzen 3600 or better
+* RAM: 16 GB
+* OS: Windows 10 (64-bit versions)
+* VIDEO CARD: Nvidia GeForce GTX 3070 or better
+
 ## Requirements
 * [Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/)
 * [Enderal SE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
