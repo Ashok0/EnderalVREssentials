@@ -368,7 +368,7 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 15. You may need to re-run this process if you change your load order.
 
 ### Flinching Configuration 
-Flinching adds flinching animations.  NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  SkyVRaan has been pre-configured with Flinching but the configuration process has been documented below for reference. 
+Flinching adds flinching animations.  NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  Flinching has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
 1. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\Nemesis_Engine > Select Nemesis Unlimited Behavior Engine.exe > OK
 2. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
 3. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
