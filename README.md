@@ -71,15 +71,14 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop.
 * No body during tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
 * If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
-* Interrupting and cancelling dialogue with the triggers on your VR controllers may soft lock your game.  A previous saved game must be loaded to continue.
+* Interrupting and cancelling dialogue with NPCs prematurely with the triggers on your VR controllers may soft lock your game as you will be unable to continue quest related conversations.  A previous saved game must be loaded to continue.
 * If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
 * Loading saved games during the opening tutorial may cause VRIK to glitch out.
 * If you need to reset your height in-game, do not run "Floor Fix" thru Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
-* If melee attacks do not work, delete any references to "fShieldLinearVelocityThreshold" and "fMeleeLinearVelocityThreshold" from the INIs at this location:  C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\profiles\Default
 * If you are playing wirelessly on the Quest 2, you may see a subtle "rectangular box" around the edges of the view where the image becomes blurry outside of the rectangle.  This effect is normal and is caused by foveation used by Virtual Desktop when streaming Enderal VR wirelessly.
 * If you have trouble selecting ingredients at alchemy benches, on your left controller be sure to tap the analog stick to the right which should allow you to select ingredients for crafting.
 * If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod.
-* Note that with the exception of texture mods, mods cannot be safely removed mid-savegame.
+* Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame.
 
 ## Scoped bows
 * For scoped bows, open VRIK MCM and disable "Adjust Held Weapons Position"
