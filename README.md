@@ -114,7 +114,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Enderal VR - Patch](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files)
 
-[SKSEVR 2.0.12](https://skse.silverlock.org/
+[SKSEVR 2.0.12](https://skse.silverlock.org)
 
 [Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)
 
@@ -267,3 +267,116 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [Kids of Enderal - SE v1.7](https://www.nexusmods.com/skyrim/mods/93432?tab=files)
 
 [Replace spiders with wolfs and bears v1.0.1](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files)
+
+### GAME TWEAKS 
+* Recommended game settings are listed below.  Note that the above Wabbajack install has already been pre-configured with the following tweaks which are merely listed for reference.
+
+##INI Settings
+* INI files are found in C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\profiles\Default
+* These INI files will override any vanilla INI files which are stored in: C:\Users\[Username]\Documents\My Games\Skyrim VR\  
+* Recommended INI settings: 
+1. Open INI files and add this text somewhere under the [Launcher] section: bEnableFileSelection=1 (Enables mods)
+2. Open INI files and add this text somewhere under the [Display] section: iTintTextureResolution=2048 (NPC Overhaul tweak)
+3. Open INI files and add this text somewhere under the [VR] section: bAllowVRCheating=1 (Disable bumpback when too close to an object)
+4. Open INI files and add this text somewhere under the [VR] section: fVrScale=72 (Tweaks world scale for VR; Typical values are between 72-78)
+5. Open INI files and add this text somewhere under the [VRUI] section: fHUDCompassScale=0.5000 (Decrease compass size)
+6. Open INI files and add this text somewhere under the [VRUI] section: bPlayVRMeleeWorldImpactSounds=0 (Disable impact sounds; Set to "1" if you like the effect.)
+7. Open INI files and add this text somewhere under the [VRUI] section to decrease text size: 
+         fActivateRolloverSecondaryScale=10
+	 
+         fActivateRolloverSecondaryZ=0
+	 
+         fActivateRolloverSecondaryY=0
+	 
+         fActivateRolloverPrimaryScale=10
+	 
+         fActivateRolloverPrimaryZ=0
+	 
+         fActivateRolloverPrimaryY=0
+	 
+         fActivateRolloverWandScale=10.0000 
+	 
+         fActivateRolloverSecondaryScale=10.0000
+	 
+         fActivateRolloverPrimaryScale=10.0000 
+	 
+8. Open INI files and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
+9. Open INI files and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks bows for Embers XD)
+
+## In-Game Settings
+1. Set Movement speed to 50%
+2. Activate "Physical Sneaking" and "Realistic Bow Aiming"
+3. Disable "FOV Filter when Moving"
+4. Set Super sampling slider to minimum (all the way left)
+5. Disable Dynamic Resolution
+6. Disable Temporal AA
+7. Disable Foliage Shadows
+8. Untick “Disable LOD” options and set the Tree Lod slider to max
+9. Enable "Skinned trees"
+10. Enable "Animated trees"
+11. Distance sliders are set to: Item 20%, Actor 20%, Objects 40%, Grass 100%
+
+## SkyVRaan Configuration 
+* SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
+1. Close Mod Organizer 2 if open
+2. Create a blank Skyrim.ini file in C:\Users\[Username]\Documents\My Games\Skyrim VR\ (Not sure if this is necessary)
+3. Install .NET SDK 5.0 and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
+4. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\Synthesis\ > Select Synthesis.exe > OK
+5. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK. (If applicable, this option may not be available if your overwrite folder is already clean)
+6. Select Synthesis from upper right drop down and click RUN
+7. Select Skyrim VR
+8. Select Git Repository (2nd icon in upper left) 
+9. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
+10. Click RUN icon
+11. Wait for the utility to report "Completed" and close Synthesis
+    --If Synthesis errors out when patching SkyVRaan, try the following:
+    --Select SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher in the left hand bar and set "Mutagen" and "Synthesis" to "Latest".
+    --Click "Skyrim VR" in the top bar.  Under Data Folder Location, enter the following path: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data
+12. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis output and click OK.
+13. Tick "Synthesis output" in left window pane and make sure "Synthesis.esp" is at the bottom of your Plugin load order and ticked in the right window pane.
+14. Select SKSE in the upper right drop down bar
+15. Click RUN to launch and play Enderal VR with SkyVRaan activated!
+16. You may need to re-run this process if you change your load order.
+
+## Flinching installation
+* Flinching adds flinching animations to NPCs.  SkyVRaan has been pre-configured with Flinching but the configuration process has been documented below for reference. 
+1. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\Nemesis_Engine > Select Nemesis Unlimited Behavior Engine.exe > OK
+2. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
+3. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
+4. Click OK for both Warning popups
+5. Click "Update Engine"
+6. Tick the "Flinching Animations" option and click "Launch Nemesis Behavior Engine"
+7. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.
+8. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis output and click OK.
+9. Tick "Nemesis output" in left window pane 
+10. Click RUN to launch and play Enderal VR with Flinching activated!  NPCs will now react with an animation when attacked with your right fist or melee weapons in either hand.
+11. You may need to re-run this process if you change your load order.
+
+## Mod Organizer 2 Settings
+Required Mod Load Order (left side):
+* Enderal SE
+* Enderal SE - Update
+* Enderal SE - Bug Fixes
+* SkyUI
+* JContainers VR
+* moreHUD VR 
+* SkyrimVRTools
+* Enderal VR patch
+
+Required Mod Load Order (right side):
+* Enderal Forgotten Stories.esm
+* Enderal SE - Bug Fixes.esp
+* SkyUI_SE.esp
+* AHZmoreHUD.esp
+* EnderalVRpatch.esp
+* (everything else; Enderal SE specific mods should be placed near the bottom)
+* Synthesis.esp (Generated with the Synthesis utility and should be placed near the bottom) 
+
+When installing mods, if prompted to extract BSA files, select "No".
+
+   ---If using EngineFixesVR, add the following lines to EngineFixesVR.ini: MemoryManager = false, SelectAllocator = 1
+   ---If using EmbersXD, SMIM or USSEP patches, delete any .esp files.
+   ---If using Noble Skyrim, remove "whroughgroundmud.dds"
+   ---If using Dear Diary, install the VR version and replace "tweenmenu.swf" with the file from the Enderal version of the mod.
+   ---If using SkyVRaan, this mod requires the .NET 5.0 SDK and will not be active until Synthesis is run (as described at the beginning of this guide).
+   ---If using Flinching, this mod will not be active until Nemesis is run (as described at the beginning of this guide).
