@@ -177,7 +177,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
 
-[Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.
+[Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  Animations won't work if you melee an NPC while while holding a bow.
 - Requires patching with Nemesis.
 
 [VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts)
@@ -239,79 +239,79 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [Embers XD v2.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files)
 - Delete ESP files.
 
-[STO - Stars 2K Only small stars v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/4931?tab=files)
+[STO - Stars 2K Only small stars v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/4931?tab=files): Overhauls the stars to 4K from 1K.  Uses small stars only to reduce SDE in nighttime scenes for added immersion.
 
-[Bijin Skin CBBE 2k Based v1.2.1](https://www.nexusmods.com/skyrim/mods/91953?tab=files)
+[Bijin Skin CBBE 2k Based v1.2.1](https://www.nexusmods.com/skyrim/mods/91953?tab=files): One of the female skins.
 
-[Bijin skin Crotch fix CBBE v1.2.2](https://www.nexusmods.com/skyrim/mods/91953?tab=files)
+[Bijin skin Crotch fix CBBE v1.2.2](https://www.nexusmods.com/skyrim/mods/91953?tab=files): One of the female skins.
 
-[Myths and Legends VI - The Forgotten One v1.01](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files)
+[Myths and Legends VI - The Forgotten One v1.01](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): Adds a new Myths and Legends book, a new dungeon, and a completely new creature with unique mechanics.
 
-[EOP SE - Enderal SE Outposts v1.01](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files)
+[EOP SE - Enderal SE Outposts v1.01](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files): Adds order outposts, fortifies some camps with additional protection. 
 
-[Delectable Docks SE v1.2](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files)
+[Delectable Docks SE v1.2](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files): SE port of my delectable docks mod.
 
-[Riverville Catacombs SE v1.0](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files)
+[Riverville Catacombs SE v1.0](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
-[Noble Quarter Player Home Redone v1.02](https://www.nexusmods.com/enderalspecialedition/mods/66?tab=files)
+[Noble Quarter Player Home Redone v1.02](https://www.nexusmods.com/enderalspecialedition/mods/66?tab=files): Overhauls player home in Nobles Quarter.
 
-[Enderal SE - Undercity Arena Fix v.1.0](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files)
+[Enderal SE - Undercity Arena Fix v.1.0](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files): Reworks the undercity arena to be less cheeseable, bigger and fixes an issue with shadows.
 
-[EAM SE - Enderal Apothecarii Monastery v1.02](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files)
+[EAM SE - Enderal Apothecarii Monastery v1.02](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files): Adds the Apothecarii Monastery including: Huge monastery area, over 10 interiors, 2 dungeons and much more.
 
-[Allow Fast Travel v1.1](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files)
+[Allow Fast Travel v1.1](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 
-[Diverse Weather v1.0](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files)
+[Diverse Weather v1.0](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
 
-[Storeable Phasmalist Talismans v1.0](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files)
+[Storeable Phasmalist Talismans v1.0](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
-[Unique Armor Sets Replacer Enderal SE v2.1](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files)
+[Unique Armor Sets Replacer Enderal SE v2.1](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files): High-quality and lore friendly replacers for many of Enderal's unique armor sets! Converted with SSE nif optimizer.
 
-[Practical Armor Replacers v1.0](https://www.nexusmods.com/enderalspecialedition/mods/23?tab=files)
+[Practical Armor Replacers v1.0](https://www.nexusmods.com/enderalspecialedition/mods/23?tab=files): Armor and weapons more fitting to the setting of Enderal. Converted to SE!
 
-[Dawnguard Heavy Armor (Shadowsteel Brigandine) - SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/33?tab=files)
+[Dawnguard Heavy Armor (Shadowsteel Brigandine) - SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/33?tab=files): A port of Dawnguard heavy armor set from Skyrim SE to Enderal SE.
 
-[Enderal SE - Crossbows v1.07](https://www.nexusmods.com/enderalspecialedition/mods/4?tab=files)
+[Enderal SE - Crossbows v1.07](https://www.nexusmods.com/enderalspecialedition/mods/4?tab=files): Adds Crossbows to Enderal SE.
 
-[Unique Enderal Uniques SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/38?tab=files)
+[Unique Enderal Uniques SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/38?tab=files): Enderal SE conversion of Unique Enderal Uniques using SSE nif optimizer.
 
-[Craftsman Tools Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files)
+[Craftsman Tools Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files): Replaces meshes and textures of the crafting tools seen throughout Enderal.
 
-[Ark Easserspeier - Ark Watersprouts (SE) v1.0](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files)
+[Ark Easserspeier - Ark Watersprouts (SE) v1.0](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
 
-[Celtic Endralean Penny v1.0](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files)
+[Celtic Endralean Penny v1.0](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files): A simple mod that replaces the default Endralean Penny Coin with InsanitySorrow's Celtic coin.
 
-[Cannons 2K v1.0](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files)
+[Cannons 2K v1.0](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files): Replaces the cannons and cannon balls with new 2K textures.
 
-[Enderal NPC Overhaul - SE version v2.2](https://www.nexusmods.com/skyrim/mods/85455?tab=files)
+[Enderal NPC Overhaul - SE version v2.2](https://www.nexusmods.com/skyrim/mods/85455?tab=files): 75+ important NPCs are given a unique look, 500+ NPCs are given KS Hairdo's Hair. No esp. Can choose only unique, males or females.
 
-[Kids of Enderal - SE v1.7](https://www.nexusmods.com/skyrim/mods/93432?tab=files)
+[Kids of Enderal - SE v1.7](https://www.nexusmods.com/skyrim/mods/93432?tab=files): Remakes kids in Enderal to look like Skyrim's "The Kids are Alright".
 
-[Tharael as Follower and Housemate v1.0](https://www.nexusmods.com/enderalspecialedition/mods/45?tab=files)
+[Tharael as Follower and Housemate v1.0](https://www.nexusmods.com/enderalspecialedition/mods/45?tab=files): Adds an option to make Tharaêl your companion after completing Dark Chambers of Our Mind (providing that you sided with him and offered to help him).
 
-[Amanda v1.4.2](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files)
+[Amanda v1.4.2](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files): Adds female follower to The Drunken Bee tavern in Riverville.
 
-[Bears of the North v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47541?tab=files)
+[Bears of the North v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47541?tab=files): Visual overhaul of the bears of Skyrim. Bigger, badder bears fit for the harsh northern lands they roam.
 
-[Enderal SE - Bears of the North v1.0](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files)
+[Enderal SE - Bears of the North v1.0](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files): Enderal SE compatibility patch for Bears of the North.
 
-[Creature Replacer Pack v1.1](https://www.nexusmods.com/enderalspecialedition/mods/74?tab=files)
+[Creature Replacer Pack v1.1](https://www.nexusmods.com/enderalspecialedition/mods/74?tab=files): A collection of creature replacers for Enderal converted to SE.
 
-[Enderal - Arp v2.12](https://www.nexusmods.com/enderalspecialedition/mods/36?tab=files)
+[Enderal - Arp v2.12](https://www.nexusmods.com/enderalspecialedition/mods/36?tab=files): Completely redesigned 4K Arps for Enderal SE and VR.
 
-[Enderal - Vatyr v2.21](https://www.nexusmods.com/enderalspecialedition/mods/41?tab=files)
+[Enderal - Vatyr v2.21](https://www.nexusmods.com/enderalspecialedition/mods/41?tab=files): Completely redesigned Vatyr in 4K for Enderal SE and VR.
 
-[Boneripper Replacer (Clannfear) v1.0](https://www.nexusmods.com/enderalspecialedition/mods/59?tab=files)
+[Boneripper Replacer (Clannfear) v1.0](https://www.nexusmods.com/enderalspecialedition/mods/59?tab=files): Replaces the models Bonerippers with high quality alternatives.
 
-[Pus Beetle Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/48?tab=files)
+[Pus Beetle Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/48?tab=files): Replaces the models Pus Beetles with high quality alternatives.
 
-[Ancestral Spirit Replacer (Variant 2)](https://www.nexusmods.com/enderalspecialedition/mods/60?tab=files)
+[Ancestral Spirit Replacer (Variant 2)](https://www.nexusmods.com/enderalspecialedition/mods/60?tab=files): Replaces the models Ancestral Spirits with high quality alternatives.
 
-[Kolapon's Various Creatures Replacers v1.5v](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files)
+[Kolapon's Various Creatures Replacers v1.5v](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
 
-[Kolapon's Undead Creatures Replacer v1.2u](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files)
+[Kolapon's Undead Creatures Replacer v1.2u](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
 
-[Replace spiders with wolfs and bears v1.0.1](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files)
+[Replace spiders with wolfs and bears v1.0.1](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
 ## GAME TWEAKS 
 Recommended game settings are listed below.  Note that the above Wabbajack install has already been pre-configured with the following tweaks which are merely listed for reference.
