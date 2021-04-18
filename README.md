@@ -359,8 +359,7 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 8. Select Git Repository (2nd icon in upper left) 
 9. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
 10. Click RUN icon
-11. Wait for the utility to report "Completed" and close Synthesis
-	- If Synthesis errors out when patching SkyVRaan, try the following:
+11. Wait for the utility to report "Completed" and close Synthesis.  If Synthesis errors out when patching SkyVRaan, try the following:
 	- Select SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher in the left hand bar and set "Mutagen" and "Synthesis" to "Latest".
 	- Click "Skyrim VR" in the top bar.  Under Data Folder Location, enter the following path: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data
 12. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis output and click OK.
