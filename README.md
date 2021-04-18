@@ -1,4 +1,4 @@
-## Table of contents
+#### Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -12,12 +12,14 @@ Minimum:
 * RAM: 8 GB
 * OS: Windows 7/8.1/10 (64-bit versions)
 * VIDEO CARD: Nvidia GeForce GTX 970 / AMD RX 480 8GB or better
+* STORAGE SPACE: 40GB
 
 Recommended:
 * CPU: Intel Core i5-6600K or AMD Ryzen 3600 or better
 * RAM: 16 GB
 * OS: Windows 10 (64-bit versions)
 * VIDEO CARD: Nvidia GeForce GTX 3070 or better
+* STORAGE SPACE: 40GB
 
 ## Requirements
 * [Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/)
