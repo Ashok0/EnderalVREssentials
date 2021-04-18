@@ -128,7 +128,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [SKSEVR 2.0.12](https://skse.silverlock.org)\
 [Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)\
 [Dear Diary - Enderal version v2.2.4](https://www.nexusmods.com/enderal/mods/164?tab=files)\
-*Optionally skip installation for Tab Menu ONLY and extract 'tweenmenu.swf' and overwrite file with same name in above Dear Diary VR mod.\
+* Optionally skip installation for Tab Menu ONLY and extract 'tweenmenu.swf' and overwrite file with same name in above Dear Diary VR mod.\
 [Menu Mouse Fix v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files)\
 [Smaller HUD for VR v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files)\
 [Dot Crosshair VR v0.8](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files)\
