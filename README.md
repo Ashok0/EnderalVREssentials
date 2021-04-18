@@ -61,10 +61,10 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * [Dear Diary VR](https://www.nexusmods.com/skyrimspecialedition/mods/44874):  Custom paper skin for the SkyUI menu.  Disable to revert back to the classic SkyUI.
 * [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726):  Shrinks HUD and text size for added immersion.  Disable if you prefer having a larger HUD and larger font. 
 * [VRIK Rift-Index-WMR Controller Bindings V2.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/23416):  Optional bindings for Rift/Index/WMR controllers. 
-* [Dynamically Disable Eye Adaptation and Bloom](https://www.nexusmods.com/skyrimspecialedition/mods/2135): Eliminates "glowing" effects around light sources.  Disable if you prefer bloom effects in VR.
+* [Dynamically Disable Eye Adaptation and Bloom](https://www.nexusmods.com/skyrimspecialedition/mods/2135): Eliminates "glowing" effects around light sources.  Disable if you prefer bloom.
 * [R.A.S.S.](https://www.nexusmods.com/skyrimspecialedition/mods/22780): Enables weather effects in-game including a raindrop effect during rain storms.  Disable if you dislike these weather effects.
 * [Bijin skin UNP and CBBE](https://www.nexusmods.com/skyrimspecialedition/mods/20078?tab=files): Smoother skin for NPCs with less blemishes.  Disable if you prefer vanilla skin.
-* [Replaces spiders with wolfs and bears](https://www.nexusmods.com/enderal/mods/255).  Removes spiders from game for arachnophobic players.  Disable if you want spiders! 
+* [Replaces spiders with wolfs and bears](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files).  Removes spiders from game for arachnophobic players.  Disable if you want spiders! 
 
 ## Known issues:
 * Your headset and controllers must be active before launching the game or it will not start.
