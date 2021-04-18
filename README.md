@@ -83,25 +83,23 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 ## Scoped bows
 * For scoped bows, open VRIK MCM and disable "Adjust Held Weapons Position"
 * Open INI files and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
-* Press "~" with Enderal VR active on your Windows desktop and enter:  Player.AddItem ######## 1
+* You can add scoped bows to your inventory by pressing "~" with Enderal VR active on your Windows desktop and entering one of the following lines:
 
-i.e.
-
-Player.AddItem 000CC392 1 (Angi's Bow)
-Player.AddItem 000AB705 1 (Bow of the Hunt)
-Player.AddItem 0006B9AD 1 (Dravin's Bow)
-Player.AddItem 00017059 1 (Firiniel's End)
-Player.AddItem 000C0186 1 (Froki's Bow)
-Player.AddItem 000F5D22 1 (Gauldur Blackbow)
-Player.AddItem 000F652C 1 (Nightingale Bow)
+Player.AddItem 000CC392 1 (Angi's Bow)\
+Player.AddItem 000AB705 1 (Bow of the Hunt)\
+Player.AddItem 0006B9AD 1 (Dravin's Bow)\
+Player.AddItem 00017059 1 (Firiniel's End)\
+Player.AddItem 000C0186 1 (Froki's Bow)\
+Player.AddItem 000F5D22 1 (Gauldur Blackbow)\
+Player.AddItem 000F652C 1 (Nightingale Bow)\
 
 ## Supersampling: 
-* Supersampling can be done via in-game Supersampling and Contrast Adaptive Sharpening via The Sharper Eye.  Optimal VR settings = In-game Supersampling disabled.  CAS enabled via The Sharper Eye mod. 
-* If using The Sharper Eye for supersampling, pressing the HOME key with Enderal VR active on your Windows desktop will open the built-in Reshade UI. Here you can adjust the parameters for Contrast Adaptive Sharpening, Contrast, Brightness, and Color Saturation.  Default settings should be optimal for VR.
-* In addition to improving visuals with The Sharper Eye mod, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.  If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  If playing wired on an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  If playing wirelessly in Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.
+* Supersampling can be done via in-game Supersampling and Contrast Adaptive Sharpening (CAS) via The Sharper Eye mod.  For optimal image fidelity and performance, in-game Supersampling should always disabled.  CAS should always be enabled via The Sharper Eye mod. 
+* If using The Sharper Eye mod for supersampling, pressing the HOME key with Enderal VR active on your Windows desktop will open the built-in Reshade UI. Here you can adjust the parameters for CAS, Contrast, Brightness, and Color Saturation.  Default settings should be optimal for VR.
+* In addition to improving visuals with The Sharper Eye mod, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.  If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  If playing wired on an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  If playing wirelessly on the Quest 2 in Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.
 
 ## Game capture:
-* If you want to take screenshots or record footage while in VR, use OBS Studio (https://obsproject.com) with the OBS OpenVR Input Plugin v1.5 (https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in 16:9 at a much higher resolution than what is possible whne capturing the game from either Virtual Desktop or your VR mirror window.
+* If you want to take screenshots or record footage while in VR, use [OBS Studio](https://obsproject.com) with the [OBS OpenVR Input Plugin v1.5](https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in widescreen at a higher resolution than what is possible whne capturing the game from either the Virtual Desktop or SteamVR mirror window.
 
 ## Language Packs:
 Enderal SE supports language packs which allow the game to be played in Chinese, French, German, Italian, Japanese, Korean, Russian, and Spanish.  You can download the packs here:  https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files.  Install the language pack with Mod Organizer 2 and install it with a unique name i.e. "Enderal SE - German Language Pack" and place it underneath "Enderal SE" and "Enderal SE - Update" in your mod loadout.  Finally, edit the following line "sLanguage=ENGLISH" with the preferred language in the following three files:
@@ -117,9 +115,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 * [xSHADOWMANx's Dll Loader v1.0.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/3619?tab=files)
 
 ## MODS --- MOD ORGANIZER 2
-[Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
-
-[Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
+[Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)\
+[Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)\
 
 [Enderal SE - Bug Fixes v1.26.2](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files)
 
