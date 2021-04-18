@@ -313,7 +313,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 5. Open INI files and add this text somewhere under the [VRUI] section: fHUDCompassScale=0.5000 (Decrease compass size)
 6. Open INI files and add this text somewhere under the [VRUI] section: bPlayVRMeleeWorldImpactSounds=0 (Disable impact sounds; Set to "1" if you like the effect.)
 7. Open INI files and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
-8. Open INI files and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks bows for Embers XD)
+8. Open INI files and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks Embers XD)
 9. Open INI files and add this text somewhere under the [VRUI] section to decrease text size: 
 
          fActivateRolloverSecondaryScale=10
