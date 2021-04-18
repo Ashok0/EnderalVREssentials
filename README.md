@@ -126,15 +126,15 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 * C:\ (Your Game Folder)\mods\Enderal VR - Patch\EnderalVRpatch.ini
 
 ## Included Mods (Skyrim VR Installation Folder)
-[SKSE VR v2.0.12](https://skse.silverlock.org)
+[SKSE VR v2.0.12](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
-[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
+[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 
-[Binaural 3D Surround Sound for SKYRIM VR v2.3.01](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=files)
+[Binaural 3D Surround Sound for SKYRIM VR v2.3.01](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=files): This mod uses algorithms that can simulate HRTF, allowing for full 3D surround sound with just a normal pair of earphones or headphones. For 1st person use.
 
-[The Sharper Eye v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/46999/?tab=files)
+[The Sharper Eye v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/46999/?tab=files): Get rid of the blur and grey mist in your headset which are clouding your vision. This VR-enabled ReShade build and preset provide the most performance-friendly sharpening filter for Skyrim VR bundled with a subtle touch of contrast, brightness and saturation. All configurable to your liking.
 
-[xSHADOWMANx's Dll Loader v1.0.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/3619?tab=files)
+[xSHADOWMANx's DLL Loader v1.0.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/3619?tab=files): DLL Loader for Dragonborn Speaks Naturally.
 
 
 ## Included Mods (Mod Organizer 2)
@@ -174,9 +174,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Spell Perk Item Distributor VR v4.4](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files): An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.
 
-[Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files): 
+[Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files): This is just a VERY HACKY compatibility patch thing for creature behaviour edits, Nemesis and Ultimate combat, as more and more mods are coming out effecting creature's behaviours it just makes sense to have something like this instead of it being inside multiple mods
 
-[Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
+[Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files): SKSE plugin that prevents neutral NPCs from turning hostile when you accidentally hit them.
 
 [Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows the player and NPCs to flinch when hit.
 - Requires patching with Nemesis.
@@ -187,17 +187,17 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [HIGGS VR v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand collision, physics object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 
-[Spell Wheel VR v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files)
+[Spell Wheel VR v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
-[NavigateVR v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files)
+[NavigateVR v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass
 
-[DragonbornSpeaksNaturally - Beta v0.21.0-beta](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files)
+[DragonbornSpeaksNaturally - Beta v0.21.0-beta](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 
-[Splashes of Skyrim - VR v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
+[Splashes of Skyrim - VR v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files): SKSE plugin that adds projectile based water splashes and ripples, and underwater explosions.
 
-[HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files)
+[HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on vr controllers.
 
-[Simple Realistic Archery VR v1.26](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files)
+[Simple Realistic Archery VR v1.26](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files): Automatically unequips your arrows after shooting them, then reequips the arrow after pressing the trigger (MCM configurable) over your shoulder. It also has options for binding different arrows to different buttons, for the position and size of the quiver, and options for attribute costs. Up to 25 arrow types can be bound at once.
 
 [Weapon Throw VR v1.3.3](https://www.nexusmods.com/skyrimspecialedition/mods/31374?tab=files): Allows you to throw your equipped weapons in VR by holding a button, swinging your hand, and releasing it. All six melee weapon types, shields and torches are supported. Supports vanilla and mod added weapons. Includes Auto-Return and Auto-Aim features. Comes with an MCM to configure every setting.
 
@@ -207,9 +207,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [No Stagger Mod v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/16335?tab=files): This mod makes your character unstaggerable. 
 
-[Enhanced Ragdoll Accuracy Main File v1.02](https://www.nexusmods.com/skyrimspecialedition/mods/45767?tab=files)
+[Enhanced Ragdoll Accuracy Main File v1.02](https://www.nexusmods.com/skyrimspecialedition/mods/45767?tab=files): Makes in-game humanoid corpses much more believable and immersive through meticulous changes in weight, joints, etc.
 
-[Scoped Bows SE v1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/912?tab=files)
+[Scoped Bows SE v1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/912?tab=files): Scoped Bows is a huge weapons mod that adds scoped variants of all bows to the game, designed to be used without crosshair.
 
 [Scoped VR-1-1-1 v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/16666?tab=files): Scoped Bows Remixed meshes designed for VR.
 
