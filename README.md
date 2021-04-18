@@ -113,7 +113,8 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * In addition to improving visuals with The Sharper Eye, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.
     * If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  
     * If playing wired on an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
-    * If playing wirelessly on the Quest 2 in Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.
+    * If playing wirelessly with Air Link, lock your SteamVR resolution at 100% and increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
+    * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.
 
 ## Game capture
 * If you want to take screenshots or record footage while in VR, use [OBS Studio](https://obsproject.com) with the [OBS OpenVR Input Plugin v1.5](https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in widescreen at a higher resolution than what can be achieved when capturing the game from either the Virtual Desktop or SteamVR mirror window.
@@ -137,54 +138,54 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 
 ## Included Mods (Mod Organizer 2)
-[Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
+[Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Complete Enderal for Skyrim Special Edition.
 
-[Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
+[Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Update for Complete Enderal for Skyrim Special Edition. 
 
-[Enderal SE - Bug Fixes v1.26.2](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files)
+[Enderal SE - Bug Fixes v1.26.2](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 
-[SkyUI v1.0-beta.4](https://github.com/Odie/skyui-vr)
+[SkyUI v1.0-beta.4](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
 
-[JContainers VR v4.1.13](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
+[JContainers VR v4.1.13](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files): Extends Skyrim SE Papyrus scripts (or SKSE/C++ plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.
 
-[moreHUD VR v1.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/33215?tab=files)
+[moreHUD VR v1.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/33215?tab=files): Adds more information to the HUD about the currently targeted object. Such as ingredients, weapon effects, potions, read books, v/w, enemy level, etc.
 
-[SkyrimVRTools v2.3-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files)
+[SkyrimVRTools v2.3-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files): Providing OpenVR input information and control as a service to other Skyrim VR mods.
 
-[Enderal VR - Patch](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files)
+[Enderal VR - Patch](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
 
 [SKSEVR 2.0.12](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
-[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
+[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
 
-[Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)
+[Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files): Replacer for Skyrim interface in a paper style.
 
-[Dear Diary - Enderal version v2.2.4](https://www.nexusmods.com/enderal/mods/164?tab=files)
+[Dear Diary - Enderal version v2.2.4](https://www.nexusmods.com/enderal/mods/164?tab=files):  Updates Dear Diary for Enderal compatability.  Removes "Skills" option from the Tab Menu as this menu is not used by Enderal and will cause the game to crash when accessed if not removed.
 - Install Tab Menu ONLY.
 
-[Menu Mouse Fix v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files)
+[Menu Mouse Fix v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your controllers to control the cursor like a smart tv remote.
 
-[Smaller HUD for VR v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files)
+[Smaller HUD for VR v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements by about 50%.
 
-[Dot Crosshair VR v0.8](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files)
+[Dot Crosshair VR v0.8](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
-[Nemesis Unlimited Behavior Engine v0.84-beta](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases)
+[Nemesis Unlimited Behavior Engine v0.84-beta](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together
 
-[Spell Perk Item Distributor VR v4.4](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)
+[Spell Perk Item Distributor VR v4.4](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files): An SKSE plugin that can be used to add spells/leveled spells/perks/items/leveled items/shouts/packages/outfits to every NPC in the game, using config files.
 
-[Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files)
+[Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files): 
 
 [Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
 
-[Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  Animations won't work if you melee an NPC while while holding a bow.
+[Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows the player and NPCs to flinch when hit.
 - Requires patching with Nemesis.
 
-[VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts)
+[VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body. An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus. An MCM menu allows full configuration of everything.
 
-[VRIK Rift-Index-WMR Controller Bindings V2.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files)
+[VRIK Rift-Index-WMR Controller Bindings V2.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
-[HIGGS VR v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files)
+[HIGGS VR v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand collision, physics object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 
 [Spell Wheel VR v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files)
 
@@ -198,52 +199,52 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Simple Realistic Archery VR v1.26](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files)
 
-[Weapon Throw VR v1.3.3](https://www.nexusmods.com/skyrimspecialedition/mods/31374?tab=files)
+[Weapon Throw VR v1.3.3](https://www.nexusmods.com/skyrimspecialedition/mods/31374?tab=files): Allows you to throw your equipped weapons in VR by holding a button, swinging your hand, and releasing it. All six melee weapon types, shields and torches are supported. Supports vanilla and mod added weapons. Includes Auto-Return and Auto-Aim features. Comes with an MCM to configure every setting.
 
-[Dual Wield Block VR v1.5.2](https://www.nexusmods.com/skyrimspecialedition/mods/28456?tab=files)
+[Dual Wield Block VR v1.5.2](https://www.nexusmods.com/skyrimspecialedition/mods/28456?tab=files): SKSE plugin to let the player block attacks while dual wielding (two weapons or weapon + spell) or unarmed.
 
-[LocationalDamageSKSE VR v0.7.1-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/26447?tab=files)
+[LocationalDamageSKSE VR v0.7.1-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/26447?tab=files): Locational Damage for SKSE VR! Do extra damage depending on which body part you hit with your arrows or spells.
 
-[No Stagger Mod v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/16335?tab=files)
+[No Stagger Mod v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/16335?tab=files): This mod makes your character unstaggerable. 
 
 [Enhanced Ragdoll Accuracy Main File v1.02](https://www.nexusmods.com/skyrimspecialedition/mods/45767?tab=files)
 
 [Scoped Bows SE v1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/912?tab=files)
 
-[Scoped VR-1-1-1 v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/16666?tab=files)
+[Scoped VR-1-1-1 v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/16666?tab=files): Scoped Bows Remixed meshes designed for VR.
 
-[Dynamically Disable Eye Adaptation and Bloom v1.2.0](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files)
+[Dynamically Disable Eye Adaptation and Bloom v1.2.0](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files): Disables the irritating eye adaptation and object blooming through scripting. Compatible with all image space lighting mods!
 
-[Pouring Rain v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/6077?tab=files)
+[Pouring Rain v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/6077?tab=files): Increases rain particles density during raining weathers.
 
-[R.A.S.S - Rain Ash And Snow Shaders v3.2.2](https://www.nexusmods.com/skyrimspecialedition/mods/22780?tab=files)
+[R.A.S.S - Rain Ash And Snow Shaders v3.2.2](https://www.nexusmods.com/skyrimspecialedition/mods/22780?tab=files): "R.A.S.S." adds visual effects to the Player and NPCs during certain conditions.
 
-[SkyVRaan - Shimmering VR Waters v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files)
+[SkyVRaan - Shimmering VR Waters v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
 - Requires patching with Synthesis.
 
-[Storm Lightning for SSE and VR v1.4.9](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files)
+[Storm Lightning for SSE and VR v1.4.9](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files): A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
 
-[Basic Dining Set Replacer 1k v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files)
+[Basic Dining Set Replacer 1k v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files): A mod that replaces the dining set we often see in farmhouses or taverns in skyrim.
 
-[Noble Skyrim FULL PACK Performance Edition v5.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
+[Noble Skyrim FULL PACK Performance Edition v5.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files): Gives all of Skyrim's architecture a complete new look by changing its textures to custom ones. Beside the architecture, several other things, such as landscape, dungeons (ruins, mines, caves etc.), clutter stuff etc. have been re-textured as well, to match the rest of the mod.
 - Recommend placing before other texture packs; Remove "whroughgroundmud.dds".
 
-[Real Mountains Rebuilt v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/3704?tab=files)
+[Real Mountains Rebuilt v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/3704?tab=files): Retexture that enhance the detail of mountains and rocks.
 
-[Tamrielic Textures SE 1 Landscapes 1K v1.4.0](https://www.nexusmods.com/skyrimspecialedition/mods/32973?tab=files)
+[Tamrielic Textures SE 1 Landscapes 1K v1.4.0](https://www.nexusmods.com/skyrimspecialedition/mods/32973?tab=files):  A fresh and complete replacement of all Skyrim landscape textures.
 
-[CC's HQ Caves - 2K v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/8448?tab=files)
+[CC's HQ Caves - 2K v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/8448?tab=files): This is a retexture of the Cavewalls and the Cavefloor. All textures handmade using Substance Designer 6.
 
-[Pine Branches Redone 4K v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files)
+[Pine Branches Redone 4K v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files): Realistic pine branches replacer. All types covered.  Billboards included.
 
-[Embers XD v2.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files)
+[Embers XD v2.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Delete ESP files.
 
 [STO - Stars 2K Only small stars v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/4931?tab=files): Overhauls the stars to 4K from 1K.  Uses small stars only to reduce SDE in nighttime scenes for added immersion.
 
 [Bijin Skin CBBE 2k Based v1.2.1](https://www.nexusmods.com/skyrim/mods/91953?tab=files): One of the female skins.
 
-[Bijin skin Crotch fix CBBE v1.2.2](https://www.nexusmods.com/skyrim/mods/91953?tab=files): One of the female skins.
+[Bijin skin Crotch fix CBBE v1.2.2](https://www.nexusmods.com/skyrim/mods/91953?tab=files): Update for one of the female skins.
 
 [Myths and Legends VI - The Forgotten One v1.01](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): Adds a new Myths and Legends book, a new dungeon, and a completely new creature with unique mechanics.
 
