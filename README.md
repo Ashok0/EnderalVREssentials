@@ -105,10 +105,10 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * If you want to take screenshots or record footage while in VR, use [OBS Studio](https://obsproject.com) with the [OBS OpenVR Input Plugin v1.5](https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in widescreen at a higher resolution than what can be achieved when capturing the game from either the Virtual Desktop or SteamVR mirror window.
 
 ## Language packs
-Enderal SE supports language packs which allow the game to be played in Chinese, French, German, Italian, Japanese, Korean, Russian, and Spanish.  You can download the packs [HERE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Install the language pack via Mod Organizer 2 with a unique name i.e. "Enderal SE - German Language Pack" and place it underneath "Enderal SE" and "Enderal SE - Update" in your mod loadout.  Finally, edit the following line "sLanguage=ENGLISH" with the preferred language in the following three files:
-* C:\<Your Game Folder>\mods\Enderal SE\Enderal - Forgotten Stories.ini
-* C:\<Your Game Folder>\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
-* C:\<Your Game Folder>\mods\Enderal VR - Patch\EnderalVRpatch.ini
+Enderal SE supports language packs which allow the game to be played in Chinese, French, German, Italian, Japanese, Korean, Russian, and Spanish.  You can download the packs [HERE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files).  Install the language pack via Mod Organizer 2 with a unique name i.e. "Enderal SE - German Language Pack" and place it underneath "Enderal SE" and "Enderal SE - Update" in your mod loadout.  Finally, edit the following line "sLanguage=ENGLISH" with the preferred language in the following three files:
+* C:\ (Your Game Folder)\mods\Enderal SE\Enderal - Forgotten Stories.ini
+* C:\ (Your Game Folder)\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
+* C:\ (Your Game Folder)\mods\Enderal VR - Patch\EnderalVRpatch.ini
 
 ## MODS --- SKYRIM INSTALLATION FOLDER
 [SKSE VR v2.0.12](https://skse.silverlock.org)
