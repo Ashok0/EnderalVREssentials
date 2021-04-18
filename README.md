@@ -99,88 +99,171 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 ## MODS --- MOD ORGANIZER 2
 [Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
+
 [Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
 
 [Enderal SE - Bug Fixes v1.26.2](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files)
+
 [SkyUI v1.0-beta.4](https://github.com/Odie/skyui-vr)
+
 [JContainers VR v4.1.13](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
+
 [moreHUD VR v1.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/33215?tab=files)
+
 [SkyrimVRTools v2.3-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files)
+
 [Enderal VR - Patch](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files)
+
 [SKSEVR 2.0.12](https://skse.silverlock.org/
+
 [Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)
+
 [Dear Diary - Enderal version v2.2.4 (Optionally skip installation for Tab Menu ONLY and extract 'tweenmenu.swf' and overwrite file with same name in above Dear Diary VR mod)](https://www.nexusmods.com/enderal/mods/164?tab=files)
+
 [Menu Mouse Fix v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files)
+
 [Smaller HUD for VR v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files)
+
 [Dot Crosshair VR v0.8](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files)
+
 [Nemesis Unlimited Behavior Engine v0.84-beta](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases)
+
 [Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files)
+
 [Spell Perk Item Distributor VR v4.4](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)
+
 [Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
+
 [Flinching for VR Magic can trigger flinching v1.361 (Requires Nemesis)](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files)
+
 [VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts)
+
 [VRIK Rift-Index-WMR Controller Bindings V2.1.0 (optional)](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files)
+
 [HIGGS VR v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files)
+
 [Spell Wheel VR v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files)
+
 [EngineFixesVR v1.20 (MemoryManager = false, SelectAllocator = 1 in EngineFixesVR.ini)](https://github.com/rollingrock/EngineFixesVR/releases)
+
 [HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files)
+
 [Simple Realistic Archery VR v1.26](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files)
+
 [Weapon Throw VR v1.3.3](https://www.nexusmods.com/skyrimspecialedition/mods/31374?tab=files)
+
 [Dual Wield Block VR v1.5.2](https://www.nexusmods.com/skyrimspecialedition/mods/28456?tab=files)
+
 [LocationalDamageSKSE VR v0.7.1-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/26447?tab=files)
+
 [No Stagger Mod v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/16335?tab=files)
+
 [Enhanced Ragdoll Accuracy Main File v1.02](https://www.nexusmods.com/skyrimspecialedition/mods/45767?tab=files)
+
 [Scoped Bows SE v1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/912?tab=files)
+
 [Scoped VR-1-1-1 v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/16666?tab=files)
+
 [NavigateVR v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files)
+
 [Dynamically Disable Eye Adaptation and Bloom v1.2.0](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files)
+
 [DragonbornSpeaksNaturally - Beta v0.21.0-beta](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files)
+
 [Splashes of Skyrim - VR v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
+
 [Pouring Rain v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/6077?tab=files)
-[R.A.S.S - Rain Ash And Snow Shaders v3.2.2](https://www.nexusmods.com/skyrimspecialedition/mods/22780?tab=files )
+
+[R.A.S.S - Rain Ash And Snow Shaders v3.2.2](https://www.nexusmods.com/skyrimspecialedition/mods/22780?tab=files)
+
 [SkyVRaan - Shimmering VR Waters v1.0.1 (requires .NET 5.0 SDK + Synthesis)](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files)
+
 [Storm Lightning for SSE and VR v1.4.9](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files)
+
 [Basic Dining Set Replacer 1k v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files)
+
 [Noble Skyrim FULL PACK Performance Edition v5.5.0 (Recommend placing before other texture packs; Remove "whroughgroundmud.dds")](https://www.nexusmods.com/skyrimspecialedition/mods/21423?tab=files)
+
 [Real Mountains Rebuilt v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/3704?tab=files)
+
 [Tamrielic Textures SE 1 Landscapes 1K v1.4.0](https://www.nexusmods.com/skyrimspecialedition/mods/32973?tab=files)
+
 [CC's HQ Caves - 2K v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/8448?tab=files)
+
 [Pine Branches Redone 4K v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files)
+
 [Embers XD v2.2.1 (delete ESP files)](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files)
+
 [STO - Stars 2K Only small stars v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/4931?tab=files)
+
 [Bijin Skin CBBE 2k Based v1.2.1](https://www.nexusmods.com/skyrim/mods/91953?tab=files)
+
 [Bijin skin Crotch fix CBBE v1.2.2](https://www.nexusmods.com/skyrim/mods/91953?tab=files)
+
 [Myths and Legends VI - The Forgotten One v1.01](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files)
+
 [EOP SE - Enderal SE Outposts v1.01](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files)
+
 [Delectable Docks SE v1.2](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files)
+
 [Riverville Catacombs SE v1.0](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files)
+
 [EAM SE - Enderal Apothecarii Monastery v1.02](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files)
+
 [Kolapon's Undead Creatures Replacer v1.2u](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files)
+
 [Kolapon's Various Creatures Replacers v1.5v](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files)
+
 [Allow Fast Travel v1.1](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files)
+
 [Diverse Weather v1.0](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files)
+
 [Bears of the North v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47541?tab=files)
-[Enderal SE - Bears of the North v1.0](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files) 
+
+[Enderal SE - Bears of the North v1.0](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files)
+
 [Enderal - Arp v2.12](https://www.nexusmods.com/enderalspecialedition/mods/36?tab=files)
+
 [Creature Replacer Pack v1.1](https://www.nexusmods.com/enderalspecialedition/mods/74?tab=files)
+
 [Enderal - Vatyr v2.21](https://www.nexusmods.com/enderalspecialedition/mods/41?tab=files)
+
 [Boneripper Replacer (Clannfear) v1.0](https://www.nexusmods.com/enderalspecialedition/mods/59?tab=files)
+
 [Pus Beetle Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/48?tab=files)
+
 [Ancestral Spirit Replacer (Variant 2)](https://www.nexusmods.com/enderalspecialedition/mods/60?tab=files)
+
 [Ark Easserspeier - Ark Watersprouts (SE) v1.0](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files)
+
 [Storeable Phasmalist Talismans v1.0](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files)
+
 [Celtic Endralean Penny v1.0](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files)
+
 [Cannons 2K v1.0](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files)
+
 [Noble Quarter Player Home Redone v1.02](https://www.nexusmods.com/enderalspecialedition/mods/66?tab=files)
+
 [Enderal SE - Crossbows v1.07](https://www.nexusmods.com/enderalspecialedition/mods/4?tab=files)
+
 [Enderal SE - Undercity Arena Fix v.1.0](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files)
+
 [Craftsman Tools Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files)
+
 [[Unique Armor Sets Replacer Enderal SE v2.1](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files)
+
 [Practical Armor Replacers v1.0](https://www.nexusmods.com/enderalspecialedition/mods/23?tab=files)
-[Dawnguard Heavy Armor (Shadowsteel Brigandine) - SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/33?tab=files )
+
+[Dawnguard Heavy Armor (Shadowsteel Brigandine) - SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/33?tab=files)
+
 [Unique Enderal Uniques SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/38?tab=files)
+
 [Tharael as Follower and Housemate v1.0](https://www.nexusmods.com/enderalspecialedition/mods/45?tab=files)
+
 [Amanda v1.4.2](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files)
+
 [Enderal NPC Overhaul - SE version v2.2](https://www.nexusmods.com/skyrim/mods/85455?tab=files)
+
 [Kids of Enderal - SE v1.7](https://www.nexusmods.com/skyrim/mods/93432?tab=files)
+
 [Replace spiders with wolfs and bears v1.0.1](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files)
