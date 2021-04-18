@@ -82,7 +82,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame.
 
 ## Scoped bows
-* For scoped bows, open VRIK MCM and disable "Adjust Held Weapons Position"
+* For scoped bow aiming to work, open VRIK MCM and disable "Adjust Held Weapons Position"
 * You can add scoped bows to your inventory by pressing "~" with Enderal VR active on your Windows desktop and entering one of the following lines:
 
     * Player.AddItem 000CC392 1 (Angi's Bow)
