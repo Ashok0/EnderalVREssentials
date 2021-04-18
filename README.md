@@ -48,7 +48,7 @@ Recommended:
 Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM).  Most MCM settings can be left as default but the following changes are required:
 * VRIK MCM: 
 1. Disable "Adjust Held Weapons Position". (Fixes scoped bows)
-2. Select Body Holsters > (Scroll down to Left Shoulder Holster) > Untick "Visible" (Prevent your bow from clipping into the edge of your FOV when crouching in real life)  
+2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible" (Prevents your bow from clipping into the edge of your FOV when crouching in real life)  
 
 # YOU'RE ALL DONE!  ENJOY ENDERAL: FORGOTTEN STORIES IN VR!  ALL STEPS BEYOND THIS POINT ARE OPTIONAL.
 
