@@ -12,8 +12,8 @@
 * [Supersampling](#supersampling)
 * [Game capture](#game-capture)
 * [Language packs](#language-packs)
-* [Included Mods - Skyrim VR Installation Folder](#Included-Mods-Skyrim-VR-Installation-Folder)
-* [Included Mods - Mod Organizer 2](#included-mods-mod-organizer-2)
+* [Included Mods (Skyrim VR Installation Folder)](#Included-Mods-Skyrim-VR-Installation-Folder)
+* [Included Mods (Mod Organizer 2)](#included-mods-mod-organizer-2)
 * [Game Tweaks](#game-tweaks)
 
 ## Preamble
