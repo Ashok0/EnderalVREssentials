@@ -159,18 +159,19 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
 
-[Flinching for VR Magic can trigger flinching v1.361 (Requires Nemesis)](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files)
+[Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files)
+- Requires patching with Nemesis
 
 [VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts)
 
-[VRIK Rift-Index-WMR Controller Bindings V2.1.0 (optional)](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files)
+[VRIK Rift-Index-WMR Controller Bindings V2.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files)
 
 [HIGGS VR v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files)
 
 [Spell Wheel VR v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files)
 
-[EngineFixesVR v1.20 (MemoryManager = false, SelectAllocator = 1 in EngineFixesVR.ini)](https://github.com/rollingrock/EngineFixesVR/releases)
--Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1
+[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
+- Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1
 
 [HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files)
 
@@ -202,7 +203,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [R.A.S.S - Rain Ash And Snow Shaders v3.2.2](https://www.nexusmods.com/skyrimspecialedition/mods/22780?tab=files)
 
-[SkyVRaan - Shimmering VR Waters v1.0.1 (requires .NET 5.0 SDK + Synthesis)](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files)
+[SkyVRaan - Shimmering VR Waters v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files)
+- Requires patching with Synthesis
 
 [Storm Lightning for SSE and VR v1.4.9](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files)
 
