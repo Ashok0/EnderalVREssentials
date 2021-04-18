@@ -155,6 +155,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [SKSEVR 2.0.12](https://skse.silverlock.org)
 
+[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
+- Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
+
 [Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)
 
 [Dear Diary - Enderal version v2.2.4](https://www.nexusmods.com/enderal/mods/164?tab=files)
@@ -168,9 +171,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Nemesis Unlimited Behavior Engine v0.84-beta](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases)
 
-[Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files)
-
 [Spell Perk Item Distributor VR v4.4](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)
+
+[Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files)
 
 [Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
 
@@ -185,8 +188,11 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Spell Wheel VR v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files)
 
-[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
-- Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
+[NavigateVR v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files)
+
+[DragonbornSpeaksNaturally - Beta v0.21.0-beta](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files)
+
+[Splashes of Skyrim - VR v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
 
 [HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files)
 
@@ -206,13 +212,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Scoped VR-1-1-1 v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/16666?tab=files)
 
-[NavigateVR v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files)
-
 [Dynamically Disable Eye Adaptation and Bloom v1.2.0](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files)
-
-[DragonbornSpeaksNaturally - Beta v0.21.0-beta](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files)
-
-[Splashes of Skyrim - VR v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/47710?tab=files)
 
 [Pouring Rain v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/6077?tab=files)
 
@@ -253,23 +253,51 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Riverville Catacombs SE v1.0](https://www.nexusmods.com/enderalspecialedition/mods/80?tab=files)
 
+[Noble Quarter Player Home Redone v1.02](https://www.nexusmods.com/enderalspecialedition/mods/66?tab=files)
+
+[Enderal SE - Undercity Arena Fix v.1.0](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files)
+
 [EAM SE - Enderal Apothecarii Monastery v1.02](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files)
-
-[Kolapon's Undead Creatures Replacer v1.2u](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files)
-
-[Kolapon's Various Creatures Replacers v1.5v](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files)
 
 [Allow Fast Travel v1.1](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files)
 
 [Diverse Weather v1.0](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files)
 
+[Storeable Phasmalist Talismans v1.0](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files)
+
+[Unique Armor Sets Replacer Enderal SE v2.1](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files)
+
+[Practical Armor Replacers v1.0](https://www.nexusmods.com/enderalspecialedition/mods/23?tab=files)
+
+[Dawnguard Heavy Armor (Shadowsteel Brigandine) - SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/33?tab=files)
+
+[Enderal SE - Crossbows v1.07](https://www.nexusmods.com/enderalspecialedition/mods/4?tab=files)
+
+[Unique Enderal Uniques SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/38?tab=files)
+
+[Craftsman Tools Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files)
+
+[Ark Easserspeier - Ark Watersprouts (SE) v1.0](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files)
+
+[Celtic Endralean Penny v1.0](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files)
+
+[Cannons 2K v1.0](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files)
+
+[Enderal NPC Overhaul - SE version v2.2](https://www.nexusmods.com/skyrim/mods/85455?tab=files)
+
+[Kids of Enderal - SE v1.7](https://www.nexusmods.com/skyrim/mods/93432?tab=files)
+
+[Tharael as Follower and Housemate v1.0](https://www.nexusmods.com/enderalspecialedition/mods/45?tab=files)
+
+[Amanda v1.4.2](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files)
+
 [Bears of the North v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/47541?tab=files)
 
 [Enderal SE - Bears of the North v1.0](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files)
 
-[Enderal - Arp v2.12](https://www.nexusmods.com/enderalspecialedition/mods/36?tab=files)
-
 [Creature Replacer Pack v1.1](https://www.nexusmods.com/enderalspecialedition/mods/74?tab=files)
+
+[Enderal - Arp v2.12](https://www.nexusmods.com/enderalspecialedition/mods/36?tab=files)
 
 [Enderal - Vatyr v2.21](https://www.nexusmods.com/enderalspecialedition/mods/41?tab=files)
 
@@ -279,37 +307,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Ancestral Spirit Replacer (Variant 2)](https://www.nexusmods.com/enderalspecialedition/mods/60?tab=files)
 
-[Ark Easserspeier - Ark Watersprouts (SE) v1.0](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files)
+[Kolapon's Various Creatures Replacers v1.5v](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files)
 
-[Storeable Phasmalist Talismans v1.0](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files)
-
-[Celtic Endralean Penny v1.0](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files)
-
-[Cannons 2K v1.0](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files)
-
-[Noble Quarter Player Home Redone v1.02](https://www.nexusmods.com/enderalspecialedition/mods/66?tab=files)
-
-[Enderal SE - Crossbows v1.07](https://www.nexusmods.com/enderalspecialedition/mods/4?tab=files)
-
-[Enderal SE - Undercity Arena Fix v.1.0](https://www.nexusmods.com/enderalspecialedition/mods/9?tab=files)
-
-[Craftsman Tools Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files)
-
-[Unique Armor Sets Replacer Enderal SE v2.1](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files)
-
-[Practical Armor Replacers v1.0](https://www.nexusmods.com/enderalspecialedition/mods/23?tab=files)
-
-[Dawnguard Heavy Armor (Shadowsteel Brigandine) - SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/33?tab=files)
-
-[Unique Enderal Uniques SE v2.0](https://www.nexusmods.com/enderalspecialedition/mods/38?tab=files)
-
-[Tharael as Follower and Housemate v1.0](https://www.nexusmods.com/enderalspecialedition/mods/45?tab=files)
-
-[Amanda v1.4.2](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files)
-
-[Enderal NPC Overhaul - SE version v2.2](https://www.nexusmods.com/skyrim/mods/85455?tab=files)
-
-[Kids of Enderal - SE v1.7](https://www.nexusmods.com/skyrim/mods/93432?tab=files)
+[Kolapon's Undead Creatures Replacer v1.2u](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files)
 
 [Replace spiders with wolfs and bears v1.0.1](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files)
 
