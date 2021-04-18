@@ -1,7 +1,18 @@
 ## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Preamble](#general-info)
+* [System Requirements](#technologies)
+* [Requirements](#setup)
+* [Installation](#general-info)
+* [MCM Settings](#technologies)
+* [Noteworthy mods](#setup)
+* [Known issues](#general-info)
+* [Scoped bows](#technologies)
+* [Supersampling](#setup)
+* [Game capture](#technologies)
+* [Language packs](#setup)
+* [Included Mods (Skyrim VR Installation Folder)] (#Skyrim VR Installation Folder)
+* [Included Mods (Mod Organizer 2)] (#Skyrim VR Installation Folder)
+* [Game Tweaks](#game-tweaks)
 
 ## Preamble
 This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stories SE in VR using Wabbajack.  Note that the ONLY game you need installed on Steam is Skyrim VR.  The new Steam edition of Enderal SE is for flatscreen gaming only.  While VR cannot be added to the Steam edition of Enderal SE, Skyrim VR can be "modded" to successfully load Enderal SE in VR!
@@ -110,7 +121,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 * C:\ (Your Game Folder)\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
 * C:\ (Your Game Folder)\mods\Enderal VR - Patch\EnderalVRpatch.ini
 
-## MODS --- SKYRIMVR INSTALLATION FOLDER
+## Included Mods (Skyrim VR Installation Folder)
 [SKSE VR v2.0.12](https://skse.silverlock.org)
 
 [EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
@@ -122,7 +133,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [xSHADOWMANx's Dll Loader v1.0.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/3619?tab=files)
 
 
-## MODS --- MOD ORGANIZER 2
+## Included Mods (Mod Organizer 2)
 [Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
 
 [Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
