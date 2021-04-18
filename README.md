@@ -391,6 +391,7 @@ Required Mod Load Order (left side):
 * moreHUD VR 
 * SkyrimVRTools
 * Enderal VR patch
+* (everything else)
 
 Required Mod Load Order (right side):
 * Enderal Forgotten Stories.esm
