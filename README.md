@@ -281,7 +281,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Craftsman Tools Replacer v1.0](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files)
 
-[[Unique Armor Sets Replacer Enderal SE v2.1](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files)
+[Unique Armor Sets Replacer Enderal SE v2.1](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files)
 
 [Practical Armor Replacers v1.0](https://www.nexusmods.com/enderalspecialedition/mods/23?tab=files)
 
