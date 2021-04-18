@@ -4,10 +4,9 @@
 * [Setup](#setup)
 
 ## General info
-The following guide describes how to setup Enderal: Forgotten Stories SE for Skyrim VR using Wabbajack.  Wabbajack simplifies the process of downloading all the required mods and patches necessary to play Enderal VR to a single click.  This guide uses a lightweight modlist designed to deliver an optimal VR experience with minimal performance loss.  This modlist was optimized for Virtual Desktop and should perform extremely well when playing the game wirelessly.  Special thanks to the Enderal SE modding team and sasa2727 for the VR patch which makes this guide possible!
+The following guide describes how to setup Enderal: Forgotten Stories SE with Skyrim VR using Wabbajack.  Wabbajack simplifies the process of downloading all the required mods and patches necessary to play Enderal SE in VR to a single click.  This guide uses a lightweight modlist designed to deliver an optimal VR experience with minimal performance loss.  This modlist was optimized for Virtual Desktop and should perform extremely well when playing the game wirelessly.  Special thanks to the Enderal SE modding team and sasa2727 for the VR patch which makes this guide possible!
 	
 ## Requirements
-Project is created with:
 * [Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/)
 * [Enderal SE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
 * [Wabbajack](https://www.wabbajack.org/#/)
@@ -29,19 +28,16 @@ Project is created with:
 11. Launch Mod Organizer 2.  Make sure "SKSE" is selected in the upper left dropdown bar and click "Run" to launch and play Enderal VR!  
 
 ## MCM Settings
-* Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM).  Most MCM settings can be left as default but the following changes are required:
-** VRIK MCM: 
+Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM).  Most MCM settings can be left as default but the following changes are required:
+* VRIK MCM: 
 1. Disable "Adjust Held Weapons Position". (Fixes scoped bows)
 2. Select Body Holsters > (Scroll down to Left Shoulder Holster) > Untick "Visible" (Prevent your bow from clipping into the edge of your FOV when crouching in real life)  
 
-****************************************************************************************************************
-*                                                                                                              *   
-*     YOU'RE ALL DONE!  ENJOY ENDERAL: FORGOTTEN STORIES IN VR!  ALL STEPS BEYOND THIS POINT ARE OPTIONAL.     * 
-*                                                                                                              * 
-****************************************************************************************************************
+### YOU'RE ALL DONE!  ENJOY ENDERAL: FORGOTTEN STORIES IN VR!  ALL STEPS BEYOND THIS POINT ARE OPTIONAL.
 
 
-Noteworthy mods:
+
+## Noteworthy mods:
 * Dear Diary VR and Dear Diary:  Custom paper skin for the SkyUI menu.  Disable to revert back to the classic SkyUI.
 * Smaller HUD for VR:  Shrinks HUD and text size for added immersion.  Disable if you prefer having a larger HUD and larger font. 
 * VRIK
@@ -50,7 +46,7 @@ Noteworthy mods:
 * Bijin skin UNP and CBBE: Smoother skin for NPCs with less blemishes.  Disable if you prefer vanilla skin.
 * Replaces spiders with wolfs and bears.  Removes spiders from game for arachnophobic players.  Disable if you want spiders! 
 
-Known issues:
+## Known issues:
 * Your headset and controllers must be active before launching the game or it will not start.
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop.
 * No body during tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
@@ -69,7 +65,9 @@ Known issues:
 * For scoped bows, open VRIK MCM and disable "Adjust Held Weapons Position"
 * Open INI files and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
 * Press "~" with Enderal VR active on your Windows desktop and enter:  Player.AddItem ######## 1
+
 i.e.
+
 Player.AddItem 000CC392 1 (Angi's Bow)
 Player.AddItem 000AB705 1 (Bow of the Hunt)
 Player.AddItem 0006B9AD 1 (Dravin's Bow)
@@ -87,16 +85,15 @@ Player.AddItem 000F652C 1 (Nightingale Bow)
 * If you want to take screenshots or record footage while in VR, use OBS Studio (https://obsproject.com) with the OBS OpenVR Input Plugin v1.5 (https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in 16:9 at a much higher resolution than what is possible whne capturing the game from either Virtual Desktop or your VR mirror window.
 
 ## Language Packs:
-* Enderal SE supports language packs which allow the game to be played in Chinese, French, German, Italian, Japanese, Korean, Russian, and Spanish.  You can download the packs here:  https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files.  Install the language pack with Mod Organizer 2 and install it with a unique name i.e. "Enderal SE - German Language Pack" and place it underneath "Enderal SE" and "Enderal SE - Update" in your mod loadout.  Finally, edit the following line "sLanguage=ENGLISH" with the preferred language in the following three files:
-** C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal SE\Enderal - Forgotten Stories.ini
-** C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
-** C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal VR - Patch\EnderalVRpatch.ini
+Enderal SE supports language packs which allow the game to be played in Chinese, French, German, Italian, Japanese, Korean, Russian, and Spanish.  You can download the packs here:  https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files.  Install the language pack with Mod Organizer 2 and install it with a unique name i.e. "Enderal SE - German Language Pack" and place it underneath "Enderal SE" and "Enderal SE - Update" in your mod loadout.  Finally, edit the following line "sLanguage=ENGLISH" with the preferred language in the following three files:
+* C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal SE\Enderal - Forgotten Stories.ini
+* C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
+* C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal VR - Patch\EnderalVRpatch.ini
 
 ## MODS --- SKYRIM INSTALLATION FOLDER
-* [The Elder Scrolls V - Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/)
 * [SKSE VR v2.0.12](https://skse.silverlock.org/)
 * [EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
-* [Binaural 3D Surround Sound for SKYRIM VR v2.3.01]: https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=files)
+* [Binaural 3D Surround Sound for SKYRIM VR v2.3.01](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=files)
 * [The Sharper Eye v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/46999/?tab=files)
 * [xSHADOWMANx's Dll Loader v1.0.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/3619?tab=files)
 
