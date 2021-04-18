@@ -110,41 +110,58 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 * C:\Users\[Username]\AppData\Local\ModOrganizer\Skyrim VR\mods\Enderal VR - Patch\EnderalVRpatch.ini
 
 ## MODS --- SKYRIM INSTALLATION FOLDER
-[SKSE VR v2.0.12](https://skse.silverlock.org/)\
-[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)\
-[Binaural 3D Surround Sound for SKYRIM VR v2.3.01](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=files)\
-[The Sharper Eye v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/46999/?tab=files)\
-[xSHADOWMANx's Dll Loader v1.0.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/3619?tab=files)\
+[SKSE VR v2.0.12](https://skse.silverlock.org)
+
+[EngineFixesVR v1.20](https://github.com/rollingrock/EngineFixesVR/releases)
+
+[Binaural 3D Surround Sound for SKYRIM VR v2.3.01](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=files)
+
+[The Sharper Eye v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/46999/?tab=files)
+
+[xSHADOWMANx's Dll Loader v1.0.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/3619?tab=files)
+
 
 ## MODS --- MOD ORGANIZER 2
-[Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)\
-[Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)\
-[Enderal SE - Bug Fixes v1.26.2](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files)\
-[SkyUI v1.0-beta.4](https://github.com/Odie/skyui-vr)\
-[JContainers VR v4.1.13](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)\
-[moreHUD VR v1.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/33215?tab=files)\
-[SkyrimVRTools v2.3-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files)\
-[Enderal VR - Patch](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files)\
-[SKSEVR 2.0.12](https://skse.silverlock.org)\
-[Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)\
-[Dear Diary - Enderal version v2.2.4](https://www.nexusmods.com/enderal/mods/164?tab=files)\
-* Optionally skip installation for Tab Menu ONLY and extract 'tweenmenu.swf' and overwrite file with same name in above Dear Diary VR mod.\
+[Enderal SE](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
 
-[Menu Mouse Fix v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files)\
-[Smaller HUD for VR v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files)\
-[Dot Crosshair VR v0.8](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files)\
+[Enderal SE Update](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files)
 
-[Nemesis Unlimited Behavior Engine v0.84-beta](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases)\
+[Enderal SE - Bug Fixes v1.26.2](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files)
 
-[Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files)\
+[SkyUI v1.0-beta.4](https://github.com/Odie/skyui-vr)
 
-[Spell Perk Item Distributor VR v4.4](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)\
+[JContainers VR v4.1.13](https://www.nexusmods.com/skyrimspecialedition/mods/16495?tab=files)
 
-[Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)\
+[moreHUD VR v1.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/33215?tab=files)
 
-[Flinching for VR Magic can trigger flinching v1.361 (Requires Nemesis)](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files)\
+[SkyrimVRTools v2.3-BETA](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files)
 
-[VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts)\
+[Enderal VR - Patch](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files)
+
+[SKSEVR 2.0.12](https://skse.silverlock.org)
+
+[Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files)
+
+[Dear Diary - Enderal version v2.2.4](https://www.nexusmods.com/enderal/mods/164?tab=files)
+- Optionally skip installation for Tab Menu ONLY and extract 'tweenmenu.swf' and overwrite file with same name in above Dear Diary VR mod.
+
+[Menu Mouse Fix v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files)
+
+[Smaller HUD for VR v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files)
+
+[Dot Crosshair VR v0.8](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files)
+
+[Nemesis Unlimited Behavior Engine v0.84-beta](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases)
+
+[Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files)
+
+[Spell Perk Item Distributor VR v4.4](https://www.nexusmods.com/skyrimspecialedition/mods/36869?tab=files)
+
+[Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
+
+[Flinching for VR Magic can trigger flinching v1.361 (Requires Nemesis)](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files)
+
+[VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts)
 
 [VRIK Rift-Index-WMR Controller Bindings V2.1.0 (optional)](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files)
 
