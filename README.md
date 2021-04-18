@@ -177,7 +177,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [Simple Offence Suppression - VR v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/41764?tab=files)
 
-[Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files)
+[Flinching for VR Magic can trigger flinching v1.361](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.
 - Requires patching with Nemesis.
 
 [VRIK V0.8.1. In-Dev Build 28](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts)
