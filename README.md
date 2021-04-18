@@ -84,12 +84,12 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * For scoped bows, open VRIK MCM and disable "Adjust Held Weapons Position"
 * You can add scoped bows to your inventory by pressing "~" with Enderal VR active on your Windows desktop and entering one of the following lines:
 
-    * Player.AddItem 000CC392 1 (Angi's Bow)\
-    * Player.AddItem 000AB705 1 (Bow of the Hunt)\
-    * Player.AddItem 0006B9AD 1 (Dravin's Bow)\
-    * Player.AddItem 00017059 1 (Firiniel's End)\
-    * Player.AddItem 000C0186 1 (Froki's Bow)\
-    * Player.AddItem 000F5D22 1 (Gauldur Blackbow)\
+    * Player.AddItem 000CC392 1 (Angi's Bow)
+    * Player.AddItem 000AB705 1 (Bow of the Hunt)
+    * Player.AddItem 0006B9AD 1 (Dravin's Bow)
+    * Player.AddItem 00017059 1 (Firiniel's End)
+    * Player.AddItem 000C0186 1 (Froki's Bow)
+    * Player.AddItem 000F5D22 1 (Gauldur Blackbow)
     * Player.AddItem 000F652C 1 (Nightingale Bow)
 
 ## Supersampling: 
