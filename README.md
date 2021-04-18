@@ -44,7 +44,7 @@ Recommended:
 9.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 10.  Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
 11. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
-12. Launch Mod Organizer 2.  Make sure "SKSE" is selected in the upper left dropdown bar and click "Run" to launch and play Enderal VR!  
+12. Launch Mod Organizer 2.  Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 
 ## MCM Settings
 Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM).  Most MCM settings can be left as default but the following changes are required:
