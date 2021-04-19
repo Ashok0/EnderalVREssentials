@@ -60,7 +60,7 @@ Recommended:
 12. Launch Mod Organizer 2.  Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 
 ## MCM Settings
-Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM).  Most MCM settings can be left as default but the following changes are recommended:
+Once you start a new game, you can configure your individual Enderal VR mods through the in-game Mod Configuration Menu (MCM) which is accessible under System > Mod Configuration.  Most MCM settings can be left as default but the following changes are recommended:
 * VRIK MCM: 
 1. Disable "Adjust Held Weapons Position". (Fixes scoped bows)
 2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible" (Prevents your bow from clipping into the edge of your FOV when crouching in real life)  
