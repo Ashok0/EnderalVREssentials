@@ -125,7 +125,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 [**Bijin Skin CBBE 2k Based**](https://www.nexusmods.com/skyrimspecialedition/mods/20078?tab=files): Smoother skin for NPCs with less blemishes.  Disable if you prefer vanilla skin.
 
-[**Replace spiders with wolfs and bears**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.Enable if you have arachnophobia! 
+[**Replace spiders with wolfs and bears**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.  Enable if you have arachnophobia! 
 
 ## Known issues
 * Your headset and controllers must be active before launching the game or it will not start.
