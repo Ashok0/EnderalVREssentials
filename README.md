@@ -33,8 +33,9 @@ Recommended:
 * CPU: Intel Core i7-4790 or AMD Ryzen 5 1500X or better
 * RAM: 8 GB
 * OS: Windows 10 (64-bit versions)
-* GPU: Nvidia GeForce GTX 3070 or better
+* GPU: Nvidia GeForce GTX 1070 8GB or better
 * STORAGE: 40GB
+* ROUTER: 802.11ac or 802.11ax (for Virtual Desktop or Air Link; optional) 
 
 ## Requirements
 * [The Elder Scrolls V: Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/)
