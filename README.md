@@ -162,7 +162,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
     * If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  
     * If playing wired on an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
     * If playing wirelessly with Air Link, lock your SteamVR resolution at 100% and increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
-    * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.
+    * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.  You can also experiment with toggling Video Buffering ON and OFF.
 
 ## Game capture
 * If you want to take screenshots or record footage while in VR, use [OBS Studio](https://obsproject.com) with the [OBS OpenVR Input Plugin v1.5](https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in widescreen at a higher resolution than what can be achieved when capturing the game from either the Virtual Desktop or SteamVR mirror window.
