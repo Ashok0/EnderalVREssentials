@@ -287,6 +287,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Pine Branches Redone 4K v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files): Realistic pine branches replacer. All types covered.  Billboards included.
 
+[**Static Mushrooms  - High Poly**](https://www.nexusmods.com/enderal/mods/196): Many animated/interactive/static mushrooms across Enderal are high poly now.
+- MUST be run through Cathedral Assests Optimizer with the following settings:  SSE Profile, Process Meshes, Full optimization, Always process headparts.
+
 [**Embers XD v2.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Delete ESP files.
 
