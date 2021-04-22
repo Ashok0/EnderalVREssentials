@@ -163,7 +163,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * In addition to improving visuals with The Sharper Eye, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.
     * If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  
     * If playing wired with an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
-    * If playing wirelessly with Air Link, lock your SteamVR resolution at 100% and increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
+    * If playing wirelessly with Air Link, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
     * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.  You can also experiment with toggling Video Buffering ON and OFF.
 
 ## Game capture
@@ -375,7 +375,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 Recommended game settings are listed below.  Note that the above Wabbajack install has already been pre-configured with the following tweaks which are merely listed for reference.
 
 ### INI Settings
-* INI files are found in C:\ (Your Game Folder)\profiles\Default
+* INI files are found in C:\ (Your Game Folder)\profiles\Enderal VR Essentials
 * These INI files will override any vanilla INI files which are stored in: C:\Users\ (Username)\Documents\My Games\Skyrim VR\  
 * Recommended INI settings: 
 1. Open INI files and add this text somewhere under the [Launcher] section: bEnableFileSelection=1 (Enables mods)
@@ -388,22 +388,14 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 8. Open INI files and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks Embers XD)
 9. Open INI files and add this text somewhere under the [VRUI] section to decrease text size: 
 
-         fActivateRolloverSecondaryScale=10
-	 
-         fActivateRolloverSecondaryZ=0
-	 
-         fActivateRolloverSecondaryY=0
-	 
-         fActivateRolloverPrimaryScale=10
-	 
-         fActivateRolloverPrimaryZ=0
-	 
-         fActivateRolloverPrimaryY=0
-	 
-         fActivateRolloverWandScale=10.0000 
-	 
-         fActivateRolloverSecondaryScale=10.0000
-	 
+         fActivateRolloverSecondaryScale=10	 
+         fActivateRolloverSecondaryZ=0	 
+         fActivateRolloverSecondaryY=0	 
+         fActivateRolloverPrimaryScale=10	 
+         fActivateRolloverPrimaryZ=0	 
+         fActivateRolloverPrimaryY=0	 
+         fActivateRolloverWandScale=10.0000 	 
+         fActivateRolloverSecondaryScale=10.0000	 
          fActivateRolloverPrimaryScale=10.0000
  
 ### In-Game Settings
