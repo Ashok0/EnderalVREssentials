@@ -134,6 +134,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * The loading screens are broken and no artwork shows up unless TAA is enabled.  TAA should always be disabled, however, as enabling TAA will always cause in-game blur even when tweaked.
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
 * You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
+* There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship to view the menu.
 * Interrupting and cancelling dialogue with NPCs prematurely with the triggers on your VR controllers may soft lock your game as you will be unable to continue quest related conversations.  A previous saved game must be loaded to continue.
 * If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
 * Loading saved games during the opening tutorial may cause VRIK to glitch out.
