@@ -137,7 +137,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * Interrupting and cancelling dialogue with NPCs prematurely with the triggers on your VR controllers may soft lock your game as you will be unable to continue quest related conversations.  A previous saved game must be loaded to continue.
 * If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
 * Loading saved games during the opening tutorial may cause VRIK to glitch out.
-* If you need to reset your height in-game, do not run "Floor Fix" thru Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
+* If you need to reset your height in-game, do not run "Floor Fix" through Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
 * If you are playing wirelessly on the Quest 2, you may see a subtle "rectangular box" around the edges of the view where the image becomes blurry outside of the rectangle.  This effect is normal and is caused by foveation used by Virtual Desktop when streaming Enderal VR wirelessly.
 * If you have trouble selecting ingredients at alchemy benches, on your left controller be sure to tap the analog stick to the right which should allow you to select ingredients for crafting.
 * If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod. 
@@ -161,7 +161,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * When using The Sharper Eye for supersampling, pressing the HOME key with Enderal VR active on your Windows desktop will open the built-in Reshade UI. Here you can adjust the parameters for CAS, Contrast, Brightness, and Color Saturation.  Default settings should be optimal for VR.
 * In addition to improving visuals with The Sharper Eye, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.
     * If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  
-    * If playing wired on an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
+    * If playing wired with an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
     * If playing wirelessly with Air Link, lock your SteamVR resolution at 100% and increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
     * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled.  You can also experiment with toggling Video Buffering ON and OFF.
 
@@ -210,7 +210,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06**](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files): Replacer for Skyrim interface in a paper style.
 
-[**Dear Diary - Enderal version v2.2.4**](https://www.nexusmods.com/enderal/mods/164?tab=files):  Updates Dear Diary for Enderal compatability.  Removes "Skills" option from the Tab Menu as this menu is not used by Enderal and will cause the game to crash when accessed if not removed.
+[**Dear Diary - Enderal version v2.2.4**](https://www.nexusmods.com/enderal/mods/164?tab=files):  Updates Dear Diary for Enderal compatibility.  Removes "Skills" option from the Tab Menu as this menu is not used by Enderal and will cause the game to crash when accessed if not removed.
 - Install Tab Menu ONLY.
 
 [**Menu Mouse Fix v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your controllers to control the cursor like a smart tv remote.
@@ -289,7 +289,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Pine Branches Redone 4K v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files): Realistic pine branches replacer. All types covered.  Billboards included.
 
 [**Static Mushrooms  - High Poly**](https://www.nexusmods.com/enderal/mods/196): Many animated/interactive/static mushrooms across Enderal are high poly now.
-- MUST be run through Cathedral Assests Optimizer with the following settings:  SSE Profile, Process Meshes, Full optimization, Always process headparts.
+- MUST be run through Cathedral Assets Optimizer with the following settings:  SSE Profile, Process Meshes, Full optimization, Always process headparts.
 
 [**Embers XD v2.2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Delete ESP files.
@@ -336,9 +336,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Ark Easserspeier - Ark Watersprouts (SE) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
 
-[**Celtic Endralean Penny v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files): A simple mod that replaces the default Endralean Penny Coin with InsanitySorrow's Celtic coin.
+[**Celtic Endralean Penny v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files): A simple mod that replaces the default Enderalean Penny Coin with InsanitySorrow's Celtic coin.
 
-[**Cannons 2K v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files): Replaces the cannons and cannon balls with new 2K textures.
+[**Cannons 2K v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files): Replaces the cannons and cannonballs with new 2K textures.
 
 [**Enderal NPC Overhaul - SE version v2.2**](https://www.nexusmods.com/skyrim/mods/85455?tab=files): 75+ important NPCs are given a unique look, 500+ NPCs are given KS Hairdo's Hair. No esp. Can choose only unique, males or females.
 
@@ -409,7 +409,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 1. Set Movement speed to 50%
 2. Activate "Physical Sneaking" and "Realistic Bow Aiming"
 3. Disable "FOV Filter when Moving"
-4. Set Super sampling slider to minimum (all the way left)
+4. Set Supersampling slider to minimum (all the way left)
 5. Disable Dynamic Resolution
 6. Disable Temporal AA
 7. Disable Foliage Shadows
@@ -434,7 +434,7 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 	- Select SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher in the left hand bar and set "Mutagen" and "Synthesis" to "Latest".
 	- Click "Skyrim VR" in the top bar.  Under Data Folder Location, enter the following path: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data
 12. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis output and click OK.
-13. Tick "Synthesis output" in left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane.  
+13. Tick "Synthesis output" in the left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane.  
 14. Revert the upper right dropdown bar back to "SKSE".
 15. You may need to re-run this process if you change your load order.
 
@@ -443,12 +443,12 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 1. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\Nemesis_Engine > Select Nemesis Unlimited Behavior Engine.exe > OK
 2. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
 3. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
-4. Click OK for both Warning popups
+4. Click OK for both Warning pop-ups
 5. Click "Update Engine"
 6. Tick the "Flinching Animations" option and click "Launch Nemesis Behavior Engine"
 7. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.
 8. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis output and click OK.
-9. Tick "Nemesis output" in left window pane. 
+9. Tick "Nemesis output" in the left window pane. 
 10. Revert the upper right dropdown bar back to "SKSE".
 11. You may need to re-run this process if you change your load order.
 
