@@ -83,7 +83,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 [**Menu Mouse Fix**](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your VR controllers to control the menu cursor like a laser pointer.
 
-[**Smaller HUD for VR**](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements and text by about 50% for added immmersion.  Disable if you prefer having a larger HUD or larger font size.
+[**Smaller HUD for VR**](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  Disable if you prefer having a larger HUD or larger font size.
 
 [**Flinching for VR Magic can trigger flinching**](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows NPCs to flinch when hit by your right fist or melee weapons in either hand.  Flinching animations do not work if you have ranged weapons such as a bow equipped.
 
