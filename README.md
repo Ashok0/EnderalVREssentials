@@ -46,7 +46,7 @@ Recommended:
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
-2.  Install a clean copy of Skyrim VR from [HERE](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/).
+2.  Install a &#x1F53A; clean copy &#x1F53A; of Skyrim VR from [HERE](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/).
 	- If you already have a pre-modded Skyrim VR folder and do not wish to uninstall the vanilla game, you can rename your \SkyrimVR\ folder and then redownload a second clean copy of the game from Steam by reverifying the files.  You can then use one copy of the game to continue playing Skyrim VR along with a second copy of the game for playing Enderal VR.
 3.  Run Skyrim VR one time from Steam and then exit the game.
 4.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
@@ -135,7 +135,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
 * You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
 * There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship to view the menu.
-* Interrupting and cancelling dialogue with NPCs prematurely with the triggers on your VR controllers may soft lock your game as you will be unable to continue quest related conversations.  A previous saved game must be loaded to continue.
+* &#x1F53A; Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. &#x1F53A; 
 * If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
 * Loading saved games during the opening tutorial may cause VRIK to glitch out.
 * If you need to reset your height in-game, do not run "Floor Fix" through Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
