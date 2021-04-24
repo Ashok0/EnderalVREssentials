@@ -144,7 +144,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod. 
 * If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
 * Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
-* Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame.
+* &#x1F53A; Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame. &#x1F53A;
 
 ## Scoped bows
 * For scoped bow aiming to work, open VRIK MCM and disable "Adjust Held Weapons Position"
