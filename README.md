@@ -491,7 +491,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated.  While DynDOLO
 	- [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) (Scripts folder only)
 	- [PapyrusUtil VR - Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files) (Under "Miscellaneous Files")
 	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
-4. Download [DynDOLOD Standalone 3.0 Alpha-33](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', User, Documents, Desktop, Download and also not in SteamApps, game or any mod manager folders.
+4. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', User, Documents, Desktop, Download and also not in SteamApps, game or any mod manager folders.
 5. Launch Mod Organizer 2.
 	- Select Tools > Executables  
 	- Select the "Add from file..." icon (with the + symbol) > Navigate to "TexGenx64.exe" in the folder created in Step 4 and select Open.  Type -tes5vr under "Arguments" and click "Apply".  
