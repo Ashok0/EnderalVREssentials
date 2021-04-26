@@ -56,7 +56,7 @@ Recommended:
 7.  Launch Wabbajack by double-clicking "Enderal VR Essentials.wabbajack"
 8.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 9.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
-	* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
+	* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again or use my alternate Google Repack installation [HERE](https://github.com/Ashok0/EnderalVR).
 10. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
 11. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
 12. Launch Mod Organizer 2.  Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
@@ -327,7 +327,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Rustic Windows - Special Edition v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1937): This mod retextures the Skyrim and Dragonborn windows in a lore-friendly way. The window glass has been revised to be thick, textured and insulating. The "opaque" nature of the glass has a purpose. 2K and 1K versions.
 
-[**Vanilla Table Replacers v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/33041): Replaces some tables of the game specially the main tables for nobles
+[**Vanilla Table Replacers v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/33041): Replaces some tables of the game specially the main tables for nobles.
 
 [**Bijin Skin CBBE 2k Based v1.2.1**](https://www.nexusmods.com/skyrim/mods/91953?tab=files): One of the female skins.
 
