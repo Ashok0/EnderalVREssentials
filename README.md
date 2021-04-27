@@ -81,7 +81,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 [**DynDOLOD**](https://www.nexusmods.com/skyrimspecialedition/mods/32382/?tab=files): Adds distant LOD for objects and trees to Skyrim.  When looking across the horizon in large open areas, this mod allows you to see FAR more detail than what is possible with the vanilla game, even with in-game LOD settings set to max.
 
-&#x1F53A; SMALL PERFORMANCE DROP --- For lower end GPUs, you may wish to experiment with disabling DynDOLOD by disabling "TxtGen_Output" and "DynDOLOD_Output" in Mod Organizer 2. &#x1F53A;
+&#x1F53A; ##SMALL PERFORMANCE DROP --- For lower end GPUs, you may wish to experiment with disabling DynDOLOD by disabling "TxtGen_Output" and "DynDOLOD_Output" in Mod Organizer 2.## &#x1F53A;
 
 [**Dear Diary VR - Paper SkyUI and Categorized Favorites**](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files): Replacer for Skyrim interface in a paper style.  Disable if you prefer the classic SkyUI interface.
 
