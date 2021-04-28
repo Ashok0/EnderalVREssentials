@@ -66,7 +66,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * VRIK MCM: 
 1. Disable "Adjust Held Weapons Position". (Fixes scoped bows)
 2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible" (Prevents your bow from clipping into the edge of your FOV when crouching in real life)  
-3. Select  
+3. Select Controls > Tick "Selfie mode" if you want to be able to view and take photos of your character in third person.  You can activate and deactivate the third person view by raising your right hand in the air. 
 
 * Spell Wheel VR MCM: 
 1. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
@@ -90,7 +90,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 [**Smaller HUD for VR**](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  Disable if you prefer having a larger HUD or larger font size.
 
-[**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): A complete overhaul to the character creation menu.  Allows you to load custom character "presets".  A fun mod if you want to take pictures of your character in VR using the "VRIK Selfie" mode.
+[**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): A complete overhaul to the character creation menu.  Allows you to load custom character "presets".  A fun mod if you want to take pictures of your character in VR using the VRIK "Selfie mode".
 
 [**Flinching for VR Magic can trigger flinching**](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows NPCs to flinch when hit by your right fist or melee weapons in either hand.  Flinching animations do not work if you have ranged weapons such as a bow equipped.
 
