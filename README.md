@@ -66,6 +66,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * VRIK MCM: 
 1. Disable "Adjust Held Weapons Position". (Fixes scoped bows)
 2. Select Body Holsters > Scroll down to Left Shoulder Holster > Untick "Visible" (Prevents your bow from clipping into the edge of your FOV when crouching in real life)  
+3. Select  
 
 * Spell Wheel VR MCM: 
 1. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
