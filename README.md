@@ -90,7 +90,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 [**Smaller HUD for VR**](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  Disable if you prefer having a larger HUD or larger font size.
 
-[**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): A complete overhaul to the character creation menu.  Allows you to load custom character "presets".  A fun mod if you want to take pictures of your character in VR using the VRIK "Selfie mode".
+[**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): A complete overhaul to the character creation menu.  Allows you to load custom character "presets".  A fun mod if you want to take pictures of your character in VR using the VRIK "Selfie Mode".  To access the RaceMenu window, when in-game and press ~ to access the console.  Enter showracemenu and hit ENTER to bring up the RaceMenu window and then press ~ to exit the console.
 
 [**Flinching for VR Magic can trigger flinching**](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows NPCs to flinch when hit by your right fist or melee weapons in either hand.  Flinching animations do not work if you have ranged weapons such as a bow equipped.
 
@@ -176,7 +176,7 @@ If you wish to use a custom RaceMenu Preset, perform the following steps:
 1. Download the RaceMenu Preset you want from NexusMods and place any ".jslot" files in C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\SKSE\Plugins\CharGen\Presets\.  (You will need to create these folders manually.)
 2. Install any prerequisite mods for your RaceMenu Preset through Mod Organizer 2.
 3. Launch Enderal VR 
-4. Once you are in-game, press "~" to access the console.  Enter showracemenu and hit ENTER to bring up the RaceMenu window and then press "~" to exit the console.
+4. Once you are in-game, press ~ to access the console.  Enter showracemenu and hit ENTER to bring up the RaceMenu window and then press ~ to exit the console.
 5. Click the "Presets" tab in the right panel and then select "Load Preset" on left panel and click the .jslot file for your RaceMenu Preset.   
 6. If your RaceMenu Preset uses High Poly Head, select the "Sliders" tab in the right panel > Select "Head" in the top navigation bar in the left panel > Click "Face Part" in the menu below > Tap your analog stick to the right to select the "High Poly Head" version of your RaceMenu Preset.  This will give you a much higher quality face with no jaggies!
 7. Select Done > Close > Done
@@ -251,7 +251,6 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Dot Crosshair VR v0.8**](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
 [**RaceMenu SE v0.4.16**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
-- Delete "skee64.dll" and "skee64.ini"
 
 [**RaceMenu VR v0.4.14**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): VR patch for RaceMenu.
 
