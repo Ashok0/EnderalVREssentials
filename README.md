@@ -344,7 +344,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Remove Blurry Snowflakes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38358): This mod removes the blurry snowflakes by using a transparent texture. The normal snowflakes are still present.
 
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
-- Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods.
+- Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Smelter Coal" and these are incompatible with Enderal SE.
 
 [**Farmhouse Stonewalls 4K 2K by CleverCharff v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/32582): Replaces ugly farmhouse stonewalls with photorealistic 4K or 2K version. Includes parallax.
 
