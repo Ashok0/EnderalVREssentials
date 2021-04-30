@@ -15,6 +15,7 @@
 * [Included Mods (Skyrim VR Installation Folder)](#Included-Mods-Skyrim-VR-Installation-Folder)
 * [Included Mods (Mod Organizer 2)](#included-mods-mod-organizer-2)
 * [Game Tweaks](#game-tweaks)
+* [Changelog](#changelog)
 
 ## Preamble
 This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stories SE in VR using Wabbajack.  Note that the ONLY version of Skyrim you need is Skyrim VR.  The Steam edition of Enderal SE is based off the Skyrim SE engine which does not support VR.  While it is NOT possible to add VR to Enderal SE, Skyrim VR can be "modded" with Enderal SE's files which will allow you to play through the entire game in VR!
@@ -581,4 +582,5 @@ Required Mod Load Order (right side):
 
 When installing mods, if prompted to extract BSA files, select "No".
 
-## [Changelog](https://github.com/Ashok0/EnderalVREssentials/blob/master/CHANGELOG.md)
+### Changelog
+See [Changelog](https://github.com/Ashok0/EnderalVREssentials/blob/master/CHANGELOG.md)
