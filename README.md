@@ -56,7 +56,7 @@ Recommended:
 8.  Launch Wabbajack by double-clicking "Enderal VR Essentials.wabbajack"
 9.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 10.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
-	- If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again or use my alternate Google Drive Repack installation [HERE](https://github.com/Ashok0/EnderalVR).
+	* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again or use my alternate Google Drive Repack installation [HERE](https://github.com/Ashok0/EnderalVR).
 11. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
 12. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
 13. Launch Mod Organizer 2.  Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
