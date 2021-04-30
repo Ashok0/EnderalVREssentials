@@ -10,6 +10,8 @@
 * [Known issues](#known-issues)
 * [Scoped bows](#scoped-bows)
 * [Supersampling](#supersampling)
+* [Bodypaint](#bodypaint)
+* [RaceMenu Presets](#racemenu-presets)
 * [Game capture](#game-capture)
 * [Language packs](#language-packs)
 * [Included Mods (Skyrim VR Installation Folder)](#Included-Mods-Skyrim-VR-Installation-Folder)
@@ -582,5 +584,5 @@ Required Mod Load Order (right side):
 
 When installing mods, if prompted to extract BSA files, select "No".
 
-### Changelog
+## Changelog
 See [Changelog](https://github.com/Ashok0/EnderalVREssentials/blob/master/CHANGELOG.md)
