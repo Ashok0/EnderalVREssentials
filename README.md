@@ -102,7 +102,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 [**Spell Wheel VR**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.  Be sure to set the "Slow Time Scale" to 5 in the Spell Wheel VR MCM if you want a nice slow motion effect when selecting items from the spell wheel.
 
-[**NavigateVR**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass which is automatically added to your inventory.  While this mod does support equippable in-game maps, there are no available maps for Enderal locations. 
+[**NavigateVR**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass which is automatically added to your inventory.  While this mod does support equippable in-game maps, there are no available maps for Enderal locations. Replaced default Riften map with a map of Ark from "Maps - SE" to keep the map artwork lore friendly to Enderal.
 
 [**DragonbornSpeaksNaturally**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.  Requires no speech training!
 
@@ -133,6 +133,8 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 &#x1F53A; **SMALL PERFORMANCE DROP --- For lower end GPUs, you may wish to experiment with disabling "SkyVRaan - Shimmering VR Waters" in Mod Organizer 2.** &#x1F53A;
 
 [**Storm Lightning for SSE and VR**](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files): A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
+
+[**High Poly Project**](https://www.nexusmods.com/skyrimspecialedition/mods/12029?tab=files): This mod greatly improves visuals by switching out many items and objects with more elaborate 3D versions.  Some of the textures/meshes in this mod are not Enderal VR friendly and will cause purple texture glitches.  All known problematic files have been removed but this mod has been disabled by default due to potential bugs.  It contains no plugins, however, and is safe to use and will not break your saved game.  Feel free to experiment with enabling this mod for better visuals and immersion!
 
 [**Caliente's Beautiful Bodies Enhancer - CBBE**](https://www.nexusmods.com/skyrimspecialedition/mods/198?tab=files): Pre-installed using "Vanilla" body shape with "NeverNude" underwear options.  Improves meshes and textures for your body and hands and gives female NPCs a more feminine form while retaining a lore-friendly Enderal aesthetic.  Disable if you prefer vanilla bodies.  Note that while CBBE bodies can be customized for both the player and NPCs using BodySlide, this tool can cause texture and clipping glitches in Enderal.
 
@@ -274,7 +276,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
 
 [**NavigateVR v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass
-- Replace \textures\NavigateVR\LHandTamrielSettlements.dds and \textures\NavigateVR\RHandTamrielSettlements.dds with maps of your choice from the "Maps - SE" mod to make the default Navigate VR map artwork lore friendly to Enderal.
+- Replace "LHandTamrielSettlements.dds" and "RHandTamrielSettlements.dds" with maps of your choice from the "Maps - SE" mod to make the default Navigate VR map artwork lore friendly to Enderal.
 
 [**DragonbornSpeaksNaturally - Beta v0.21.0-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 
