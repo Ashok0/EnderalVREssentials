@@ -580,3 +580,5 @@ Required Mod Load Order (right side):
 * Synthesis.esp (Generated with the Synthesis utility and should be placed near the bottom) 
 
 When installing mods, if prompted to extract BSA files, select "No".
+
+## [Changelog](https://github.com/Ashok0/EnderalVREssentials/blob/master/CHANGELOG.md)
