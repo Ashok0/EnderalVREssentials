@@ -44,7 +44,7 @@ Recommended:
 * [The Elder Scrolls V: Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/)
 * [Enderal: Forgotten Stories (Special Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
 * [Wabbajack](https://www.wabbajack.org/#/)
-* [Enderal VR Essentials.wabbajack](https://drive.google.com/file/d/13sFAeS4tZOcpeus134k40jzaYedHQIaQ/view?usp=sharing)
+* [Enderal VR Essentials.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
 * [Premium NexusMods account](https://www.nexusmods.com/)
 	
 ## Installation
@@ -55,7 +55,7 @@ Recommended:
 4.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 5.  Run Wabbajack one time and then exit the program.  
 6.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-7.  Download "Enderal VR Modlist.wabbajack" from [HERE](https://drive.google.com/file/d/13sFAeS4tZOcpeus134k40jzaYedHQIaQ/view?usp=sharing) and place it anywhere outside of your Wabbajack folder.
+7.  Download "Enderal VR Modlist.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
 8.  Launch Wabbajack by double-clicking "Enderal VR Essentials.wabbajack"
 9.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 10.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
