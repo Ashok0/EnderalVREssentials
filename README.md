@@ -415,7 +415,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
 
-[**Allow Fast Travel v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
+[**Enderal SE Dynamic Fast Travel v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/16?tab=files): Enables the Fast Travel System for Enderal.
 
 [**Unique Armor Sets Replacer Enderal SE v2.2**](https://www.nexusmods.com/enderalspecialedition/mods/27?tab=files): High-quality and lore friendly replacers for many of Enderal's unique armor sets! Converted with SSE nif optimizer.
 
