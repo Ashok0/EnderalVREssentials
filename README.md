@@ -43,9 +43,9 @@ Recommended:
 ## Requirements
 * [The Elder Scrolls V: Skyrim VR](https://store.steampowered.com/app/611670/The_Elder_Scrolls_V_Skyrim_VR/)
 * [Enderal: Forgotten Stories (Special Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
+* [Premium NexusMods account](https://www.nexusmods.com/)
 * [Wabbajack](https://www.wabbajack.org/#/)
 * [Enderal VR Essentials.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
-* [Premium NexusMods account](https://www.nexusmods.com/)
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
