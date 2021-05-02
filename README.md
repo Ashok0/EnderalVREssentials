@@ -173,6 +173,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 * Loading saved games during the opening tutorial may cause VRIK to glitch out.
 * If you need to reset your height in-game, do not run "Floor Fix" through Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
 * If you are using Virtual Desktop, you may see a subtle "rectangular box" around the edges of the view where the image becomes blurry outside of the rectangle.  This effect is normal and is caused by the foveation used by Virtual Desktop when streaming Enderal VR wirelessly.
+* If you are using Virtual Desktop, Mod Organizer 2 may freeze up when starting a new game if SteamVR is already running.  Selecting "Exit SteamVR" from inside of Virtual Desktop before hitting "Run" in Mod Organizer 2 should fix this issue.
 * If you have trouble selecting ingredients at alchemy benches, on your left controller be sure to tap the analog stick to the right which should allow you to select ingredients for crafting.
 * If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod. 
 * If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
@@ -601,16 +602,16 @@ Required Mod Load Order (left side):
 * Enderal VR patch
 * (everything else)
 
-Required Mod Load Order (right side):
+Required Plugins Load Order (right side):
 * Enderal Forgotten Stories.esm
 * Enderal SE - Bug Fixes.esp
 * SkyUI_SE.esp
 * AHZmoreHUD.esp
 * EnderalVRpatch.esp
-* (everything else; Enderal SE specific mods should be placed near the bottom)
+* (everything else; Enderal SE specific plugins should be placed near the bottom)
 * DynDOLOD.esp (Generated with the DynDOLOD utility and should be placed third to last from the bottom)
 * Synthesis.esp (Generated with the Synthesis utility and should be placed second to last from the bottom) 
-* AllowFastTravel.esp (Must be placed at the very bottom as the above mods alter world space which will break fast traveling) 
+* AllowFastTravel.esp (Must be placed at the very bottom as the above plugins alter world space which will break fast traveling) 
 
 When installing mods, if prompted to extract BSA files, select "No".
 
