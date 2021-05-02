@@ -14,7 +14,8 @@
 * [Bodypaint](#bodypaint)
 * [Game capture](#game-capture)
 * [Language packs](#language-packs)
-* [Included Mods (Skyrim VR Installation Folder)](#Included-Mods-Skyrim-VR-Installation-Folder)
+* [Tools](#tools)
+* [Included Mods and Tools (Skyrim VR Installation Folder)](#Included-Mods-Skyrim-VR-Installation-Folder)
 * [Included Mods (Mod Organizer 2)](#included-mods-mod-organizer-2)
 * [Game Tweaks](#game-tweaks)
 * [Changelog](#changelog)
@@ -233,7 +234,10 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 * C:\ (Your Game Folder)\mods\Enderal SE - Update\Enderal - Forgotten Stories.ini
 * C:\ (Your Game Folder)\mods\Enderal VR\EnderalVRpatch.ini
 
-## Included Mods (Skyrim VR Installation Folder)
+## Tools
+[**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+
+## Included Mods and Tools (Skyrim VR Installation Folder)
 [**SKSE VR v2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
 [**EngineFixesVR v1.20**](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
