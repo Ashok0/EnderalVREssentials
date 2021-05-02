@@ -522,8 +522,22 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 10. Enable "Animated trees"
 11. Distance sliders are set to: Item 20%, Actor 20%, Objects 40%, Grass 100%
 
+### Flinching Configuration 
+Flinching adds flinching animations.  NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  Flinching has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
+1. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\Nemesis_Engine > Select Nemesis Unlimited Behavior Engine.exe > OK
+2. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
+3. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
+4. Click OK for both Warning pop-ups
+5. Click "Update Engine"
+6. Tick the "Flinching Animations" option and click "Launch Nemesis Behavior Engine"
+7. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.
+8. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis output and click OK.
+9. Tick "Nemesis output" in the left window pane. 
+10. Revert the upper right dropdown bar back to "SKSE".
+11. You may need to re-run this process if you change your load order.
+
 ### SkyVRaan Configuration 
-SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
+SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after DynDOLOD if using DynDOLOD.
 1. Close Mod Organizer 2 if open
 2. Create a blank Skyrim.ini file in C:\Users\ (Username)\Documents\My Games\Skyrim VR\
 3. Install .NET SDK 5.0 and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
@@ -541,20 +555,6 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 13. Tick "Synthesis output" in the left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane.  
 14. Revert the upper right dropdown bar back to "SKSE".
 15. You may need to re-run this process if you change your load order.
-
-### Flinching Configuration 
-Flinching adds flinching animations.  NPCs will react with an animation when attacked with the right fist or melee weapons in either hand.  Flinching has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
-1. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\Nemesis_Engine > Select Nemesis Unlimited Behavior Engine.exe > OK
-2. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
-3. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
-4. Click OK for both Warning pop-ups
-5. Click "Update Engine"
-6. Tick the "Flinching Animations" option and click "Launch Nemesis Behavior Engine"
-7. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.
-8. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis output and click OK.
-9. Tick "Nemesis output" in the left window pane. 
-10. Revert the upper right dropdown bar back to "SKSE".
-11. You may need to re-run this process if you change your load order.
 
 ### DynDOLOD Configuration 
 DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.
