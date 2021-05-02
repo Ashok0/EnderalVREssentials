@@ -472,13 +472,13 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
-[**Nemesis output**]: Flinching Animations patch generated with Nemesis. 
+[**Nemesis output**]: Flinching Animations patch generated with [**Nemesis**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases). 
 
-[**TexGen_Output**]: LOD textures and billboards patch generated with DynDOLOD Standalone 3.0 Alpha-33. 
+[**TexGen_Output**]: LOD textures and billboards patch generated with [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
 
-[**DynDOLOD_Output**]: LOD patch generated with DynDOLOD Standalone 3.0 Alpha-33. 
+[**DynDOLOD_Output**]: LOD patch generated with [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
 
-[**Synthesis output**]: SkyVRaan patch generated with Synthesis.
+[**Synthesis output**]: SkyVRaan patch generated with [**Synthesis**](https://github.com/Mutagen-Modding/Synthesis/releases).
 
 [**Allow Fast Travel v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 
