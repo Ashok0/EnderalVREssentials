@@ -431,7 +431,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Kolapon's Unique Weapons v1.5**](https://www.nexusmods.com/enderalspecialedition/mods/95?tab=files): Gives unique appearance to several of the unique weapons in Enderal and adds a brand new staff to one of the bosses.
 
-[**Static Mushrooms  - High Poly**](https://www.nexusmods.com/enderal/mods/196): Many animated/interactive/static mushrooms across Enderal are high poly now.
+[**Static Mushrooms  - High Poly by Malady The Endurant**](https://www.nexusmods.com/enderal/mods/196): Many animated/interactive/static mushrooms across Enderal are high poly now.
 - MUST be run through Cathedral Assets Optimizer with the following settings:  SSE Profile, Process Meshes, Full optimization, Always process headparts.
  
 [**Craftsman Tools Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files): Replaces meshes and textures of the crafting tools seen throughout Enderal.
