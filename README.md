@@ -483,7 +483,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**TexGen_Output**]: LOD textures and billboards patch generated with [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
 
-[**DynDOLOD_Output**]: LOD patch generated with [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
+[**DynDOLOD_Output**]: Object and tree LOD patch generated with [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
+
+[**xLODGen_Output**]: Terrain LOD patch generated with [**xLODGen Beta 79**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-79-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
 
 [**Synthesis output**]: SkyVRaan patch generated with [**Synthesis**](https://github.com/Mutagen-Modding/Synthesis/releases).
 
@@ -622,7 +624,7 @@ Required Plugins Load Order (right side):
 * AHZmoreHUD.esp
 * EnderalVRpatch.esp
 * (everything else; Enderal SE specific plugins should be placed near the bottom)
-* DynDOLOD.esp (Generated with the DynDOLOD utility and should be placed third to last from the bottom)
+* DynDOLOD.esp (Generated with the DynDOLOD utility and should be placed near the bottom)
 * Synthesis.esp (Generated with the Synthesis utility and should be placed second to last from the bottom) 
 * AllowFastTravel.esp (Must be placed at the very bottom as the above plugins alter world space which will break fast traveling) 
 
