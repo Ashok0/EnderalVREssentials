@@ -382,6 +382,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
 
+[**Tamrielic Textures Terrain LOD v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed. Generated with xLODGen. Also contains Tree LOD.
+
 [**KS Hairdos SSE v1.7**](https://www.nexusmods.com/skyrimspecialedition/mods/6817?tab=files): KS Hairdos is a hair pack that contains 883 hairstyles. 792 hairstyles are for females, 91 are for males.
 
 [**Caliente's Beautiful Bodies Enhancer - CBBE v1.6.1**](https://www.nexusmods.com/skyrimspecialedition/mods/198?tab=files): A completely customisable female body replacer for TESV: Skyrim.
