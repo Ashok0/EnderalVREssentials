@@ -60,7 +60,7 @@ Recommended:
 8.  Launch Wabbajack by double-clicking "Enderal.VR.Essentials.wabbajack"
 9.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 10.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
-		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again or use my alternate Google Drive Repack [HERE](https://github.com/Ashok0/EnderalVR) for an off-line installation.
+		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again or use my alternate Google Drive Repack [HERE](https://github.com/Ashok0/EnderalVR) for an off-line installation.  (The Google Drive Repack will be updated less frequently versus the Wabbajack release).
 
 11. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
 12. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
@@ -486,6 +486,10 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Kolapon's Various Creatures Replacers v1.5v**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
 
 [**Kolapon's Undead Creatures Replacer v1.2u**](https://www.nexusmods.com/enderalspecialedition/mods/64?tab=files): Changes the appearance of some of the creatures so they are unique to Enderal.
+
+[**Dwemer Automatons Glowmapped v2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/48724?tab=files): Adds glow maps to all dwemer automatons.
+
+[**Enderal SE - Dwemer Automatons Glowmapped v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/111?tab=files): Compatibility patch for Dwemer Automatons Glowmapped.
 
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
