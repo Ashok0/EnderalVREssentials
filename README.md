@@ -219,7 +219,7 @@ If you like bodypaint, you can actually customize your character with bodypaint 
 
 ### Custom Armor
 You can further customize your character in VR with custom armor mods.  Custom armor mods work fine in Enderal VR with VRIK and HIGGS but most custom armor needs to be spawned into your inventory using the armor item codes via the console.  You can install custom armor and locate their item codes manually by performing the following steps below.
-1. Download the custom armor of your choice from the [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/categories/54/).  
+1. Download the custom armor of your choice from [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/categories/54/).  
 2. Install your armor mod and all prerequisite mods through Mod Organizer 2.
 3. Install [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
 4. Launch Bethesda Launcher and install Creation Kit: Skyrim.
