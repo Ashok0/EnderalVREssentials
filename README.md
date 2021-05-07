@@ -233,7 +233,7 @@ You can further customize your character in VR with custom armor mods.  Custom a
 9. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
 10. Launch Bethesda.net Launcher >  Under Games, select Creation Kit: Skyrim and click PLAY.
 11. Select File > Data... > Tick the plugin for your armor mod in the resulting window and click OK and YES.  Click "Yes to all" for any Warning messages.
-12. Once the plugin is opened, click "Armor" under the left hand bar in the Object Window.
+12. Once the plugin is opened, click "Item" > "Armor" under the left hand bar in the Object Window.
 13. Enter a snippet of the armor name for your mod in the "Filter" box in the upper left.
 14. Under the "Name" field in the Object Window, note the names of EVERY piece of armor from your mod that you wish to use.
 15. Close Creation Kit.
