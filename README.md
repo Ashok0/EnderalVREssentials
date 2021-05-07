@@ -11,9 +11,6 @@
 * [Scoped bows](#scoped-bows)
 * [Supersampling](#supersampling)
 * [Character Customization](#character-customization)
-* [RaceMenu Presets](#racemenu-presets)
-* [Bodypaint](#bodypaint)
-* [Custom Armor](#custom-armor)
 * [Game capture](#game-capture)
 * [Language packs](#language-packs)
 * [Tools](#tools)
@@ -209,7 +206,7 @@ If you wish to use a custom RaceMenu Preset, perform the following steps:
 8. To view your avatar, navigate to the in-game menu and select System > Mod Configuration > VRIK > Controls > Tick "Selfie Mode"
 9. Return to your game and raise your right hand in the air to enter and exit "Selfie Mode".  You can now see your avatar in third person for taking selfies in VR! 
 
-## Bodypaint
+### Bodypaint
 If you like bodypaint, you can actually customize your character with bodypaint and view your bodypaint in VR on your VRIK body.  You cannot apply bodypaint through RaceMenu, however, as RaceMenu treats paint as overlays which won't work properly with VRIK.  To use bodypaint, you need to apply the paint directly to your player's skin texture file using the "Equipable Female Tattoo UNP CBBE" mod.  You can do this through the following steps (female only):
 1. Download a CBBE bodypaint mod of interest from NexusMods.
 2. Unpack the contents and then extract the contents of the .bsa files with [Bethesda Archive Extractor v0.10](https://www.nexusmods.com/skyrimspecialedition/mods/974?tab=files). 
@@ -220,7 +217,7 @@ If you like bodypaint, you can actually customize your character with bodypaint 
 7. Finally, enable "Equippabe Tattoo Skins UNP + CBBE" in Mod Organizer 2 and launch the game! 
 8. Travel to a forge and craft your warpaint as a tattoo.  Bodypaint will be added to your inventory where you can apply it to your body in VR and successfully view it on your VRIK body!
 
-## Custom Armor
+### Custom Armor
 You can further customize your character in VR with custom armor mods.  Custom armor mods work fine in Enderal VR with VRIK and HIGGS but most custom armor needs to be spawned into your inventory using the armor item codes via the console.  You can install custom armor and locate their item codes manually by performing the following steps below.
 1. Download the custom armor of your choice from the [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/categories/54/).  
 2. Install your armor mod and all prerequisite mods through Mod Organizer 2.
