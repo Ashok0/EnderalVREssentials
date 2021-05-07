@@ -10,6 +10,7 @@
 * [Known issues](#known-issues)
 * [Scoped bows](#scoped-bows)
 * [Supersampling](#supersampling)
+* [Character Customization](#character-customization)
 * [RaceMenu Presets](#racemenu-presets)
 * [Bodypaint](#bodypaint)
 * [Custom Armor](#custom-armor)
