@@ -231,19 +231,19 @@ You can further customize your character in VR with custom armor mods.  Custom a
 7. Open C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\CreationKit.ini and under the [General] section, add the following line: bAllowMultipleMasterLoads=1
 8. Extract the contents of your armor mod using WinRAR or 7Zip.
 9. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
-10. Launch Bethesda.Net Launch >  Under Games, select Creation Kit: Skyrim and click PLAY
-11. Select File > Data > Tick the plugin for your armor mod in the result window and click OK and YES.  Click "Yes to all" for any Warning.
-12. Once the plugin is opened, click "Armor" in the left hand bar in the Object Window.
-13. Enter a snippet of the armor name from your mod in the "Filter" box in the upper left.
+10. Launch Bethesda.net Launcher >  Under Games, select Creation Kit: Skyrim and click PLAY
+11. Select File > Data... > Tick the plugin for your armor mod in the resulting window and click OK and YES.  Click "Yes to all" for any Warning messages.
+12. Once the plugin is opened, click "Armor" under the left hand bar in the Object Window.
+13. Enter a snippet of the armor name for your mod in the "Filter" box in the upper left.
 14. Under the "Name" field in the Object Window, note the names of EVERY piece of armor from your mod that you wish to use.
 15. Close Creation Kit.
-16. Delete the .esp file used in Step 8 from your Skyrim VR installation folder.
+16. Delete the .esp file used in Step 9 from your Skyrim VR installation folder.
 17. Launch Enderal VR.
 18. When in-game, press "~" to open the console.
-19. Type: help "NAME_OF_ARMOR_FROM_CREATION_KIT" in quotations i.e. if Creation Kit listed an armor piece you wanted called Necromancer Purple Boots, you would type help "Necromancer Purple Boots" and hit ENTER.
+19. Type: help "ARMOR_NAME_FROM_CREATION_KIT" in quotations i.e. if Creation Kit listed an armor piece that you wanted called Necromancer Purple Boots, you would type help "Necromancer Purple Boots" and hit ENTER.
 20. The console will return the item code for the above item name.
-21. Type: player.additem ITEM_CODE 1 i.e. player.additem 45010ADA
-22. The armor associate with the item code will be added to your inventory.
+21. Type: player.additem ITEM_CODE 1 i.e. player.additem 45010ADA 1
+22. The armor associated with the item code will be added to your inventory.
 23. Open your inventory, and you can now successfully equip the armor from your armor mod!  
 
 ## Supersampling
