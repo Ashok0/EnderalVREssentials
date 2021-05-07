@@ -221,7 +221,7 @@ If you like bodypaint, you can actually customize your character with bodypaint 
 You can further customize your character in VR with custom armor mods.  Custom armor mods work fine in Enderal VR with VRIK and HIGGS but most custom armor needs to be spawned into your inventory using the armor item codes via the console.  You can install custom armor and locate their item codes manually by performing the following steps below.
 1. Download the custom armor mod of your choice from [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/categories/54/).  
 2. Install your armor mod and all prerequisite mods through Mod Organizer 2.
-3. Install [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
+3. Install [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher).
 4. Launch Bethesda Launcher and install Creation Kit: Skyrim.
 5. Edit your Windows Registry to allow Creation Kit to work with Skyrim VR.
 	* Type "regedit" and hit ENTER in the Windows Search Bar > Navigate to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Bethesda Softworks 
@@ -231,7 +231,7 @@ You can further customize your character in VR with custom armor mods.  Custom a
 7. Open C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\CreationKit.ini and under the [General] section, add the following line: bAllowMultipleMasterLoads=1
 8. Extract the contents of your armor mod using WinRAR or 7Zip.
 9. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
-10. Launch Bethesda.net Launcher >  Under Games, select Creation Kit: Skyrim and click PLAY
+10. Launch Bethesda.net Launcher >  Under Games, select Creation Kit: Skyrim and click PLAY.
 11. Select File > Data... > Tick the plugin for your armor mod in the resulting window and click OK and YES.  Click "Yes to all" for any Warning messages.
 12. Once the plugin is opened, click "Armor" under the left hand bar in the Object Window.
 13. Enter a snippet of the armor name for your mod in the "Filter" box in the upper left.
@@ -240,10 +240,10 @@ You can further customize your character in VR with custom armor mods.  Custom a
 16. Delete the .esp file used in Step 9 from your Skyrim VR installation folder.
 17. Launch Enderal VR.
 18. When in-game, press "~" to open the console.
-19. Type: help "ARMOR_NAME_FROM_CREATION_KIT" in quotations i.e. if Creation Kit listed an armor piece that you wanted called Necromancer Purple Boots, you would type help "Necromancer Purple Boots" and hit ENTER.
+19. Type: help "ARMOR_NAME_FROM_CREATION_KIT" in quotations i.e. if Creation Kit listed an armor piece that you wanted called Necromancer Purple Boots, you would type: help "Necromancer Purple Boots" and hit ENTER.
 20. The console will return the item code for the above item name.
 21. Type: player.additem ITEM_CODE 1 i.e. player.additem 45010ADA 1
-22. The armor associated with the item code will be added to your inventory.
+22. The armor associated with the item code will be added to your inventory.  Press "~" to exit the console.
 23. Open your inventory, and you can now successfully equip the armor from your armor mod!  
 
 ## Supersampling
