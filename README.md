@@ -194,7 +194,8 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
     * Player.AddItem 000F5D22 1 (Gauldur Blackbow)
     * Player.AddItem 000F652C 1 (Nightingale Bow)
 
-## RaceMenu Presets
+## Character Customization
+### RaceMenu Presets
 You can customize your character's appearance any time in-game by pressing "~" to access the console and entering:  showracemenu.  Note that you should never change your Race or you will lose all your stats.  While your appearance is mostly irrelevant in VR, it can be fun to customize your avatar if you wish to take selfies in VR using the VRIK "Selfie Mode".
 
 If you wish to use a custom RaceMenu Preset, perform the following steps:
