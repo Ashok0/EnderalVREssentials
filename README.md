@@ -225,9 +225,9 @@ You can further customize your character in VR with custom armor mods.  Custom a
 3. Install [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
 4. Launch Bethesda Launcher and install Creation Kit: Skyrim.
 5. Edit your Windows Registry to allow Creation Kit to work with Skyrim VR.
-		- Type "regedit" and hit ENTER in the Windows Search Bar > Navigate to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Bethesda Softworks 
-		- Right click on Bethesda Softworks and create a new Key called "Skyrim VR"
-		- Right click on "Skyrim VR" and create a new String Value called "installed path" with the following value: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\
+	* Type "regedit" and hit ENTER in the Windows Search Bar > Navigate to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Bethesda Softworks 
+	* Right click on Bethesda Softworks and create a new Key called "Skyrim VR"
+	* Right click on "Skyrim VR" and create a new String Value called "installed path" with the following value: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\
 6. Close the Registry Editor.
 7. Open C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\CreationKit.ini and under the [General] section, add the following line: bAllowMultipleMasterLoads=1
 8. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
