@@ -219,14 +219,14 @@ If you like bodypaint, you can actually customize your character with bodypaint 
 
 ### Custom Armor
 You can further customize your character in VR with custom armor mods.  Custom armor mods work fine in Enderal VR with VRIK and HIGGS but most custom armor needs to be spawned into your inventory using the armor item codes via the console.  You can install custom armor and locate their item codes manually by performing the following steps below.
-1. Download the custom armor of your choice from [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/categories/54/).  
+1. Download the custom armor mod of your choice from [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/categories/54/).  
 2. Install your armor mod and all prerequisite mods through Mod Organizer 2.
 3. Install [Bethesda Launcher](https://bethesda.net/en/game/bethesda-launcher)
 4. Launch Bethesda Launcher and install Creation Kit: Skyrim.
 5. Edit your Windows Registry to allow Creation Kit to work with Skyrim VR.
 	* Type "regedit" and hit ENTER in the Windows Search Bar > Navigate to HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Bethesda Softworks 
-	* Right click on Bethesda Softworks and create a new Key called "Skyrim VR"
-	* Right click on "Skyrim VR" and create a new String Value called "installed path" with the following value: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\
+	* Right click on Bethesda Softworks and create a new Key called "Skyrim Special Edition" if it doesn't already exist.
+	* Right click on "Skyrim Special Edition" and create a new String Value called "installed path" with the following value: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\
 6. Close the Registry Editor.
 7. Open C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\CreationKit.ini and under the [General] section, add the following line: bAllowMultipleMasterLoads=1
 8. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
