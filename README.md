@@ -229,21 +229,22 @@ You can further customize your character in VR with custom armor mods.  Custom a
 	* Right click on "Skyrim Special Edition" and create a new String Value called "installed path" with the following value: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\
 6. Close the Registry Editor.
 7. Open C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\CreationKit.ini and under the [General] section, add the following line: bAllowMultipleMasterLoads=1
-8. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
-9. Launch Bethesda.Net Launch >  Under Games, select Creation Kit: Skyrim and click PLAY
-10. Select File > Data > Tick the plugin for your armor mod in the result window and click OK and YES.  Click "Yes to all" for any Warning.
-11. Once the plugin is opened, click "Armor" in the left hand bar in the Object Window.
-12. Enter a snippet of the armor name from your mod in the "Filter" box in the upper left.
-13. Under the "Name" field in the Object Window, note the names of EVERY piece of armor from your mod that you wish to use.
-14. Close Creation Kit.
-15. Delete the .esp file used in Step 8 from your Skyrim VR installation folder.
-16. Launch Enderal VR.
-17. When in-game, press "~" to open the console.
-18. Type: help "NAME_OF_ARMOR_FROM_CREATION_KIT" in quotations i.e. if Creation Kit listed an armor piece you wanted called Necromancer Purple Boots, you would type help "Necromancer Purple Boots" and hit ENTER.
-19. The console will return the item code for the above item name.
-20. Type: player.additem ITEM_CODE 1 i.e. player.additem 45010ADA
-21. The armor associate with the item code will be added to your inventory.
-22. Open your inventory, and you can now successfully equip the armor from your armor mod!  
+8. Extract the contents of your armor mod using WinRAR or 7Zip.
+9. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
+10. Launch Bethesda.Net Launch >  Under Games, select Creation Kit: Skyrim and click PLAY
+11. Select File > Data > Tick the plugin for your armor mod in the result window and click OK and YES.  Click "Yes to all" for any Warning.
+12. Once the plugin is opened, click "Armor" in the left hand bar in the Object Window.
+13. Enter a snippet of the armor name from your mod in the "Filter" box in the upper left.
+14. Under the "Name" field in the Object Window, note the names of EVERY piece of armor from your mod that you wish to use.
+15. Close Creation Kit.
+16. Delete the .esp file used in Step 8 from your Skyrim VR installation folder.
+17. Launch Enderal VR.
+18. When in-game, press "~" to open the console.
+19. Type: help "NAME_OF_ARMOR_FROM_CREATION_KIT" in quotations i.e. if Creation Kit listed an armor piece you wanted called Necromancer Purple Boots, you would type help "Necromancer Purple Boots" and hit ENTER.
+20. The console will return the item code for the above item name.
+21. Type: player.additem ITEM_CODE 1 i.e. player.additem 45010ADA
+22. The armor associate with the item code will be added to your inventory.
+23. Open your inventory, and you can now successfully equip the armor from your armor mod!  
 
 ## Supersampling
 * Supersampling can be done via in-game Supersampling and Contrast Adaptive Sharpening (CAS) via The Sharper Eye mod.  For optimal image fidelity and performance, in-game Supersampling should always disabled.  CAS should always be enabled via The Sharper Eye.  This Wabbajack install is pre-configured to supersample the game using The Sharper Eye.
