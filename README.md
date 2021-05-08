@@ -66,7 +66,7 @@ Recommended:
 13. Launch Mod Organizer 2. 
 14. Configure your mod loadout: 
 	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.
-	* Disable "Smaller HUD for VR" if you prefer a larger font size and larger HUD.
+	* Disable "Smaller HUD for VR" if you prefer a larger font size.  Unfortunately disabling this mod also makes the entire HUD very large and intrusive in VR.
 	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Valve Index.
 	* Enable "High Poly Project" for higher polygon objects.  Improves visuals but may cause minor graphical glitches.   
 	* Disable "Caliente's Beautiful Bodies Enhancer -CBBE-" if you prefer vanilla bodies.  Pre-configured as Vanilla NeverNude.
@@ -85,7 +85,10 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 * Spell Wheel VR MCM: 
 1. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
- 
+
+* R.A.S.S.
+1. Select Options > Raining and set this option to "Off" if you dislike waterdroplet effects on the camera when it is raining.
+
 # YOU'RE ALL DONE!  ENJOY ENDERAL: FORGOTTEN STORIES IN VR!  ALL STEPS BEYOND THIS POINT ARE OPTIONAL.
 
 
@@ -101,7 +104,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 [**VR Menu Mouse Fix**](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your VR controllers to control the menu cursor like a laser pointer.
 
-[**Smaller HUD for VR**](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  Disable if you prefer having a larger HUD or larger font size.
+[**Smaller HUD for VR**](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  Disable if you prefer having a larger font size.  Unfortunately, this is one of the only HUD mods that is compatible with Enderal VR and disabling this mod makes the entire HUD very large and intrusive in VR.  If you find the text too small with this mod enabled, the best workaround is to delete the following file from your Wabbajack game folder: \Enderal VR\mods\Smaller HUD for VR\meshes\skyvr_hmd_info.nif which will increase your text and status bar size while leaving the rest of the HUD at its reduced size.
 
 [**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): A complete overhaul to the character creation menu.  Allows you to customize your avatar and load custom character "presets".  A fun mod if you want to take pictures of your character in VR using the VRIK "Selfie Mode".  The RaceMenu window appears once after the opening mission and can be accessed any time in-game through the console.  Press ~ to access the console.  Enter showracemenu and hit ENTER to bring up the RaceMenu window and then press ~ to exit the console.
 
