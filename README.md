@@ -665,16 +665,16 @@ Note that many DynDOLOD guides on the Web are heavily outdated.  While DynDOLO
 	- If you get a "Found stitched object LOD textures" error click "Ignore".
 	- Click "Start" with default options once the TexGen window appears.
 	- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
-9.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 5 and move the \TexGen_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable TexGen_Output in the left window pane.
+9.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 5 and move the \TexGen_Output\ folder to C:\ (Your Game Folder)\mods\.  Launch MO2 and enable TexGen_Output in the left window pane.
 10.  Select DynDOLODx64 from the upper right drop down bar and click Run.
 	- Click "High" once the DynDOLOD window appears.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit".  
-11.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 5 and move the \DynDOLOD_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable DynDOLOD_Output in the left window pane. 
+11.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 5 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods\.  Launch MO2 and enable DynDOLOD_Output in the left window pane. 
 12.  Select xLODGenx64 from the upper right drop down bar and click Run.  
 		- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.
 		- If xLODGen freezes or crashes when running, re-run the process a 2nd time and it should complete successfully.
 		- Close the xLODGen window once you see "LOD generation complete".
 		
-13.  Close MO2.  Navigate to C:\xLODGen_Output\ and move this folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable xLODGen_Output in the left window pane.
+13.  Close MO2.  Navigate to C:\xLODGen_Output\ and move this folder to C:\ (Your Game Folder)\mods\.  Launch MO2 and enable xLODGen_Output in the left window pane.
 14.  Confirm "TexGen_Output", "DynDOLOD_Output", and "xLODGen_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
 15.  Right click Perfect Terrain LOD.esm in the right window pane and click "Open Origin in Explorer.  You can optionally delete Perfect Terrain LOD.esm as this file is no longer needed once your dynamic patches have all been generated. 
 16.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game!
