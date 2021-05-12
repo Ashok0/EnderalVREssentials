@@ -14,7 +14,7 @@
 * [Game capture](#game-capture)
 * [Language packs](#language-packs)
 * [Tools](#tools)
-* [Included Mods and Tools (Skyrim VR Installation Folder)](#Included-Mods-Skyrim-VR-Installation-Folder)
+* [Included Mods and Tools (Skyrim VR Installation Folder)](#Included-Mods-and-Tools-Skyrim-VR-Installation-Folder)
 * [Included Mods (Mod Organizer 2)](#included-mods-mod-organizer-2)
 * [Game Tweaks](#game-tweaks)
 * [Changelog](#changelog)
