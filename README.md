@@ -463,7 +463,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Forgotten Dungeons - Abandoned Excavation Site v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/110): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
-[**Tamira's Enderal Log Cabin SE - Player Home v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/114?tab=files): A small player home near Riverville.
+[**Tamira's Enderal Log Cabin SE - Player Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/114?tab=files): A small player home near Riverville.
 
 [**Bathhouse Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/90): Makes subtle enhancement to the lighting of the bathhouse.
 
@@ -471,7 +471,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**EAM SE - Enderal Apothecarii Monastery v1.03**](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files): Adds the Apothecarii Monastery including: Huge monastery area, over 10 interiors, 2 dungeons and much more.
 
-[**Storeable Phasmalist Talismans v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
+[**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
 
