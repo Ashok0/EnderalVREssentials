@@ -37,7 +37,7 @@ Recommended:
 * RAM: 8 GB
 * OS: Windows 10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 1070 8GB or better
-* STORAGE: 61GB
+* STORAGE: 63GB
 * WI-FI: 802.11ac or 802.11ax (for Virtual Desktop or Air Link; optional) 
 
 ## Requirements
