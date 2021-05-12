@@ -458,6 +458,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Tamira's Enderal Log Cabin SE - Player Home v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/114?tab=files): A small player home near Riverville.
 
+[**Bathhouse Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/90): Makes subtle enhancement to the lighting of the bathhouse.
+
 [**Undercity Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/108?tab=files): Extensive lighting overhaul of the Undercity.
 
 [**EAM SE - Enderal Apothecarii Monastery v1.03**](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files): Adds the Apothecarii Monastery including: Huge monastery area, over 10 interiors, 2 dungeons and much more.
@@ -528,6 +530,12 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Dwemer Automatons Glowmapped v2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/48724?tab=files): Adds glow maps to all dwemer automatons.
 
 [**Enderal SE - Dwemer Automatons Glowmapped v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/111?tab=files): Compatibility patch for Dwemer Automatons Glowmapped.
+
+[**Deerstalker (Sabrecat) Replacer**](https://www.nexusmods.com/enderalspecialedition/mods/122?tab=files): Replaces the Deerstalker (Sabrecat) models with high quality alternatives.
+
+[**Frost Troll Replacer**](https://www.nexusmods.com/enderalspecialedition/mods/121?tab=files): Replaces the model of Frost Trolls with high-quality alternatives.
+
+[**Dragon Replacer (Variant 3-6)**](https://www.nexusmods.com/enderalspecialedition/mods/120?tab=files): Replaces the dragon model with high quality alternatives. 
 
 [**Replace spiders with wolfs and bears v1.0.1**](https://www.nexusmods.com/enderalspecialedition/mods/31?tab=files): Replaces spiders with wolves and bears.
 
