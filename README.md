@@ -461,11 +461,13 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Noble Quarter Player Home Redone v1.03**](https://www.nexusmods.com/enderalspecialedition/mods/66?tab=files): Overhauls player home in Nobles Quarter.
 
-[**Working Display Cases in Player Homes v0.1**](https://www.nexusmods.com/enderalspecialedition/mods/117?tab=files): This mod will fix Display Cases in both Player Homes (Ark Marketplace & Noble Quarter) so they actually work.
+[**Patch for Mandragorasprouts' Noble Quarter Player House Redone mod v0.1**](https://www.nexusmods.com/enderalspecialedition/mods/117?tab=files): This mod will fix Display Cases in both Player Homes (Ark Marketplace & Noble Quarter) so they actually work.
 
 [**Forgotten Dungeons - Abandoned Excavation Site v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/110): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**Tamira's Enderal Log Cabin SE - Player Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/114?tab=files): A small player home near Riverville.
+
+[**Frostville SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/127?tab=files): A small but functional settlement overhaul for the Frostcliff Tavern.
 
 [**Bathhouse Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/90): Makes subtle enhancement to the lighting of the bathhouse.
 
