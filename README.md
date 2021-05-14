@@ -276,6 +276,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**xLODGen Beta 81**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
+[**UI Tweaks v1.0**](https://www.nexusmods.com/skyrim/mods/70774/?tab=files): Theme for Mod Organizer, based on the default style with better and cleaner UI elements.
+
 ## Included Mods and Tools (Skyrim VR Installation Folder)
 [**SKSE VR v2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
