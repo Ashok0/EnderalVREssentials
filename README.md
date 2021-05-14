@@ -612,7 +612,7 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 
 1. Download Nemesis Unlimited Behavior Engine from [HERE](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases).
 2. Launch MO2 and install Nemesis Unlimited Behavior Engine as a regular mod.  (This tool must be run from the MO2 virtual file system or Skyrim Data folder)
-3. select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data\Nemesis_Engine > Select Nemesis Unlimited Behavior Engine.exe > OK
+3. select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Nemesis Unlimited Behavior Engine.exe" in the \mods\ subfolder in your MO2 folder and select "Open"
 4. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
 5. Selec
 6. t Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
@@ -633,7 +633,7 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 3. Create a blank Skyrim.ini file in C:\Users\ (Username)\Documents\My Games\Skyrim VR\
 4. Install .NET SDK 5.0 and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
 5. Download Synthesis from [HERE](https://github.com/Mutagen-Modding/Synthesis/releases/) and extract it to a folder anywhere on your drive called \Sythesis\.  
-6. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Synthesis.exe" in the \mods\ subfolder in your MO2 folder and select "Open"
+6. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Synthesis.exe" in the folder created in Step 5 and select "Open"
 7. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK. (If applicable, this option may not be available if your overwrite folder is already clean)
 8. Select Synthesis from upper right dropdown and click RUN
 9. Select Skyrim VR
