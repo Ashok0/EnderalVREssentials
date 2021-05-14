@@ -612,18 +612,17 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 
 1. Download Nemesis Unlimited Behavior Engine from [HERE](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases).
 2. Launch MO2 and install Nemesis Unlimited Behavior Engine as a regular mod.  (This tool must be run from the MO2 virtual file system or Skyrim Data folder)
-3. select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Nemesis Unlimited Behavior Engine.exe" in the \mods\ subfolder in your MO2 folder and select "Open"
+3. select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Nemesis Unlimited Behavior Engine.exe" in the \mods\Nemesis\Nemesis_Engine\ subfolder in your MO2 folder and select "Open"
 4. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK.  (If applicable, this option may not be available if your overwrite folder is already clean)
-5. Selec
-6. t Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
-7. Click OK for both Warning pop-ups
-8. Click "Update Engine"
-9. Tick the "Flinching Animations" option and click "Launch Nemesis Behavior Engine"
-10. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.
-11. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis output and click OK.
-12. Tick "Nemesis output" in the left window pane. 
-13. Revert the upper right dropdown bar back to "SKSE".
-14. You may need to re-run this process if you change your load order.
+5. Select Nemesis Unlimited Behavior Engine from upper right drop down and click RUN
+6. Click OK for both Warning pop-ups
+7. Click "Update Engine"
+8. Tick the "Flinching Animations" option and click "Launch Nemesis Behavior Engine"
+9. Wait for the process to finish and then close the Nemesis Unlimited Behavior Engine.
+10. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Nemesis output and click OK.
+11. Tick "Nemesis output" in the left window pane. 
+12. Revert the upper right dropdown bar back to "SKSE".
+13. You may need to re-run this process if you change your load order.
 
 ### SkyVRaan Configuration 
 SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  If you have installed a terrain LOD mod, disable any correpsonding .esm files when patching SkyVRaan as terrain LOD .esm files only need to be active when running DynDOLOD/xLODGen. 
