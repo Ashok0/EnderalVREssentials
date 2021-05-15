@@ -281,6 +281,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**xLODGen Beta 81**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
+[**SSEEdit v4.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/164?tab=files): SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
+
 [**UI Tweaks v1.0**](https://www.nexusmods.com/skyrim/mods/70774/?tab=files): Theme for Mod Organizer, based on the default style with better and cleaner UI elements.
 
 ## Included Mods and Tools (Skyrim VR Installation Folder)
@@ -566,6 +568,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**xLODGen_Output**]: Terrain LOD patch generated with [**xLODGen Beta 81**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
 
 [**Synthesis_Output**]: SkyVRaan patch generated with [**Synthesis**](https://github.com/Mutagen-Modding/Synthesis/releases).
+
+[**SSEEdit_Output**]: Conflict resolution patches generated with [**SSEEdit**](https://www.nexusmods.com/skyrimspecialedition/mods/164).
 
 [**Allow Fast Travel v1.3**](https://www.nexusmods.com/enderalspecialedition/mods/42?tab=files): Allows Fast Travel in Enderal.
 
