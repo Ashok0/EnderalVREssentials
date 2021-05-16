@@ -653,13 +653,25 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 16. Revert the upper right dropdown bar back to "SKSE".
 17. You may need to re-run this process if you change your load order.
 
-### xLODGen/TexGen/DynDOLOD Configuration 
+### xLODGen/TexGen/DynDOLOD  
 
 ## DynDOLOD Configuration 
 DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.
 DynDOLOD has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
 
-Note that many DynDOLOD guides on the Web are heavily outdated.  While DynDOLOD is a dynamic patch and thus a bit more complicated to setup versus standard mods, the most recent versions are actually fairly simple to configure.  The following steps outline everything necessary to setup DynDOLOD with Enderal VR.
+Note that many DynDOLOD guides on the Web are heavily outdated or are not relevant for patching Enderal VR.  While DynDOLOD is a dynamic patch and thus a bit more complicated to setup versus standard mods, the processs is fairly quick once you understand the general workflow.  The following steps outline everything necessary to setup DynDOLOD with Enderal VR.
+
+#### Quickstart Guide
+1. Finalize load order in Mod Organizer 2.
+2. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  
+	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well.
+3. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
+4. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
+5. Remove .esm files from any LOD terrain mods.  If these are not removed before running DynDOLOD, you may experience worldspace issues with Enderal VR.
+6. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
+7. Use xLODGen to generate Occlusion.esp into a dedicated output folder and then install as a mod. (optional)
+
+#### xLODGen/TexGen/DynDOLOD Configuration 
 
 1. Install [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you don't already have it installed.
 2. Extract [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) to your Skyrim VR installation folder.  If you have already setup Skyrim VR or Enderal VR, this step has most likely already been completed.
@@ -670,33 +682,33 @@ Note that many DynDOLOD guides on the Web are heavily outdated.  While DynDOLO
 4. Install a terrain LOD mod through Mod Organizer 2.  If using Tamrielic textures, the [Terrain LOD for Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) mod is recommended.
 	- Place this mod AFTER all other Skyrim SE texture mods in your mod load order in the left window pane.
 	- Move the Perfect Terrain LOD.esm plugin underneath Enderal - Forgotten Stories.esm in the right window pane.
-5. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps.
-6. Download [xLODGen - Beta 81](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps.
+5. Download [xLODGen - Beta 81](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
+6. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 7. Launch Mod Organizer 2.
 	- Select Tools > Executables  
-	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "TexGenx64.exe" in the folder created in Step 5 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
-	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "DynDOLODx64.exe" in the folder created in Step 5 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
-	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "xLODGenx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr -o:"c:\xLODGen_Output\" under "Arguments" and click "Apply".  
+	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "xLODGenx64.exe" in the folder created in Step 5 and select "Open" > Type -tes5vr -o:"c:\xLODGen_Output\" under "Arguments" and click "Apply".  
+	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "TexGenx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
+	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "DynDOLODx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
 	- Click OK to return to the main Mod Organizer 2 window. 
-8.  Select TexGenx64 from the upper right drop down bar and click Run.
-	- If you get a "Could not open registry key" error, launch vanilla Skyrim VR one time from Steam.  Then exit Skyrim VR and repeat this step.  (This step can be performed outside of VR.  Simply launching Skyrim VR from your flatscreen and exiting after any Steam VR errors regarding no detected headset is sufficient.)
-	- If you get a "Found stitched object LOD textures" error click "Ignore".
-	- Click "Start" with default options once the TexGen window appears.
-	- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
-9.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 5 and move the \TexGen_Output\ folder to C:\ (Your Game Folder)\mods\.  Launch MO2 and enable TexGen_Output in the left window pane.
-10.  Select DynDOLODx64 from the upper right drop down bar and click Run.
-	- Click "High" once the DynDOLOD window appears.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit".  
-11.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 5 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods\.  Launch MO2 and enable DynDOLOD_Output in the left window pane. 
-12.  Select xLODGenx64 from the upper right drop down bar and click Run.  
+8.  Select xLODGenx64 from the upper right drop down bar and click Run.  
 		- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.
 		- If xLODGen freezes or crashes when running, re-run the process a 2nd time and it should complete successfully.
 		- Close the xLODGen window once you see "LOD generation complete".
 		
-13.  Close MO2.  Navigate to C:\xLODGen_Output\ and move this folder to C:\ (Your Game Folder)\mods\.  Launch MO2 and enable xLODGen_Output in the left window pane.
-14.  Confirm "TexGen_Output", "DynDOLOD_Output", and "xLODGen_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
-15.  Right click Perfect Terrain LOD.esm in the right window pane and click "Open Origin in Explorer.  You can optionally delete Perfect Terrain LOD.esm as this file is no longer needed once your dynamic patches have all been generated. 
+9.  Close MO2.  Navigate to C:\xLODGen_Output\ and move this folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable xLODGen_Output in the left window pane.
+10.  Select TexGenx64 from the upper right drop down bar and click Run.
+	- If you get a "Could not open registry key" error, launch vanilla Skyrim VR one time from Steam.  Then exit Skyrim VR and repeat this step.  (This step can be performed outside of VR.  Simply launching Skyrim VR from your flatscreen and exiting after any Steam VR errors regarding no detected headset is sufficient.)
+	- If you get a "Found stitched object LOD textures" error click "Ignore".
+	- Click "Start" with default options once the TexGen window appears.
+	- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
+11.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \TexGen_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable TexGen_Output in the left window pane.
+12.  Right click Perfect Terrain LOD.esm in the right window pane and click "Open Origin in Explorer.  This file is only needed for generating terrain LOD.  Leaving it active when running DynDOLOD will cause worldspace problems in Enderal VR.
+13.  Select DynDOLODx64 from the upper right drop down bar and click Run.
+	- Click "High" once the DynDOLOD window appears.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit".  
+14.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \DynDOLOD_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable DynDOLOD_Output in the left window pane.
+15.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
 16.  Revert the upper right dropdown bar back to "SKSE".
-17.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game!
+17.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
 
 ### Mod Organizer 2 Settings
 Required Mod Load Order (left side):
