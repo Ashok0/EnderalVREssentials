@@ -655,7 +655,6 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 
 ### xLODGen/TexGen/DynDOLOD  
 
-## DynDOLOD Configuration 
 DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.
 DynDOLOD has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
 
