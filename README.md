@@ -631,7 +631,7 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 13. You may need to re-run this process if you change your load order.
 
 ### SkyVRaan Configuration 
-SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  If you have installed a terrain LOD mod, disable any correpsonding .esm files when patching SkyVRaan as terrain LOD .esm files only need to be active when running DynDOLOD/xLODGen. 
+SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD).  If you have installed a terrain LOD mod, disable any correpsonding .esm files when patching SkyVRaan as terrain LOD .esm files only need to be active when running xLODGen/TexGen. 
 
 1. If you have updated Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
 2. Close Mod Organizer 2 if open
@@ -653,7 +653,9 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 16. Revert the upper right dropdown bar back to "SKSE".
 17. You may need to re-run this process if you change your load order.
 
-### DynDOLOD Configuration 
+### xLODGen/TexGen/DynDOLOD Configuration 
+
+## DynDOLOD Configuration 
 DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.
 DynDOLOD has been pre-configured with Wabbajack but the configuration process has been documented below for reference. 
 
