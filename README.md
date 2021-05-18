@@ -6,6 +6,7 @@
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [MCM Settings](#mcm-settings)
+* [Updating](#updating)
 * [Noteworthy mods](#noteworthy-mods)
 * [Known issues](#known-issues)
 * [Scoped bows](#scoped-bows)
