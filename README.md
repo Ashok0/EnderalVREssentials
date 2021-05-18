@@ -331,7 +331,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06**](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files): Replacer for Skyrim interface in a paper style.
 
-[**Dear Diary - Enderal version v2.2.4**](https://www.nexusmods.com/enderal/mods/164?tab=files):  Updates Dear Diary for Enderal compatibility.  Removes "Skills" option from the Tab Menu as this menu is not used by Enderal and will cause the game to crash when accessed if not removed.
+[**Dear Diary - Paper UI Replacer for Enderal SE v3.0.3**](https://www.nexusmods.com/enderalspecialedition/mods/112?tab=files):  Updates Dear Diary for Enderal compatibility.  Removes "Skills" option from the Tab Menu as this menu is not used by Enderal and will cause the game to crash when accessed if not removed.
 - Install Tab Menu ONLY.
 
 [**VR Menu Mouse Fix v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your controllers to control the cursor like a smart tv remote.
