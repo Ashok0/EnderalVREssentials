@@ -469,6 +469,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Playable Half Starling Race v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/100?tab=files): Adds Half Starlings as a playable race.
 
+[**Starlings Leveled v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/132?tab=files): Adjusts the Starlings to level with the player.
+
 [**EOP SE - Enderal SE Outposts v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files): Adds order outposts, fortifies some camps with additional protection. 
 
 [**Delectable Docks SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files): Adds many details to the docks and harbors of Enderal focused on improving immersion.
@@ -490,6 +492,12 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Bathhouse Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/90): Makes subtle enhancement to the lighting of the bathhouse.
 
 [**Undercity Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/108?tab=files): Extensive lighting overhaul of the Undercity.
+
+[**Dal Mercer Relit v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/134?tab=files): Relights Dal'Mercer's Estate.
+
+[**Agnod Lighter v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/131?tab=files): Makes the Agnod dungeon a bit lighter.
+
+[**Thalgard Monastery v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/133?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**EAM SE - Enderal Apothecarii Monastery v1.03**](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files): Adds the Apothecarii Monastery including: Huge monastery area, over 10 interiors, 2 dungeons and much more.
 
