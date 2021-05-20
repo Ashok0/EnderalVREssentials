@@ -67,7 +67,7 @@ Recommended:
 13. Launch Mod Organizer 2. 
 14. Configure your mod loadout: 
 	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.
-	* Disable "Smaller HUD for VR" if you prefer a larger font size.  Unfortunately disabling this mod also makes the entire HUD very large and intrusive in VR.
+	* Enable "Smaller HUD for VR Larger Text Patch" to increase the size of the in-game text while retaining the small HUD from the "Smaller HUD for VR" mod.
 	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Valve Index.
 	* Enable "High Poly Project" for higher polygon objects.  Improves visuals but may cause minor graphical glitches.   
 	* Disable "Caliente's Beautiful Bodies Enhancer -CBBE-" if you prefer vanilla bodies.  Pre-configured as Vanilla NeverNude.
@@ -113,7 +113,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**VR Menu Mouse Fix**](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your VR controllers to control the menu cursor like a laser pointer.
 
-[**Smaller HUD for VR**](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  Disable if you prefer having a larger font size.  Unfortunately, this is one of the only HUD mods that is compatible with Enderal VR and disabling this mod makes the entire HUD very large and intrusive in VR.  If you find the text too small with this mod enabled, the best workaround is to delete the following file from your Wabbajack game folder: \mods\Smaller HUD for VR\meshes\skyvr_hmd_info.nif which will increase your text and status bar size while leaving the rest of the HUD at its reduced size.
+[**Smaller HUD for VR Larger Text Patch**]: [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) is a simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  If you love the VR friendly HUD from this mod but find text too small to read, enable this Larger Text Patch.  It will increase text size while retaining the smaller HUD elements from the original mod.
 
 [**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): A complete overhaul to the character creation menu.  Allows you to customize your avatar and load custom character "presets".  A fun mod if you want to take pictures of your character in VR using the VRIK "Selfie Mode".  The RaceMenu window appears once after the opening mission and can be accessed any time in-game through the console.  Press ~ to access the console.  Enter showracemenu and hit ENTER to bring up the RaceMenu window and then press ~ to exit the console.
 
@@ -345,6 +345,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**RaceMenu SE v0.4.16**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 
 [**RaceMenu VR v0.4.14**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): VR patch for RaceMenu.
+
+[**Smaller HUD for VR Larger Text Patch**]: An override patch for [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) to increase text size while retaining the smaller HUD elements from the original mod.  Overrides "Smaller HUD for VR" with vanilla skyvr_hmd_info.nif to increase text size.  Rescales Health, Magica, Stamina, and Quet Update Base Instance sprites in vr_hmd_info.swf to shrink HUD elements from vanilla Skyrim back to the smaller sizes used in the original "Smaller HUD for VR" mod.  Patch created with JPEXS Free Flash Decompiler.
+- Place after other Skyrim SE UI mods.
 
 [**Nemesis Unlimited Behavior Engine v0.84-beta**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
 
