@@ -343,6 +343,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Dot Crosshair VR v0.8**](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
 [**RaceMenu SE v0.4.16**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
+- Remove skee64.dll an skee64.ini
 
 [**RaceMenu VR v0.4.14**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): VR patch for RaceMenu.
 
@@ -437,6 +438,10 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Kanjs - Chaurus eggs and staff v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/46486?tab=files): A Simple Chaurus Egss Meshes and Textures remade ! With an optional Staff!
 - Delete ESP files.
+
+[**3D Casting FX - Fire and Frost Hand FX Replacer v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/50197?tab=files): Replaces the effect in your hand when holding a fire or frost spell. The vanilla effects are made up of 2D sprites moving in a single plane which is very apparent and quite ugly in VR. These new ones are specifically designed to look good in VR and SE both.
+
+[**Loose Clear refracting icicle and FrostAtronach v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/2458?tab=files): Realistic looking Icicle and Frost Atronach.
 
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
