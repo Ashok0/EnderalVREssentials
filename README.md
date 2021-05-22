@@ -719,8 +719,8 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- Click OK to return to the main Mod Organizer 2 window. 
 8.  Select xLODGenx64 from the upper right drop down bar and click Run.
 	- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.
-			- If xLODGen freezes or crashes when running, re-run the process a 2nd time and it should complete successfully.
-			- Close the xLODGen window once you see "LOD generation complete".		
+	- If xLODGen freezes or crashes when running, re-run the process a 2nd time and it should complete successfully.
+	- Close the xLODGen window once you see "LOD generation complete".	
 9.  Close MO2.  Navigate to C:\xLODGen_Output\ and move this folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable xLODGen_Output in the left window pane.
 10.  Select TexGenx64 from the upper right drop down bar and click Run.
 		- If you get a "Could not open registry key" error, launch vanilla Skyrim VR one time from Steam.  Then exit Skyrim VR and repeat this step.  (This step can be performed outside of VR.  Simply launching Skyrim VR from your flatscreen and exiting after any Steam VR errors regarding no detected headset is sufficient.)
