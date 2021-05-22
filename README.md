@@ -288,7 +288,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
-[**xLODGen Beta 81**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
+[**xLODGen Beta 82**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
 [**SSEEdit v4.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/164?tab=files): SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
@@ -588,7 +588,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Nemesis_Output**]: Flinching Animations patch generated with [**Nemesis**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases). 
 
-[**xLODGen_Output**]: Terrain LOD patch generated with [**xLODGen Beta 81**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
+[**xLODGen_Output**]: Terrain LOD patch generated with [**xLODGen**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/).
 
 [**TexGen_Output**]: LOD textures and billboards patch generated with [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files). 
 
@@ -709,7 +709,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 4. Install a terrain LOD mod through Mod Organizer 2.  If using Tamrielic textures, the [Terrain LOD for Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) mod is recommended.
 	- Place this mod AFTER all other Skyrim SE texture mods in your mod load order in the left window pane.
 	- Move the Perfect Terrain LOD.esm plugin underneath Enderal - Forgotten Stories.esm in the right window pane.
-5. Download [xLODGen - Beta 81](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
+5. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 6. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 7. Launch Mod Organizer 2.
 	- Select Tools > Executables  
