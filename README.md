@@ -512,6 +512,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Agnod Lighter v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/131?tab=files): Makes the Agnod dungeon a bit lighter.
 
+[**White Hearth - Enderal SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/137?tab=files): A new player home near Ark (port to SE).
+
 [**Thalgard Monastery v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/133?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**EAM SE - Enderal Apothecarii Monastery v1.03**](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files): Adds the Apothecarii Monastery including: Huge monastery area, over 10 interiors, 2 dungeons and much more.
