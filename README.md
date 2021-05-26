@@ -705,7 +705,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 #### Quickstart Guide
 1. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
 2. Finalize load order in Mod Organizer 2.
-3. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  
+3. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  Enable "Perfect Terrain LOD.esm" plugin and place near top of the plugin list underneath "Enderal - Forgotten Stories.esm".
 	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well.
 4. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
 5. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
