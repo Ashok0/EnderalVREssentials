@@ -67,7 +67,7 @@ Recommended:
 13. Launch Mod Organizer 2. 
 14. Configure your mod loadout: 
 	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.
-	* Enable "Smaller HUD for VR Larger Text Patch" to increase the size of the in-game text while retaining the small HUD from the "Smaller HUD for VR" mod.
+	* Disable "Smaller HUD for VR Larger Text Patch" if you wish to decrease the size of the in-game text.
 	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Valve Index.
 	* Enable "High Poly Project" for higher polygon objects.  Improves visuals but may cause minor graphical glitches.   
 	* Disable "Caliente's Beautiful Bodies Enhancer -CBBE-" if you prefer vanilla bodies.  Pre-configured as Vanilla NeverNude.
@@ -122,7 +122,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 [**VR Menu Mouse Fix**](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your VR controllers to control the menu cursor like a laser pointer.
 
-[**Smaller HUD for VR Larger Text Patch**]: [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) is a simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  If you love the VR friendly HUD from this mod but find text too small to read, enable this Larger Text Patch.  It will increase text size while retaining the smaller HUD elements from the original mod.
+[**Smaller HUD for VR Larger Text Patch**]: [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) is a simple mod that reduces the size of the HUD elements and text by about 50% for added immersion.  This mod makes the HUD extremely VR friendly but it also makes text a bit difficult to read.  The Larger Text Patch will increase text size while retaining the smaller HUD elements from the original mod.
 
 [**RaceMenu**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): A complete overhaul to the character creation menu.  Allows you to customize your avatar and load custom character "presets".  A fun mod if you want to take pictures of your character in VR using the VRIK "Selfie Mode".  The RaceMenu window appears once after the opening mission and can be accessed any time in-game through the console.  Press ~ to access the console.  Enter showracemenu and hit ENTER to bring up the RaceMenu window and then press ~ to exit the console.
 
@@ -320,7 +320,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Enderal SE Update v2.0.8.2**](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Update for Complete Enderal for Skyrim Special Edition. 
 
-[**Enderal SE - Bug Fixes v1.26.4**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
+[**Enderal SE - Bug Fixes v1.27**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 
 [**SkyUI v1.0-beta.4**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
 
@@ -357,7 +357,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**RaceMenu VR v0.4.14**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): VR patch for RaceMenu.
 
-[**Smaller HUD for VR Larger Text Patch**]: An override patch for [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) to increase text size while retaining the smaller HUD elements from the original mod.  Overrides "Smaller HUD for VR" with vanilla skyvr_hmd_info.nif to increase text size.  Rescales Health, Magica, Stamina, and Quet Update Base Instance sprites in vr_hmd_info.swf to shrink HUD elements from vanilla Skyrim back to the smaller sizes used in the original "Smaller HUD for VR" mod.  Patch created with JPEXS Free Flash Decompiler.
+[**Smaller HUD for VR Larger Text Patch**]: An override patch for [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) to increase text size while retaining the smaller HUD elements from the original mod.  Overrides "Smaller HUD for VR" with vanilla skyvr_hmd_info.nif to increase text size.  Rescales Health, Magica, Stamina, and Quest Update Base Instance sprites in vr_hmd_info.swf to shrink HUD elements from vanilla Skyrim back to the smaller sizes used in the original "Smaller HUD for VR" mod.  Shifts Quest Update Base Instance sprite on X-axis to prevent menu clipping.  Patch created with JPEXS Free Flash Decompiler.
 - Place after other Skyrim SE UI mods.
 
 [**Nemesis Unlimited Behavior Engine v0.84-beta**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
