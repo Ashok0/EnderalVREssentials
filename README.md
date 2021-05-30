@@ -370,10 +370,10 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 - Requires patching with Nemesis.
 
 [**VRIK V0.8.1. In-Dev Build 28**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=posts): VRIK will display the player character's body in SkyrimVR and animate it to match your movements. Weapons can be kept, drawn, and sheathed in up to 14 visible holsters on your body. An input gesture system allows users to bind actions to gestures on each hand, reducing the need to open menus. An MCM menu allows full configuration of everything.
-- Make the following changes to these VRIK INI files to pre-configure the MCM settings with proper behavior for bows:  
+- Make the following changes to these VRIK INI files to pre-configure MCM settings with proper behavior for bows:  
 	- vrik.ini: weaponAdjustment = 0
 	- vrikslots.ini: visibleSlot11 = 0 
-- Make the following changes to these VRIK INI files to pre-configure the MCM settings for Selfie Mode:  
+- Make the following changes to these VRIK INI files to pre-configure MCM settings for Selfie Mode:  
 	- vrikgestures.ini: selfieModeEnabled = 1
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
