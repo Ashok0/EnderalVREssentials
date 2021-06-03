@@ -492,6 +492,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Starlings Leveled v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/132?tab=files): Adjusts the Starlings to level with the player.
 
+[**Old Tunnel Pathing Fix v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/143?tab=files): Fixes pathing issues in the Suncoast dungeon "Old Tunnel". (Trolls no longer flee from the player)
+
 [**EOP SE - Enderal SE Outposts v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/18?tab=files): Adds order outposts, fortifies some camps with additional protection. 
 
 [**Delectable Docks SE v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/77?tab=files): Adds many details to the docks and harbors of Enderal focused on improving immersion.
@@ -523,6 +525,10 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Thalgard Monastery v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/133?tab=files): Forgotten Dungeons implements cut content, originally made by SureAI, with updates and fixes to fit seamlessly into the game.
 
 [**EAM SE - Enderal Apothecarii Monastery v1.03**](https://www.nexusmods.com/enderalspecialedition/mods/34?tab=files): Adds the Apothecarii Monastery including: Huge monastery area, over 10 interiors, 2 dungeons and much more.
+
+[**Beach House v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/145?tab=files): There is an abondoned house at the Sun Coast beach for you to explore and occupy as a player home.
+
+[**Golden Mare Mill SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/142?tab=files): Golden Mare Mill provides a quaint player home in the scenic area of Riverville which is rewarded for the completion of the quest "Secrets from the Can".
 
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
