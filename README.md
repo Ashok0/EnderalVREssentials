@@ -530,6 +530,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Golden Mare Mill SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/142?tab=files): Golden Mare Mill provides a quaint player home in the scenic area of Riverville which is rewarded for the completion of the quest "Secrets from the Can".
 
+[**Undercity Home v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/146?tab=files): A simple place for you to sleep in the Undercity - ported to SE.
+
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
 [**Maps - SE v1.2**](https://www.nexusmods.com/enderal/mods/49?tab=files): You can now buy maps that will show you the landmarks of the region.
@@ -700,6 +702,9 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 11. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
 12. Click RUN icon
 13. Wait for the utility to report "Completed" and close Synthesis.  If Synthesis errors out when patching SkyVRaan, try the following:
+	- If you get a "Block Error", you may be using an outdated version of Synthesis.  To fix this problem, perform the following steps.
+		-  Delete any files from C:\Users\Ashok\AppData\Local\Temp
+		-  Download and run the latest version Synthesis from Github [HERE](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.19.1)
 	- Select SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher in the left hand bar and set "Mutagen" and "Synthesis" to "Latest".
 	- Click "Skyrim VR" in the top bar.  Under Data Folder Location, enter the following path: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data
 14. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis output and click OK.
@@ -784,6 +789,7 @@ Required Plugins Load Order (right side):
 * (everything else; Enderal SE specific plugins should be placed near the bottom)
 * DynDOLOD.esp (Generated with the DynDOLOD utility and should be placed near the bottom)
 * Synthesis.esp (Generated with the Synthesis utility and should be placed beneath DynDOLOD) 
+* (any conflic resoluion patches generated with SSEEdit)
 * AllowFastTravel.esp (Must be placed at the very bottom as the above plugins alter world space which will break fast traveling) 
 
 When installing mods, if prompted to extract BSA files, select "No".
