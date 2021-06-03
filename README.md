@@ -702,9 +702,9 @@ SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-confi
 11. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
 12. Click RUN icon
 13. Wait for the utility to report "Completed" and close Synthesis.  If Synthesis errors out when patching SkyVRaan, try the following:
-	- If you get a "Block Error", you may be using an outdated version of Synthesis.  To fix this problem, perform the following steps.
-		-  Delete any files from C:\Users\Ashok\AppData\Local\Temp
-		-  Download and run the latest version Synthesis from Github [HERE](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.19.1)
+	- If you get a "Blocking Error", you may be using an outdated version of Synthesis.  To fix this problem, perform the following steps.
+		-  Delete any files from C:\Users\(Username) \AppData\Local\Temp\Synthesis
+		-  Download and run the latest version of Synthesis from Github [HERE](https://github.com/Mutagen-Modding/Synthesis/releases)
 	- Select SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher in the left hand bar and set "Mutagen" and "Synthesis" to "Latest".
 	- Click "Skyrim VR" in the top bar.  Under Data Folder Location, enter the following path: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data
 14. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis output and click OK.
