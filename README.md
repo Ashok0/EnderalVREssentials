@@ -92,7 +92,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 
 
 ## INI Settings (OPTIONAL)
-1. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (OPTIONAL; Will cause visual pop-in issues): 
+1. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (OPTIONAL; Will cause visual pop-in issues.  Only recommended for very low end GPUs): 
 
          fLODFadeOutMultObjects=3.0000
          fLODFadeOutMultItems=2.0000
@@ -252,23 +252,24 @@ You can further customize your character in VR with custom armor mods.  Custom a
 	* Right click on Bethesda Softworks and create a new Key called "Skyrim Special Edition" if it doesn't already exist.
 	* Right click on "Skyrim Special Edition" and create a new String Value called "installed path" with the following value: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\
 6. Close the Registry Editor.
-7. Open C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\CreationKit.ini and under the [General] section, add the following line: bAllowMultipleMasterLoads=1
-8. Extract the contents of your armor mod using WinRAR or 7Zip.
-9. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
-10. Launch Bethesda.net Launcher >  Under Games, select Creation Kit: Skyrim and click PLAY.
-11. Select File > Data... > Tick the plugin for your armor mod in the resulting window and click OK and YES.  Click "Yes to all" for any Warning messages.
-12. Once the plugin is opened, click "Item" > "Armor" under the left hand bar in the Object Window.
-13. Enter a snippet of the armor name for your mod in the "Filter" box in the upper left.
-14. Under the "Name" field in the Object Window, note the names of EVERY piece of armor from your mod that you wish to use.
-15. Close Creation Kit.
-16. Delete the .esp file used in Step 9 from your Skyrim VR installation folder.
-17. Launch Enderal VR.
-18. When in-game, press "~" to open the console.
-19. Type: help "ARMOR_NAME_FROM_CREATION_KIT" in quotations i.e. if Creation Kit listed an armor piece that you wanted called Necromancer Purple Boots, you would type: help "Necromancer Purple Boots" and hit ENTER.
-20. The console will return the item code for the above item name.
-21. Type: player.additem ITEM_CODE 1 i.e. player.additem 45010ADA 1
-22. The armor associated with the item code will be added to your inventory.  Press "~" to exit the console.
-23. Open your inventory, and you can now successfully equip the armor from your armor mod!  
+7. Uninstall and re-install Creation Kit from the Bethesda Launcher.
+8. Open C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\CreationKit.ini and under the [General] section, add the following line: bAllowMultipleMasterLoads=1
+9. Extract the contents of your armor mod using WinRAR or 7Zip.
+10. Temporarily copy the .esp file from your armor mod to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data  
+11. Launch Bethesda.net Launcher >  Under Games, select Creation Kit: Skyrim and click PLAY.
+12. Select File > Data... > Tick the plugin for your armor mod in the resulting window and click OK and YES.  Click "Yes to all" for any Warning messages.
+13. Once the plugin is opened, click "Item" > "Armor" under the left hand bar in the Object Window.
+14. Enter a snippet of the armor name for your mod in the "Filter" box in the upper left.
+15. Under the "Name" field in the Object Window, note the names of EVERY piece of armor from your mod that you wish to use.
+16. Close Creation Kit.
+17. Delete the .esp file used in Step 9 from your Skyrim VR installation folder.
+18. Launch Enderal VR.
+19. When in-game, press "~" to open the console.
+20. Type: help "ARMOR_NAME_FROM_CREATION_KIT" in quotations i.e. if Creation Kit listed an armor piece that you wanted called Necromancer Purple Boots, you would type: help "Necromancer Purple Boots" and hit ENTER.
+21. The console will return the item code for the above item name.
+22. Type: player.additem ITEM_CODE 1 i.e. player.additem 45010ADA 1
+23. The armor associated with the item code will be added to your inventory.  Press "~" to exit the console.
+24. Open your inventory, and you can now successfully equip the armor from your armor mod!  
 
 ## Supersampling
 * Supersampling can be done via in-game Supersampling and Contrast Adaptive Sharpening (CAS) via The Sharper Eye mod.  For optimal image fidelity and performance, in-game Supersampling should always disabled.  CAS should always be enabled via The Sharper Eye.  This Wabbajack install is pre-configured to supersample the game using The Sharper Eye.
@@ -337,7 +338,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**EngineFixesVR v1.21**](https://github.com/rollingrock/EngineFixesVR/releases): SKSEVR plugin to fix various issues with the Skyrim Special Edition engine.
 - Open EngineFixesVR.ini and add the following lines: MemoryManager = false, SelectAllocator = 1.
 
-[**VR FPS Stabilizer v1.2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): The VR FPS Stabilizer functionality of this mod is not being used with this Enderal VR release.  This mod has been included because it has the ability to automatically setup TAA settings every time Enderal VR is launched.  TAA settings cannot be preconfigured with INI files and must be tweaked using VR FPS Stabilizer.  Default TAA settings will make Enderal VR look extremely blurry.  This can be quickly fixed by simply disabling TAA but this will also break Enderal VR menu artwork.  The best way to handle TAA is to tweak its settings with VR FPS Stabilizer to essentially disable all of its visual effects when enabled.  This allows Enderal VR menu artwork to work properly while keeping the visuals sharp without any blur in-game.  To remove TAA blur, add the following lines to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
+[**VR FPS Stabilizer v1.2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/31392?tab=files): The VR FPS Stabilizer functionality of this mod is not being used with this Enderal VR release.  This mod has been included because it has the ability to automatically setup TAA (Temporal Anti-Aliasing) settings every time Enderal VR is launched.  TAA settings cannot be preconfigured with INI files and must be tweaked using VR FPS Stabilizer.  Default TAA settings will make Enderal VR look extremely blurry.  This can be quickly fixed by simply disabling TAA but this will also break Enderal VR menu artwork.  The best way to handle TAA is to tweak its settings with VR FPS Stabilizer to essentially disable all of its visual effects when enabled.  This allows Enderal VR menu artwork to work properly while keeping the visuals sharp without any blur in-game.  To remove TAA blur, add the following lines to \VR FPS Stabilizer\SKSE\Plugins\VRFpsStabilizer.ini:
 - AutoConfigEnabled=0  
 - GrassChange = 0 
 -        taa sharp 2.285	 
@@ -659,7 +660,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 	
 8. Open skyrimprefs.ini and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks Embers XD)
 9. Open skyrimprefs.ini and add this text somewhere under the [Display] section: bUseTAA = 1 (Fixes menus in Enderal VR; Requires TAA tweaking via VR FPS Stabilizer)
-10. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (OPTIONAL; Will cause visual pop-in issues): 
+10. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (OPTIONAL; Will cause visual pop-in issues.  Only recommended for very low end GPUs): 
 
          fLODFadeOutMultObjects=3.0000
          fLODFadeOutMultItems=2.0000
@@ -671,7 +672,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 3. Disable "FOV Filter when Moving"
 4. Set Supersampling slider to minimum (all the way left)
 5. Disable Dynamic Resolution
-6. Disable Temporal AA
+6. Enable Temporal AA (Only enable TAA if applying TAA tweaks via VR FPS Stabilizer)
 7. Disable Foliage Shadows
 8. Untick “Disable LOD” options and set the Tree Lod slider to max
 9. Enable "Skinned trees"
