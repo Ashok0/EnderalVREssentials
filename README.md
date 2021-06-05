@@ -186,7 +186,6 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 ## Known issues
 * Your headset and controllers must be active before launching the game or it will not start.
-* The loading screens are broken and no artwork shows up unless TAA is enabled.  TAA should always be disabled, however, as enabling TAA will always cause in-game blur even when tweaked.
 * Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
 * You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
 * There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
@@ -530,7 +529,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Golden Mare Mill SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/142?tab=files): Golden Mare Mill provides a quaint player home in the scenic area of Riverville which is rewarded for the completion of the quest "Secrets from the Can".
 
-[**Undercity Home v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/146?tab=files): A simple place for you to sleep in the Undercity - ported to SE.
+[**Undercity Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/146?tab=files): A simple place for you to sleep in the Undercity - ported to SE.
 
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
@@ -650,7 +649,8 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
          fActivateRolloverPrimaryScale=10.0000
 	
 8. Open skyrimprefs.ini and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks Embers XD)
-9. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (OPTIONAL; Will cause visual pop-in issues): 
+9. Open skyrimprefs.ini and add this text somewhere under the [Display] section: bUseTAA = 1 (Fixes menus in Enderal VR; Requires TAA tweaking via VR FPS Stabilizer)
+10. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (OPTIONAL; Will cause visual pop-in issues): 
 
          fLODFadeOutMultObjects=3.0000
          fLODFadeOutMultItems=2.0000
