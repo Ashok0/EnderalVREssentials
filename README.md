@@ -86,7 +86,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 3. Select Controls > Tick "Selfie Mode" if you want to be able to view and take photos of your character in third person.  You can activate and deactivate the third person view by raising your right hand in the air. 
 
 * Spell Wheel VR MCM: 
-1. Select Presets > Spellsword (Load presets for equipping spells and weapons from the spell wheel)
+1. Select Presets > Spellsword (Loads preset for equipping spells and weapons from the spell wheel)
 2. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
 
 * R.A.S.S.
