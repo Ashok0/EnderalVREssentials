@@ -577,6 +577,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Enderal Upscale Project v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/126?tab=files): Vanilla Enderal textures upscaled 4x up to 4096px BC compressed. Normal/Specular maps generated from result, same resolution.
 
+[**The Notice Board Redefined for Enderal v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/153?tab=files): Replaces low quality notes on bounty boards with notes from The Notice Board Redefined.
+
 [**Diverse Weather v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
 
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
