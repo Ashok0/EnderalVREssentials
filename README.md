@@ -336,8 +336,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**SkyrimVRTools v2.3-BETA**](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files): Providing OpenVR input information and control as a service to other Skyrim VR mods.
 
-[**Enderal VR - Patch v2.8.0**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
-- Do NOT update to v2.8.1 as the latest release has a game breaking bug that will cause the game to crash on the beach after you meet up with Jespar.
+[**Enderal VR - Patch v2.8.1**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
 
 [**SKSEVR 2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
