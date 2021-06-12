@@ -97,33 +97,37 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 ## INI Settings
 1. Open skyrimprefs.ini and add one of the following blocks of code depending on your VR refresh rate (Fix physics issues when playing with different refresh rates):
 	
-	**FOR 60HZ**
-	[HAVOK]
-	fMaxTime=0.0166
-	fMaxTimeComplex=0.0332
+	**FOR 60HZ:**
+		
+        [HAVOK]
+        fMaxTime=0.0166
+        fMaxTimeComplex=0.0332
 	
-	**FOR 72HZ**
-	[HAVOK]
-	fMaxTime=0.0138
-	fMaxTimeComplex=0.0276
+	**FOR 72HZ:**
 	
-	**FOR 80HZ**
-	[HAVOK]
-	fMaxTime=0.01234
-	fMaxTimeComplex=0.02468
+        [HAVOK]
+        fMaxTime=0.0138
+        fMaxTimeComplex=0.0276
 	
-	**FOR 90HZ**
-	[HAVOK]
-	fMaxTime=0.0111
-	fMaxTimeComplex=0.0222
+	**FOR 80HZ:**
+
+        [HAVOK]
+        fMaxTime=0.01234
+        fMaxTimeComplex=0.02468
+	
+	**FOR 90HZ:**
+
+        [HAVOK]
+        fMaxTime=0.0111
+        fMaxTimeComplex=0.0222
 	 
-	**FOR 120HZ**
+	**FOR 120HZ:**
 
         [HAVOK]
         fMaxTime=0.0083
         fMaxTimeComplex=0.0166
 	 
-	**FOR 144HZ**:
+	**FOR 144HZ:**
         
         [HAVOK]
         fMaxTime=0.0069
