@@ -94,12 +94,44 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 1. Select Options > Raining and set this option to "Off" if you dislike waterdroplet effects on the camera when it is raining.
 
 
-## INI Settings (OPTIONAL)
-1. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (OPTIONAL; Will cause visual pop-in issues.  Only recommended for very low end GPUs): 
+## INI Settings
+1. Open skyrimprefs.ini and add one of the following blocks of code depending on your VR refresh rate (Fix physics issues when playing with different refresh rates):
+	
+	**FOR 60HZ**
+	[HAVOK]
+	fMaxTime=0.0166
+	fMaxTimeComplex=0.0332
+	
+	**FOR 72HZ**
+	[HAVOK]
+	fMaxTime=0.0138
+	fMaxTimeComplex=0.0276
+	
+	**FOR 80HZ**
+	[HAVOK]
+	fMaxTime=0.01234
+	fMaxTimeComplex=0.02468
+	
+	**FOR 90HZ**
+	[HAVOK]
+	fMaxTime=0.0111
+	fMaxTimeComplex=0.0222
+	 
+	**FOR 120HZ**
+	[HAVOK]
+	fMaxTime=0.0083
+	fMaxTimeComplex=0.0166
+	 
+	**FOR 144HZ**
+	[HAVOK]
+	fMaxTime=0.0069
+	fMaxTimeComplex=0.0138
 
-         fLODFadeOutMultObjects=3.0000
-         fLODFadeOutMultItems=2.0000
-         fLODFadeOutMultActors=2.0000
+2. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (**OPTIONAL; Will cause visual pop-in issues.  Only recommended for very low end GPUs**): 
+
+        fLODFadeOutMultObjects=3.0000
+        fLODFadeOutMultItems=2.0000
+        fLODFadeOutMultActors=2.0000
  
 
 ## Updating
