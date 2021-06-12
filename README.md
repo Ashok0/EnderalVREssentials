@@ -118,14 +118,16 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 	fMaxTimeComplex=0.0222
 	 
 	**FOR 120HZ**
-	[HAVOK]
-	fMaxTime=0.0083
-	fMaxTimeComplex=0.0166
+
+        [HAVOK]
+        fMaxTime=0.0083
+        fMaxTimeComplex=0.0166
 	 
-	**FOR 144HZ**
-	[HAVOK]
-	fMaxTime=0.0069
-	fMaxTimeComplex=0.0138
+	**FOR 144HZ**:
+        
+        [HAVOK]
+        fMaxTime=0.0069
+        fMaxTimeComplex=0.0138
 
 2. Open skyrimprefs.ini and REPLACE all text under the [LOD] section with the following lines for higher performance (**OPTIONAL; Will cause visual pop-in issues.  Only recommended for very low end GPUs**): 
 
