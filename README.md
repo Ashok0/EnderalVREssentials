@@ -691,8 +691,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 3. Open skyrimvr.ini and add this text somewhere under the [VR] section: fVrScale=72 (Tweaks world scale for VR; Typical values are between 72-78)
 4. Open skyrimvr.ini and add this text somewhere under the [VRUI] section: fHUDCompassScale=0.5000 (Decrease compass size)
 5. Open skyrimvr.ini and add this text somewhere under the [VRUI] section: bPlayVRMeleeWorldImpactSounds=0 (Disable impact sounds; Set to "1" if you like the effect.)
-6. Open skyrimvr.ini and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
-7. Open skyrimvr.ini and add this text somewhere under the [VRUI] section to decrease rollover text size: 
+6. Open skyrimvr.ini and add this text somewhere under the [VRUI] section to decrease rollover text size: 
 
          fActivateRolloverSecondaryScale=10	 
          fActivateRolloverSecondaryZ=0	 
@@ -704,6 +703,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
          fActivateRolloverSecondaryScale=10.0000	 
          fActivateRolloverPrimaryScale=10.0000
 	
+7. Open skyrimprefs.ini and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
 8. Open skyrimprefs.ini and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks Embers XD)
 9. Open skyrimprefs.ini and add this text somewhere under the [Display] section: bUseTAA = 1 (Fixes menus in Enderal VR; Requires TAA tweaking via VR FPS Stabilizer)
 10. Open skyrimprefs.ini and add one of the following blocks of code depending on your VR refresh rate (Fix physics issues when playing with different refresh rates):
