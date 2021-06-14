@@ -75,7 +75,7 @@ Recommended:
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
 	* Enable "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).
 	* Enable "Replace spiders with wolfs and bears" if you have arachnophobia!
-15.   For Oculus Air Link / Oculus Link users only:  Download the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.
+15.   (Optional) For Oculus Air Link / Oculus Link users only:  Download the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  Not required but improves framerate by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR.
 16.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
 
@@ -238,7 +238,8 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * If you have trouble selecting ingredients at alchemy benches, on your left controller be sure to tap the analog stick to the right which should allow you to select ingredients for crafting.
 * If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod. 
 * If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
-* If NPCs fail to flinch after being hit with your fists, striking them with a melee weapon should enable flinching and fix flinching animations with fists.
+* The werewolf race has issues in Enderal VR so avoid using the lycanthropy tree perk.
+* Steam achievements do not work.
 * Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
 * &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Yee - A New Snowflake Mod, or Kanjs - Chaurus Eggs and Staff you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these plugins before launching the game. &#x1F53A; 
 * &#x1F53A; Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame. &#x1F53A;
@@ -781,7 +782,7 @@ Flinching adds flinching animations.  NPCs will react with an animation when att
 13. You may need to re-run this process if you change your load order.
 
 ### SkyVRaan Configuration 
-SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD).  If you have installed a terrain LOD mod, disable any correpsonding .esm files when patching SkyVRaan as terrain LOD .esm files only need to be active when running xLODGen/TexGen. 
+SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD).  If you have installed a terrain LOD mod, disable any correpsonding .esm files when patching SkyVRaan as terrain LOD .esm files only need to be active when running xLODGen/TexGen. 
 
 1. If you have updated Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
 2. Close Mod Organizer 2 if open
