@@ -290,13 +290,13 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 ## Tools
 
-[**Synthesis v0.19.1**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+[**Synthesis v0.19.2**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 [**Nemesis Unlimited Behavior Engine v0.84-beta**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
 
 [**DynDOLOD Standalone 3.0 Alpha-33**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
-[**xLODGen Beta 82**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
+[**xLODGen Beta 83**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
 [**SSEEdit v4.0.3**](https://www.nexusmods.com/skyrimspecialedition/mods/164?tab=files): SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
@@ -352,10 +352,10 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Dear Diary VR - Paper SkyUI and Categorized Favorites v1.06**](https://www.nexusmods.com/skyrimspecialedition/mods/44874?tab=files): Replacer for Skyrim interface in a paper style.
 
-[**Dear Diary - Paper UI Replacer for Enderal SE v3.0.4**](https://www.nexusmods.com/enderalspecialedition/mods/112?tab=files):  Updates Dear Diary for Enderal compatibility.  Removes "Skills" option from the Tab Menu as this menu is not used by Enderal and will cause the game to crash when accessed if not removed.
+[**Dear Diary - Paper UI Replacer for Enderal SE v3.0.5**](https://www.nexusmods.com/enderalspecialedition/mods/112?tab=files):  Updates Dear Diary for Enderal compatibility.  Removes "Skills" option from the Tab Menu as this menu is not used by Enderal and will cause the game to crash when accessed if not removed.
 - Install Tab Menu ONLY.
 
-[**VR Menu Mouse Fix v1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your controllers to control the cursor like a smart tv remote.
+[**VR Menu Mouse Fix v1.3**](https://www.nexusmods.com/skyrimspecialedition/mods/33414?tab=files): Enables mouse for SkyUI-VR. You can use your controllers to control the cursor like a smart tv remote.
 
 [**Smaller HUD for VR v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files): A simple mod that reduces the size of the HUD elements by about 50%.
 
@@ -387,7 +387,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
-[**HIGGS VR v1.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand collision, physics object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+[**HIGGS VR v1.2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+- Remove any [HAVOK] settings from your Skyrim INI files and these settings are no longer necessary with HIGGS VR v1.2. 
 
 [**Spell Wheel VR v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
@@ -417,6 +418,10 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Scoped Bows SE v1.3.1**](https://www.nexusmods.com/skyrimspecialedition/mods/912?tab=files): Scoped Bows is a huge weapons mod that adds scoped variants of all bows to the game, designed to be used without crosshair.
 
 [**Scoped VR-1-1-1 v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/16666?tab=files): Scoped Bows Remixed meshes designed for VR.
+
+[**Instant Equip v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44571?tab=files): SKSE plugin that essentially skips weapon drawing and sheathing animations.
+
+[**Immersive Draw Sheathe Sounds v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/44992?tab=files): This improves the Draw/Sheathe sounds for use in VR.
 
 [**Basic Dining Set Replacer 1k v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files): A mod that replaces the dining set we often see in farmhouses or taverns in skyrim.
 
@@ -471,6 +476,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
 
 [**Tamrielic Textures Terrain LOD v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files): New overhaul for Terrain LOD landscape textures that corresponds with the texture mods you have installed. Generated with xLODGen. Also contains Tree LOD.
+
+[**Smaller Insects v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51551?tab=files): This mod aims to resize the scale of animals in Skyrim to give a better immersive feelig in VR / First person.
 
 [**KS Hairdos SSE v1.8**](https://www.nexusmods.com/skyrimspecialedition/mods/6817?tab=files): KS Hairdos is a hair pack that contains 922 hairstyles. 830 hairstyles are for females, 92 are for males.
 
@@ -536,11 +543,15 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Beach House v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/145?tab=files): There is an abondoned house at the Sun Coast beach for you to explore and occupy as a player home.
 
-[**Golden Mare Mill SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/142?tab=files): Golden Mare Mill provides a quaint player home in the scenic area of Riverville which is rewarded for the completion of the quest "Secrets from the Can".
+[**Golden Mare Mill SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/142?tab=files): Golden Mare Mill provides a quaint player home in the scenic area of Riverville which is rewarded for the completion of the quest "Secrets from the Can".
 
 [**Undercity Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/146?tab=files): A simple place for you to sleep in the Undercity - ported to SE.
 
 [**Wellwatch Manor SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/151?tab=files): Adds a proper outpost to the Wellwatch myrad tower and a purchasable player home.
+
+[**Riverville Jail SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/157?tab=files): Expands upon the Riverville Jail by adding a watchtower, a secret exit and more.
+
+[**Bank of Ark SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/158?tab=files): Adds new models for corridors, vault doors/vault door numbers and makes some changes to the interior of the Ark Bank.  
 
 [**Storeable Phasmalist Talismans v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/68?tab=files): Allows you to store away Phasmalist Talismans.
 
@@ -558,7 +569,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Kolapon's Unique Weapons v1.5**](https://www.nexusmods.com/enderalspecialedition/mods/95?tab=files): Gives unique appearance to several of the unique weapons in Enderal and adds a brand new staff to one of the bosses.
 
-[**Static Mushrooms  - High Poly SE**](https://www.nexusmods.com/enderalspecialedition/mods/129?tab=files): Many animated/interactive/static mushrooms across Enderal are high poly now.
+[**Static Mushrooms  - High Poly SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/129?tab=files): Many animated/interactive/static mushrooms across Enderal are high poly now.
  
 [**Craftsman Tools Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files): Replaces meshes and textures of the crafting tools seen throughout Enderal.
 
@@ -572,7 +583,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Enderal Upscale Project v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/126?tab=files): Vanilla Enderal textures upscaled 4x up to 4096px BC compressed. Normal/Specular maps generated from result, same resolution.
 
-[**The Notice Board Redefined for Enderal v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/153?tab=files): Replaces low quality notes on bounty boards with notes from The Notice Board Redefined.
+[**The Notice Board Redefined for Enderal v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/153?tab=files): Replaces low quality notes on bounty boards with notes from The Notice Board Redefined.
 
 [**Diverse Weather v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
 
