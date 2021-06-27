@@ -1,7 +1,7 @@
 # Changelog
 
 ### v1.01:  
-Release date: June 26th, 2021
+Released: June 26th, 2021
 
 New Mods
 - Instant Equip v1.0: SKSE plugin that essentially skips weapon drawing and sheathing animations.
