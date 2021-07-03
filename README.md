@@ -389,8 +389,13 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
-[**HIGGS VR v1.2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
-- Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2.x. 
+[**HIGGS VR v1.2.2**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+- Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2.x.
+- Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
+	- ForcePhysicsGrab = 1
+- Make the following changes to grab when you have a bow out but no arrow in your main hand, or let you grab with your offhand while the main hand holds a two-handed weapon:
+	- AllowGrabWithEmptyArrowHand = 1
+	- AllowGrabWithTwoHandedOffhand = 1
 
 [**Spell Wheel VR v1.1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
@@ -502,6 +507,11 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**SkyVRaan - Shimmering VR Waters v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
 - Requires patching with Synthesis.
+
+[**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Lateset version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
+- LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Engine.
+
+[**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
 
 [**Myths and Legends VI - The Forgotten One v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): Adds a new Myths and Legends book, a new dungeon, and a completely new creature with unique mechanics.
 
