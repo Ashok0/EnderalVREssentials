@@ -1,5 +1,14 @@
 # Changelog
 
+### v1.02:  
+Released: July 3rd, 2021
+
+New Mods
+- Destructible Bottles Extended v1.5:  Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.  Converted to Form 44.
+
+Updated Mods
+- HIGGS VR v1.2.2:  New INI options configured to allow grabbing/pulling/etc. with the arrow hand while a bow is out but no arrows are equipped, as well as with the offhand while having a two-handed weapon in the main hand.
+
 ### v1.01:  
 Released: June 26th, 2021
 
