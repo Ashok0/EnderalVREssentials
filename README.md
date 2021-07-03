@@ -393,7 +393,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 - Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2.x.
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
-- Make the following changes to grab when you have a bow out but no arrow in your main hand, or let you grab with your offhand while the main hand holds a two-handed weapon:
+- Make the following changes to grab when you have a bow out but no arrow in your main hand, or to let you grab with your offhand while the main hand holds a two-handed weapon:
 	- AllowGrabWithEmptyArrowHand = 1
 	- AllowGrabWithTwoHandedOffhand = 1
 
@@ -508,8 +508,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**SkyVRaan - Shimmering VR Waters v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
 - Requires patching with Synthesis.
 
-[**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Lateset version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
-- LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Engine.
+[**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
+- LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
 
 [**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
 
