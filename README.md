@@ -407,6 +407,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**DragonbornSpeaksNaturally - Beta v0.21.0-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/16514?tab=files): Adds speech recognition to Skyrim VR or Skyrim SE so you can recite your dialogue lines to select them.
 
+[**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
+- LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
+
 [**HapticSkyrimVR - Spellcasting and Enhanced Bow and Melee Feedback SKSE Plugin v1.7.2**](https://www.nexusmods.com/skyrimspecialedition/mods/20364?tab=files): SKSEVR plugin to get spell casting and enhanced bow and melee haptic feedback on VR controllers.
 
 [**Simple Realistic Archery VR v1.26**](https://www.nexusmods.com/skyrimspecialedition/mods/28524?tab=files): Automatically unequips your arrows after shooting them, then reequips the arrow after pressing the trigger (MCM configurable) over your shoulder. It also has options for binding different arrows to different buttons, for the position and size of the quiver, and options for attribute costs. Up to 25 arrow types can be bound at once.
@@ -509,9 +512,6 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**SkyVRaan - Shimmering VR Waters v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files): Adds a fake reflection effect to Skyrim VR's outdoor water. It breaks up the distant LOD, shows wave movement on the distant water, and gives an illusion of water depth in the distance. Also has improved realism and clarity of near water.
 - Requires patching with Synthesis.
 
-[**Destructible Bottles Extended v1.5**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Hit the bottle and smash it in pieces! Latest version 1.5 includes also some glazed pottery items such as pots, jugs, plates and bowls.
-- LE mod.  Converted to Form 44 (SE) by opening and resaving ESP file in Creation Kit.
-
 [**Alternative Smashing Glass Sounds v1.0**](https://www.nexusmods.com/skyrim/mods/26017?tab=files): Alternative HQ glass sounds thanks to rolloLG.
 
 [**Myths and Legends VI - The Forgotten One v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/25?tab=files): Adds a new Myths and Legends book, a new dungeon, and a completely new creature with unique mechanics.
@@ -582,17 +582,17 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Kolapon's Unique Weapons v1.5**](https://www.nexusmods.com/enderalspecialedition/mods/95?tab=files): Gives unique appearance to several of the unique weapons in Enderal and adds a brand new staff to one of the bosses.
 
+[**Ark Easserspeier - Ark Watersprouts (SE) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
+
+[**Drunken Bee Sign v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/118): Adds a sign to the blank wall on the exterior of the Drunken Bee in Riverville.  
+
 [**Static Mushrooms  - High Poly SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/129?tab=files): Many animated/interactive/static mushrooms across Enderal are high poly now.
  
 [**Craftsman Tools Replacer v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/28?tab=files): Replaces meshes and textures of the crafting tools seen throughout Enderal.
 
-[**Ark Easserspeier - Ark Watersprouts (SE) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/62?tab=files): Changes the waterspouts in the Foreign Quarter in Ark.
-
 [**Celtic Endralean Penny v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/71?tab=files): A simple mod that replaces the default Enderalean Penny Coin with InsanitySorrow's Celtic coin.
 
 [**Cannons 2K v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/63?tab=files): Replaces the cannons and cannonballs with new 2K textures.
-
-[**Drunken Bee Sign v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/118): Adds a sign to the blank wall on the exterior of the Drunken Bee in Riverville.  
 
 [**Enderal Upscale Project v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/126?tab=files): Vanilla Enderal textures upscaled 4x up to 4096px BC compressed. Normal/Specular maps generated from result, same resolution.
 
