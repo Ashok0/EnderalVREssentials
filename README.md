@@ -455,6 +455,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Delete ESP files.
+- Skip "Torches Add-On" as vanilla flames look better with torches in VR.
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
 
