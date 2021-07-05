@@ -454,8 +454,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Pine Branches Redone 4K v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files): Realistic pine branches replacer. All types covered.  Billboards included.
 
 [**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
-- Delete ESP files.
 - Skip "Torches Add-On" as vanilla flames look better with torches in VR.
+- Delete ESP files.
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
 
