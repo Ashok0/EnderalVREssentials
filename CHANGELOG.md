@@ -1,5 +1,20 @@
 # Changelog
 
+### v1.03:
+Released: July 8th, 2021
+
+New Mods
+- JS Purses and Septims SE: A complete re-creation of Septims, Coin Purses and Coin Piles.
+- VR Refit - JS Purses and Septims Resized: A VR mod for smaller coins, coin purses, and coin piles from JS Purses and Septims. It also patches the invisible coin purse drop sound bug.
+- JS Instruments of Skyrim SE: A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
+- Seaview Lodge: Seaview Lodge adds a player home in the scenic area of the sea near Ark.
+
+Updated Mods
+- Tharael's Afterlife: The mod adds an option to make Tharaêl your companion after completing Dark Chambers of Our Mind.  It also changes the side room in the house in the Nobles Quarter.
+
+Removed Mods
+- Celtic Endralean Penny:  Incompatible with JS Purses and Septims SE.
+
 ### v1.02:  
 Released: July 3rd, 2021
 
