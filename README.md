@@ -438,7 +438,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**VR Refit - JS Purses and Septims Resized v1.0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/49850?tab=files): A VR mod for smaller coins, coin purses, and coin piles from JS Purses and Septims. It also patches the invisible coin purse drop sound bug.
 
-[**JS Instruments of Skyrim SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files): A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
+[**JS Instruments of Skyrim SE v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/51959?tab=files): A complete remake of the Lute, Flute & Drum. Comes in 2k and 4k versions.
 
 [**Basic Dining Set Replacer 1k v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/30055?tab=files): A mod that replaces the dining set we often see in farmhouses or taverns in skyrim.
 
@@ -794,7 +794,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "DynDOLODx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
 	- Click OK to return to the main Mod Organizer 2 window. 
 8.  Select xLODGenx64 from the upper right drop down bar and click Run.
-	- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.
+	- Tick all world spaces once the xLODGen window appears.  Tick Terrain LOD.  Tick "Protect Borders".  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.
 	- If xLODGen freezes or crashes when running, re-run the process a 2nd time and it should complete successfully.
 	- Close the xLODGen window once you see "LOD generation complete".	
 9.  Close MO2.  Navigate to C:\xLODGen_Output\ and move this folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable xLODGen_Output in the left window pane.
