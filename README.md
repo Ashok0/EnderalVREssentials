@@ -494,7 +494,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Enhanced Vanilla Trees SE v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files): Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
 - Delete ESP files.
-- Remove Billboards folder as DynDOLOD generates its own superior billboards.
+- Remove DynDOLOD folders (which contain billboards) as DynDOLOD generates its own superior billboards.
 
 [**High Poly Project v4.95**](https://www.nexusmods.com/skyrimspecialedition/mods/12029): An on going process to improve the models of the game with more polygons , UV edits or just replace them all together. SMIM was the inspiration and the lack of similar mods led me to make this.
 - Should be installed with a Custom Install.  Skip "Farmhouse Stone Walls" as these are better replaced by seperate mods. Skip "Whiterun Clutter", "Smelter Coal", "Furniture", "Plants", and "Riften 3D Leaves" as these at a minimum are incompatible with Enderal VR and can cause purple texture glitches.
