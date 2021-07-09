@@ -1,5 +1,14 @@
 # Changelog
 
+### v1.04:
+Released: July 9th, 2021
+
+New Mods
+- Enhanced Vanilla Trees SE: Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
+
+Updated Mods
+- Equippable Tattoo Skins UNP + CBBE: Fixed broken link from Nexus.
+
 ### v1.03:
 Released: July 8th, 2021
 
