@@ -58,7 +58,7 @@ Recommended:
 5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 6.  Run Wabbajack one time and then exit the program.  
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVRE_v1.03.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
+8.  Download "EVRE_v1.04.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
 9.  Launch Wabbajack by double-clicking "EVRE_v1.04.wabbajack"
 10.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
