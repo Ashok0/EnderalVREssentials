@@ -490,9 +490,9 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Loose Clear refracting icicle and FrostAtronach v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/2458?tab=files): Realistic looking Icicle and Frost Atronach.
 
-[**Rally's City Roofs v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/20896?tab=files): This mod retextures the roofs of houses and market stalls in Whiterun, Riften and Solitude.
+[**Rallys City Roofs 2K - AIO v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/20896?tab=files): This mod retextures the roofs of houses and market stalls in Whiterun, Riften and Solitude.
 
-[**Renthal's Workbench v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/23164): New high poly mesh and texture for the workbench.
+[**Renthal's Workbench v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/23164?tab=files): New high poly mesh and texture for the workbench.
 
 [**Enhanced Vanilla Trees SE v2.1**](https://www.nexusmods.com/skyrimspecialedition/mods/11008?tab=files): Better Vanilla Trees? Sign me up! All-In-One tree overhaul package with enhanced Vanilla trees. Supports RAT, SFO Branches, SFO Snowy Pines, and more!
 - Delete ESP files.
