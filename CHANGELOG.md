@@ -1,5 +1,24 @@
 # Changelog
 
+### v1.05:
+Released: July 10th, 2021
+
+New Mods
+- WiZkiD Parallax Farmhouses 2k No Parallax: A complete overhaul of all farmhouses related models with high quality textures. This overhaul includes exteriors, interiors, basement and stonewalls.
+- Rallys City Roofs 2K - AIO: This mod retextures the roofs of houses and market stalls in Whiterun, Riften and Solitude.
+- Renthal's Workbench: New high poly mesh and texture for the workbench.
+- Center of the Earth: Follow Yaronth of Aran's ill-fated expedition to the center of the earth.
+- Craftable Bound Weapons: Allows the player to craft and temper fully functional permanent bound weapons and arrows. Can be crafted at any smithy for 2 filled grand soul gems and tempered for 1 grand soul gem at any grindstone. Fully compatible.
+
+Updated Mods
+- Embers XD: Reinstalled with Vanilla Flames for improved fire FX.
+- Kolapon's Undead Creatures Replacer: Removed ESP file to fix crash during "Old Wounds" quest.
+- DynDOLOD: Updated with better tree LODs.
+
+Removed Mods
+- R's Windmill: Removed due to clipping issues with terrain.
+- Farmhouse Stonewalls 4K 2K by CleverCharff:  Duplicate functionality with WiZkiD Parallax Farmhouses 2k No Parallax.
+
 ### v1.04:
 Released: July 9th, 2021
 
