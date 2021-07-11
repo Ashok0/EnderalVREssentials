@@ -70,7 +70,7 @@ Recommended:
 14. Configure your mod loadout: 
 	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.
 	* Disable "Smaller HUD for VR Larger Text Patch" if you wish to decrease the size of the in-game text.
-	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Valve Index.
+	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Rift, Valve Index, or WMR headset.
 	* Enable "High Poly Project" for higher polygon objects.  Improves visuals but may cause minor graphical glitches.   
 	* Disable "Caliente's Beautiful Bodies Enhancer -CBBE-" if you prefer vanilla bodies.  Pre-configured as Vanilla NeverNude.
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
