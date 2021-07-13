@@ -8,8 +8,8 @@ Latest update: July 10th, 2021 (v1.05)
 * [Installation](#installation)
 * [MCM Settings](#mcm-settings)
 * [Updating](#updating)
-* [Noteworthy mods](#noteworthy-mods)
 * [Known issues](#known-issues)
+* [Noteworthy mods](#noteworthy-mods)
 * [Scoped bows](#scoped-bows)
 * [Supersampling](#supersampling)
 * [Character Customization](#character-customization)
@@ -107,7 +107,26 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 
 
-
+## Known issues
+* Your headset and controllers must be active before launching the game or it will not start.
+* Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
+* You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
+* There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
+* &#x1F53A; Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. &#x1F53A; 
+* If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
+* Loading saved games during the opening tutorial may cause VRIK to glitch out.
+* If you need to reset your height in-game, do not run "Floor Fix" through Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
+* If you are using Virtual Desktop, you may see a subtle "rectangular box" around the edges of the view where the image becomes blurry outside of the rectangle.  This effect is normal and is caused by the foveation used by Virtual Desktop when streaming Enderal VR wirelessly.
+* If you are using Virtual Desktop, Mod Organizer 2 may freeze up when starting a new game if SteamVR is already running.  Selecting "Exit SteamVR" from inside of Virtual Desktop before hitting "Run" in Mod Organizer 2 should fix this issue.
+* If you have trouble selecting ingredients at alchemy benches, on your left controller be sure to tap the analog stick to the right which should allow you to select ingredients for crafting.
+* If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod. 
+* If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
+* The werewolf race has issues in Enderal VR so avoid using the lycanthropy tree perk.
+* Steam achievements do not work.
+* Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
+* The loading screen artwork is out of frame.
+* &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Yee - A New Snowflake Mod, or Kanjs - Chaurus Eggs and Staff you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these plugins before launching the game. &#x1F53A; 
+* &#x1F53A; Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame. &#x1F53A;
 
 ## Noteworthy mods
 [**Enderal SE**](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Complete Enderal for Skyrim Special Edition.
@@ -180,26 +199,7 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 
 &#x1F53A; **SMALL PERFORMANCE DROP --- For lower end GPUs, you may wish to experiment with disabling DynDOLOD by disabling "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" in Mod Organizer 2.** &#x1F53A;
 
-## Known issues
-* Your headset and controllers must be active before launching the game or it will not start.
-* Cutscenes do not work.  Audio always plays against the SteamVR backdrop.  This is a very minor issue as there are only 3 cutscenes in the entire game.  These can be easily viewed on YouTube and two of the videos are introduction videos which play at the beginning of the game.
-* You have no avatar during the tutorial.  This is normal as you do not get an avatar until completing the character creation wizard.
-* There are some clipping issues with the character creation wizard on the ship.  You may need to step through the wall of the ship or peer above the ship ceiling to view the full menu.
-* &#x1F53A; Do not press any triggers during conversations with NPCs.  There is a nasty bug where interrupting dialogue may prevent you from finishing key conversations and will soft lock your game.  The only way to continue is to reload an old save game. &#x1F53A; 
-* If you get stuck during quests from animations that do not trigger properly, press "~" with the game in focus on your monitor and type player.tai or enableplayercontrols in the console.
-* Loading saved games during the opening tutorial may cause VRIK to glitch out.
-* If you need to reset your height in-game, do not run "Floor Fix" through Open VR Advanced Settings as this may causes problems with VRIK where you get stuck in "Sneak" mode.  Recalibrate your height through the VRIK Calibration Power.  You can do this by selecting the VRIK Calibration Power from the magic menu.
-* If you are using Virtual Desktop, you may see a subtle "rectangular box" around the edges of the view where the image becomes blurry outside of the rectangle.  This effect is normal and is caused by the foveation used by Virtual Desktop when streaming Enderal VR wirelessly.
-* If you are using Virtual Desktop, Mod Organizer 2 may freeze up when starting a new game if SteamVR is already running.  Selecting "Exit SteamVR" from inside of Virtual Desktop before hitting "Run" in Mod Organizer 2 should fix this issue.
-* If you have trouble selecting ingredients at alchemy benches, on your left controller be sure to tap the analog stick to the right which should allow you to select ingredients for crafting.
-* If you have issues equipping arrows for your bow, you need to reach behind your back in real life to grab an arrow.  This is a feature from the included Simple Realistic Archery mod. 
-* If the Hero menu doesn't pop up when raising one controller over your head, make sure the Enderal window is active and in focus on the Windows desktop.
-* The werewolf race has issues in Enderal VR so avoid using the lycanthropy tree perk.
-* Steam achievements do not work.
-* Crouching in real life will cause a minor "hitch" in your video as you approach the ground.  This is due to the "Automatic Sneaking" feature which is enabled by default.  If you dislike this effect and don't care about physical sneaking, you can turn this feature off from the in-game settings.
-* The loading screen artwork is out of frame.
-* &#x1F53A; If using ENB Particle Patch, Static Mesh Improvement Mod (SMIM), Blended Roads, Water for ENB, Embers XD / Embers HD, Glorious Doors of Skyrim, Yee - A New Snowflake Mod, or Kanjs - Chaurus Eggs and Staff you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these plugins before launching the game. &#x1F53A; 
-* &#x1F53A; Note that with the exception of texture/mesh mods, mods cannot be safely removed mid-savegame. &#x1F53A;
+
 
 ## Scoped bows
 * For scoped bow aiming to work, open VRIK MCM and disable "Adjust Held Weapons Position"
