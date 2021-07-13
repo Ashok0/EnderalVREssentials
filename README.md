@@ -751,13 +751,12 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 #### Quickstart Guide
 1. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
 2. Finalize load order in Mod Organizer 2.
-3. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  Enable "Perfect Terrain LOD.esm" plugin and place near top of the plugin list underneath "Enderal - Forgotten Stories.esm".
-	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well.
+3. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  Enable "Perfect Terrain LOD.esm" plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
+	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well.  Download the Google Drive link from the Comments section.
 4. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
 5. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
-6. Remove .esm files from any LOD terrain mods.  If these are not removed before running DynDOLOD, you may experience worldspace issues with Enderal VR.
+6. Optionally remove .esm files from any LOD terrain mods as they are no longer needed after running xLODGen and TexGen. 
 7. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
-8. Use xLODGen to generate Occlusion.esp into a dedicated output folder and then install as a mod. (optional)
 
 #### xLODGen/TexGen/DynDOLOD Configuration 
 
@@ -768,8 +767,8 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- [PapyrusUtil VR - Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files) (Under "Miscellaneous Files")
 	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
 4. Install a terrain LOD mod through Mod Organizer 2.  If using Tamrielic textures, the [Terrain LOD for Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) mod is recommended.
-	- Place this mod AFTER all other Skyrim SE texture mods in your mod load order in the left window pane.
-	- Move the Perfect Terrain LOD.esm plugin underneath Enderal - Forgotten Stories.esm in the right window pane.
+	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
+	- Move the Perfect Terrain LOD.esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane.
 5. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 6. Download [DynDOLOD 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) under "Miscellaneous Files" and extract the contents to a new \DynDOLOD\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
 7. Launch Mod Organizer 2.
@@ -789,7 +788,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 		- Click "Start" with default options once the TexGen window appears.
 		- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
 11.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \TexGen_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable TexGen_Output in the left window pane.
-12.  Right click Perfect Terrain LOD.esm in the right window pane and click "Open Origin in Explorer".  Delete "Perfect Terrain LOD.esm" as this file is only needed for generating terrain LOD.  Leaving it active when running DynDOLOD will cause worldspace problems in Enderal VR.
+12.  Right click the .esm file for any Terrain LOD mods on the right window pane and click "Open Origin in Explorer".  Optionally delete your Terrain LOD .esm file as this file is only needed for generating terrain LOD. 
 13.  Select DynDOLODx64 from the upper right drop down bar and click Run.
 		- Once the DynDOLOD window appears, click "Advanced".  Then tick all world spaces, click "High" at the top of the window, and tick "Ultra" in the options below.  Then click "OK" to start the process.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit".  
 14.  Close MO2.  Navigate to your \DynDOLOD\ folder from Step 6 and move the \DynDOLOD_Output\ folder to C:\Users\ (Username)\AppData\Local\ModOrganizer\Skyrim VR\mods.  Launch MO2 and enable DynDOLOD_Output in the left window pane.
@@ -798,7 +797,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 17.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
 
 ### SkyVRaan Configuration 
-SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD).  If you have installed a terrain LOD mod, disable any correpsonding .esm files when patching SkyVRaan as terrain LOD .esm files only need to be active when running xLODGen/TexGen. 
+SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD).  
 
 1. If you have updated Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
 2. Close Mod Organizer 2 if open
