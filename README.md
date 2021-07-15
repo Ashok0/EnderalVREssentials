@@ -457,6 +457,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**CC's HQ Caves - 2K v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/8448?tab=files): This is a retexture of the Cavewalls and the Cavefloor. All textures handmade using Substance Designer 6.
 
+[**WiZkiD Parallax Farmhouses 2k No Parallax v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/39185?tab=files): A complete overhaul of all farmhouses related models with high quality textures. This overhaul includes exteriors, interiors, basement and stonewalls.
+
 [**Pine Branches Redone 4K v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files): Realistic pine branches replacer. All types covered.  Billboards included.
 
 [**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
@@ -475,8 +477,6 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 - Delete ESP files.
 
 [**Remove Blurry Snowflakes v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/38358): This mod removes the blurry snowflakes by using a transparent texture. The normal snowflakes are still present.
-
-[**WiZkiD Parallax Farmhouses 2k No Parallax v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/39185?tab=files): A complete overhaul of all farmhouses related models with high quality textures. This overhaul includes exteriors, interiors, basement and stonewalls.
 
 [**Glorious Doors of Skyrim v1.03**](https://www.nexusmods.com/skyrimspecialedition/mods/32376): All-In-One pack of all my doors including a handy Fomod installer and a new Dwemer door!
 - Delete ESP files.
