@@ -635,11 +635,17 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Diverse Weather v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/70?tab=files): Diversifies the weather in Enderal and adds a few new ones.
 
+[**True Storms Special Edition - Thunder Rain and Weather Redone v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/2472?tab=files): True Storms Special Edition is a complete overhaul of the storm systems in Skyrim SE, including new heavy and unique weathers, loads of new intense sound effects, interior sounds, particle effects, new rain, snow, and dust textures, heavy fogs, new weathers for Solstheim including dust storms, and much more!
+
+[**Enderal SE - True Storms v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/203?tab=files): Compatibility patch for True Storms.
+
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
 [**Kids of Enderal - SE v1.7**](https://www.nexusmods.com/skyrim/mods/93432?tab=files): Remakes kids in Enderal to look like Skyrim's "The Kids are Alright".
 
 [**Stronger Souls v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/113?tab=files): Makes the conjured Souls stronger. 
+
+[**Stronger Summons v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/202?tab=files): Makes your summoned creatures stronger.
 
 [**Tharael's Afterlife v2.0**](https://www.nexusmods.com/enderalspecialedition/mods/45?tab=files):  The mod adds an option to make Tharaêl your companion after completing Dark Chambers of Our Mind (providing that you sided with him). It also changes the side room in the house in the Nobles Quarter.
 
