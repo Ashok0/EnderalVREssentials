@@ -786,7 +786,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 1. Install the following prerequisite mods: SKSE VR, PapyrusUtil VR, DynDOLOD Resources SE 3.0
 2. Finalize load order in Mod Organizer 2.
 3. Install a terrain LOD mod and place it after other Skyrim SE texture mods.  Enable your Terrain LOD .esm plugin and place it at the very top of the plugin list above "Enderal - Forgotten Stories.esm".
-	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well with [Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/32973).  
+	* [Tamrielic Textures Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563?tab=files) works very well with [Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/32973?tab=files).  
 4. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
 5. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
 6. Optionally remove your Terrain LOD .esm plugin as it is no longer needed after running xLODGen and TexGen. 
@@ -800,7 +800,7 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- [SKSE VR](https://skse.silverlock.org/beta/sksevr_2_00_12.7z) (Scripts folder only)
 	- [PapyrusUtil VR - Scripting Utility Functions](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files) (Under "Miscellaneous Files")
 	- [DynDOLOD Resources SE 3.00](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files) (Under "Miscellaneous Files")
-4. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Tamrielic textures, the [Terrain LOD for Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
+4. Install a terrain LOD mod through Mod Organizer 2 that corresponds with the lowest texture mod for terrain that you have installed.  If using Tamrielic Textures, the [Terrain LOD for Tamrielic Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39563) mod is recommended.
 	- Place this mod BELOW all other Skyrim SE texture mods in your mod load order in the left window pane.
 	- Move your Terrain LOD .esm plugin ABOVE Enderal - Forgotten Stories.esm in the right window pane.
 5. Download [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-81-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) and extract the contents to a new \xLODGen\ directory that is outside of special OS folders like 'Programs Files' or 'Program Files (x86)', Users, Documents, Desktop, Downloads and also not in SteamApps, game or any mod manager folders.
