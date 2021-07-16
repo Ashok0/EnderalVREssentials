@@ -461,12 +461,17 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Pine Branches Redone 4K v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files): Realistic pine branches replacer. All types covered.  Billboards included.
 
+[**El Sopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
+
 [**Animated Forge Water v0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP.
+
+[**Animated Forge Water v0.1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): Also fixes some Elsopa bugs.
 
 [**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Vanilla Flames" as vanilla flames look better in VR.
 - Delete ESP files.
-- If using "Animated Forge Water", Embers XD must be patched manually using Nifskope.  Open .nif files in \mods\Animated Forge Water\meshes\furniture\ and \mods\Embers XD\meshes\furniture\.  Navigate to the following "Values", BlacksmithForgeMarker.nif > BlacksmithForgeMarker > BlacksmithForge01 > Fire > OrderedRenderingNode > WATER.  Right click WATER in the Animated Forge files and select Block > Copy Branch.  Right click WATER in the Embers XD files and select Block > Remove.  Then right click BSORderedNode in the Embers XD files and select Block > Paste Branch > Yes and then press SAVE and OK.       
+- If using "Animated Forge Water v0.1", Embers XD must be patched manually using Nifskope.  Open .nif files in \mods\Animated Forge Water\meshes\furniture\ and \mods\Embers XD\meshes\furniture\.  Navigate to the following "Values", BlacksmithForgeMarker.nif > BlacksmithForgeMarker > BlacksmithForge01 > Fire > OrderedRenderingNode > WATER.  Right click WATER in the Animated Forge files and select Block > Copy Branch.  Right click WATER in the Embers XD files and select Block > Remove.  Then right click BSORderedNode in the Embers XD files and select Block > Paste Branch > Yes and then press SAVE and OK.
+- If using "Animated Forge Water v0.1.2", Embers XD must be patched again manually using Nifskope.  Open .nif files in \meshes\dlc02\architecture\ and \meshes\furniture\ for both the Animated Forge and Embers XD mods.  Navigate to "Values" containing BlacksmithAnvil01 and copy these from the Animated Forge mod using "Copy Branch".  Next, open .nif files in Embers XD.  Navigate to "Values" containing BlacksmithAnvil01.  Remove these values and replace them with the Animated Forge values using "Paste Branch".  Then press SAVE and OK.
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
 
