@@ -461,6 +461,8 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 
 [**Pine Branches Redone 4K v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/45294?tab=files): Realistic pine branches replacer. All types covered.  Billboards included.
 
+[**Animated Forge Water v0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP.
+
 [**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Vanilla Flames" as vanilla flames look better in VR.
 - Delete ESP files.
@@ -506,8 +508,6 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 - Delete ESP files.
 - Remove DynDOLOD folders (which contain billboards) as DynDOLOD generates its own superior billboards.
 
-[**Elsopa - HD Medieval Anvil SE v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/48825?tab=files): New Model And Textures For The Anvil . The Hammer And Tongs . Performance Friendly. Ultra Immersive. All Resolutions. No ESP. 
-
 [**CC's Enhanced Ore Veins SSE Edition v8.0**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): A texture replacement for the ore veins found in mines and around skyrim. This mod also retextures the mined ores and the ingots.
 
 [**CC's Enhanced Ore Veins SSE Edition v8.0.1 - Patch**](https://www.nexusmods.com/skyrimspecialedition/mods/1306?tab=files): Install this to resolve the issue where all mines revert to vanilla textures when depleted. 
@@ -536,10 +536,6 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Qwinn's Refined Visual Animated Enchants v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/24665?tab=files): With L3stat's kind permission, a refinement and fix for various issues with Visual Animated Enchants.
 
 [**Adjusted Visual Animated Enchants (No ENB Complex Particle Lights) v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/50382?tab=files): Tweaks the appearance of enchantments from Visual Animated Enchants. Reduces size and brightness to work better when using ENB, alters flame mesh shapes on unique weapons to fit more closely, and adjusts some colours.
-
-[**Animated Forge Water v0.1**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP.
-
-[**Animated Forge Water - Elsopa Patch and Fixes v0.1.2**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): Also fixes some Elsopa bugs.
 
 [**Dynamically Disable Eye Adaptation and Bloom v1.2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/2135?tab=files): Disables the irritating eye adaptation and object blooming through scripting. Compatible with all image space lighting mods!
 
