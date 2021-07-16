@@ -466,6 +466,7 @@ Enderal SE supports language packs which allow the game to be played in Chinese,
 [**Embers XD v2.2.3**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Vanilla Flames" as vanilla flames look better in VR.
 - Delete ESP files.
+- If using "Animated Forge Water", Embers must be patched manually using Nifskope.  Open .nif files in \mods\Animated Forge Water\meshes\furniture\ and \mods\Embers XD\meshes\furniture\.  Navigate the following "Values", BlacksmithForgeMarker.nif > BlacksmithForgeMarker > BlacksmithForge01 > Fire > OrderedRenderingNode > WATER.  Right click WATER in the Animated Forge files and select Block > Copy Branch.  Right click WATER in the Embers XD files and select Block > Copy Branch.  Then right click BSORderedNode in the Embers XD files and hit Block > Paste Branch > Yes and then press SAVE and OK.       
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
 
