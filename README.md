@@ -26,6 +26,8 @@ This guide describes how to configure Skyrim VR to play Enderal: Forgotten Stori
 
 Wabbajack simplifies the process of downloading all the required Skyrim VR mods and patches necessary to play Enderal SE in VR to a single click.  This guide uses a lightweight modlist designed to deliver an optimal VR experience with minimal performance loss.  This modlist was optimized for Virtual Desktop and Air Link and should perform extremely well when playing the game wirelessly.  Special thanks to the Enderal SE modding team and sasa2727 for the VR patch which made this guide possible!
 
+Note that you do NOT need to use Wabbajack to setup Enderal VR.  You can optionally download and configure all the [recommended mods](#Included-Mods-and-Tools-Skyrim-VR-Installation-Folder) manually through Mod Organizer 2. 
+
 ## System Requirements
 Minimum:
 * CPU: Intel Core i5-6600K or AMD Ryzen 5 1400 or better
