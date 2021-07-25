@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.07:
+Released: July 24th, 2021
+
+Updated Mods
+- Spell Wheel VR:  Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
+
 ### v1.06:
 Released: July 23rd, 2021
 
