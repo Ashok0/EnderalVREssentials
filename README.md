@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: July 23rd, 2021 (v1.06)
+Latest update: July 24th, 2021 (v1.07)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -88,8 +88,9 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
 3. Select Controls > Tick "Selfie Mode" if you want to be able to view and take photos of your character in third person.  You can activate and deactivate the third person view by raising your right hand in the air. 
 
 * Spell Wheel VR MCM: 
-1. Select Presets > Spellsword (Loads preset for equipping spells and weapons from the spell wheel)
-2. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
+1. Select Presets > SpellSword + More Pages (Loads preset for equipping spells, weapons, and items from the spell wheel across multiple pages)
+2. Select General > Tick "Unequip to Grab with Higgs" (Allows you to grab potions directly from the Spell Wheel menu to your hand for added immersion)
+3. Select Advanced > Set "Slow Time Scale" to 5.  (Enables slow motion when selecting items from the spell wheel)
 
 * R.A.S.S.
 1. Select Options > Raining and set this option to "Off" if you dislike waterdroplet effects on the camera when it is raining.
