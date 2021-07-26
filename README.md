@@ -64,10 +64,10 @@ Recommended:
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
 
-11. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
-12. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
-13. Launch Mod Organizer 2. 
-14. Configure your mod loadout: 
+12. Once Wabbajack is done downloading and configuring Enderal VR, navigate to your game folder from Step 6.
+13. Copy the contents of \Game Folder Files\ to C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
+14. Launch Mod Organizer 2. 
+15. Configure your mod loadout: 
 	* Disable "Dear Diary VR" if you prefer to use the vanilla SkyUI menu.
 	* Disable "Smaller HUD for VR Larger Text Patch" if you wish to decrease the size of the in-game text.
 	* Enable "VRIK Rift-Index-WMR Controller Bindings" if using the Rift, Valve Index, or WMR headset.
@@ -76,7 +76,7 @@ Recommended:
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
 	* Enable "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).
 	* Enable "Replace spiders with wolfs and bears" if you have arachnophobia!
-15.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
+16.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
 		* OpenComposite improves framerates by launching Enderal VR directly through the Oculus runtime and eliminating overhead from Steam VR. &#x1F53A;Dragonborn Speaks Naturally does not work when using OpenComposite as it requires SteamVR to function properly.&#x1F53A;
 17.   Make sure "SKSE" is selected in the upper right dropdown bar and click "Run" to launch and play Enderal VR!  
 		* You can optionally click "Shortcut" underneath "Run" to create a shortcut for launching Enderal VR directly from the Windows desktop!
@@ -282,8 +282,8 @@ You can further customize your character in VR with custom armor mods.  Custom a
 * In addition to improving visuals with The Sharper Eye, you can continue to supersample Enderal VR through SteamVR, Oculus Tray Tool, or Virtual Desktop.
     * If playing wired with an HTC/Valve/HP headset, increase your SteamVR resolution above 100% to the maximum resolution your GPU can handle.  
     * If playing wired with an Oculus headset, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  
-    * If playing wirelessly with Air Link, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  For optimal Air Link performance, set your Air Link Bitrate to around 50Mbps.  You can also further optimize performance by installing [OpenVR FSR](https://github.com/fholger/openvr_fsr) or [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.
-    * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled and SSW set to Auto.  You can also experiment with toggling Video Buffering ON and OFF.  You can also further optimize performance by installing [OpenVR FSR](https://github.com/fholger/openvr_fsr) to your Skyrim VR installation folder.
+    * If playing wirelessly with Air Link, increase your supersampling as high as your GPU can handle via Oculus Tray Tool.  For optimal Air Link performance, set your Air Link Bitrate to around 50Mbps.  You can further optimize performance by installing [OpenVR FSR](https://github.com/fholger/openvr_fsr) or [OpenComposite](https://gitlab.com/znixian/OpenOVR/) to your Skyrim VR installation folder.
+    * If playing wirelessly with Virtual Desktop, lock your SteamVR resolution at 100% and set your Virtual Desktop video settings to Low/Medium/High based on your GPU. For optimal Virtual Desktop performance, set your Streaming settings to 60fps @ 80Mbps bitrate with Sliced Encoding enabled and SSW set to Auto.  You can also experiment with toggling Video Buffering ON and OFF.  You can further optimize performance by installing [OpenVR FSR](https://github.com/fholger/openvr_fsr) to your Skyrim VR installation folder.
 
 ## Game capture
 * If you want to take screenshots or record footage while in VR using an HTC/Valve/WMR headset, use [OBS Studio](https://obsproject.com) with the [OBS OpenVR Input Plugin v1.5](https://github.com/baffler/OBS-OpenVR-Input-Plugin/releases/tag/v1.5).  This will allow you to capture the game in widescreen at a higher resolution than what can be achieved when capturing the game from the SteamVR mirror window.
