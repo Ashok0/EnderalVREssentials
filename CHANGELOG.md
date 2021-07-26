@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.08:
+Released: July 26th, 2021
+
+Removed Mods
+- ElSopa - Iron Weapons Redone SE: Removed due to mesh issues which impact the held position of iron arrows when using a bow.
+
 ### v1.07:
 Released: July 24th, 2021
 
