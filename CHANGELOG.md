@@ -1,5 +1,12 @@
 # Changelog
 
+### v1.09:
+Release date: July 26th, 2021
+
+Updated Mods
+- Spell Wheel VR v1.2.1: Minor fixes with secondary hand order, wrist bar, and "Show Hover Text" settings.
+- Enderal VR v2.9.1: Minor fix for "Our Mark on this World" and tavern card games.
+
 ### v1.08:
 Released: July 26th, 2021
 
