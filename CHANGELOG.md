@@ -21,7 +21,7 @@ New Mods
 - Deflection v1.8:  Deflection is a full featured, customizable, performance friendly, balanced, combat overhaul. Designed to work along side other popular combat mods, or as a standalone combat mod in vanilla Skyrim.
 - Pretty Animated Potions - VR Edition v1.0:  Yet another animated potions mod. This time in small bottles! 1K retexture. Refracting bottles option available!
 - Rally's Candlelight and Magelight Fix SE - VR v1.1:  Fix for the Candlelight Spell and Magelight Spell in SE/VR.
-- El Sopa - HD Medieval Anvil SE v1.0:  New Model And Textures For The Anvil. The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
+- ElSopa - HD Medieval Anvil SE v1.0:  New Model And Textures For The Anvil. The Hammer And Tongs. Performance Friendly. Ultra Immersive. All Resolutions. No ESP.
 - Animated Forge Water v0.3.1:  A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Better Dirt Cliffs and Alphas v4.0:  Overhaul of the meshes & alpha channels involved in blending the top of the dirt cliff with the roots, and the roots with the wall. Covers SMIM meshes too.
 - HD Dead Trees and Driftwoods v1.1:  Combine "4K Parallax Treebark" and "Spooknik's - Tundra Trees HD" to achieve HD dead trees and driftwoods. Contains original mods port.
@@ -39,7 +39,7 @@ New Mods
 - Seagulls of Skyrim v1.4:  This mod adds seagulls along the coasts of Skyrim and Solstheim, with animated models and sounds from Mr. Siika Seagulls for Skyrim SE!
 - Enderal SE - Seagulls of Skyrim v1.0:  Compatibility patch for Seagulls of Skyrim which adds them to the world of Vyn.
 - Flying Crows SSE v1.1:  Adds flying crows to various locations around Tamriel to create a more nordic atmosphere in your Skyrim.
-- Enderal SE - Flying Crows v.10:  Compatibility patch for Flying Crows which adds them to the world of Vyn.
+- Enderal SE - Flying Crows v1.0:  Compatibility patch for Flying Crows which adds them to the world of Vyn.
 
 Updated Mods
 - HIGGS VR v1.3:  Hand collision, physics object grabbing, and gravity gloves-style mechanics for Skyrim VR.
