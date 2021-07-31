@@ -858,28 +858,29 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 ### SkyVRaan Configuration 
 SkyVRaan adds shimmering water effects to the game.  SkyVRaan has been pre-configured with Wabbajack but the configuration process has been documented below for reference.  This process should be run immediately before or after xLODGen/TexGen/DynDOLOD (if using xLODGen/TexGen/DynDOLOD).  
 
-1. If you have updated Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
-2. Close Mod Organizer 2 if open
-3. Create a blank Skyrim.ini file in C:\Users\ (Username)\Documents\My Games\Skyrim VR\
-4. Install .NET SDK 5.0 from [HERE](https://dotnet.microsoft.com/download/dotnet/5.0) and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
-5. Download Synthesis from [HERE](https://github.com/Mutagen-Modding/Synthesis/releases/) and extract it to a folder anywhere on your drive called \Synthesis\  
-6. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Synthesis.exe" in the folder created in Step 5 and select "Open"
-7. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK. (If applicable, this option may not be available if your overwrite folder is already clean)
-8. Select Synthesis from upper right dropdown and click RUN
-9. Select Skyrim VR
-10. Select Git Repository (2nd icon in upper left) 
-11. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
-12. Click RUN icon
-13. Wait for the utility to report "Completed" and close Synthesis.  If Synthesis errors out when patching SkyVRaan, try the following:
+1.  Download SkyVRaan from [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/30571?tab=files) and install it through MO2 underneath other grass and water mods.  Tick "Rocky River Beds", "Rally's Water Foam", and "Improved Water Normals for Vanilla" and leave all other settings at default.
+2.  If you have updated Synthesis, you MUST remove files from older versions by removing the following folder:  C:\Users\ (My Username)\AppData\Local\Temp\Synthesis
+3. Close Mod Organizer 2 if open
+4. Create a blank Skyrim.ini file in C:\Users\ (Username)\Documents\My Games\Skyrim VR\
+5. Install .NET SDK 5.0 from [HERE](https://dotnet.microsoft.com/download/dotnet/5.0) and remove any previously installed .NET runtimes.  You can confirm .NET SDK 5.0 is properly installed by running the following from your command prompt:  dotnet --info
+6. Download Synthesis from [HERE](https://github.com/Mutagen-Modding/Synthesis/releases/) and extract it to a folder anywhere on your drive called \Synthesis\  
+7. Launch MO2 and select Tools > Executables > Add an executable ("+" icon in upper left) > Add from file > Navigate to "Synthesis.exe" in the folder created in Step 5 and select "Open"
+8. Right click on "Overwrite" in the left window pane and select: Clean Overwrite > OK. (If applicable, this option may not be available if your overwrite folder is already clean)
+9. Select Synthesis from upper right dropdown and click RUN
+10. Select Skyrim VR
+11. Select Git Repository (2nd icon in upper left) 
+12. Search for SkyVRaan and select the "+" icon next to SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher
+13. Click RUN icon
+14. Wait for the utility to report "Completed" and close Synthesis.  If Synthesis errors out when patching SkyVRaan, try the following:
 	- If you get a "Blocking Error", you may be using an outdated version of Synthesis.  To fix this problem, perform the following steps.
 		-  Delete any files from C:\Users\ (Username)\AppData\Local\Temp\Synthesis
 		-  Download and run the latest version of Synthesis from Github [HERE](https://github.com/Mutagen-Modding/Synthesis/releases)
 	- Select SkyVRaanAutoPatcher and SkyVRaanWeatherPatcher in the left hand bar and set "Mutagen" and "Synthesis" to "Latest".
 	- Click "Skyrim VR" in the top bar.  Under Data Folder Location, enter the following path: C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR\Data
-14. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis output and click OK.
-15. Tick "Synthesis output" in the left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane.  
-16. Revert the upper right dropdown bar back to "SKSE".
-17. You may need to re-run this process if you change your load order.
+15. Right click on "Overwrite" and select "Create Mod".  Enter a custom name i.e. Synthesis output and click OK.
+16. Tick "Synthesis output" in the left window pane and make sure "Synthesis.esp" is near the bottom of your Plugin load order and ticked in the right window pane.  
+17. Revert the upper right dropdown bar back to "SKSE".
+18. You may need to re-run this process if you change your load order.
 
 ### Mod Organizer 2 Settings
 Required Mod Load Order (left side):
