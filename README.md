@@ -885,7 +885,7 @@ Recommended game settings are listed below.  Note that the above Wabbajack insta
 
          fMeleeLinearVelocityThreshold=3.0000	 
 
-8.  Open skyrimprefs.ini and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
+8. Open skyrimprefs.ini and add this text somewhere under the [VRWand] section: fBowHoldOffsetY=-6.6 (Tweaks bows for VR)
 9. Open skyrimprefs.ini and add this text somewhere under the [Particles] section: iMaxDesired=1500 (Tweaks Embers XD)
 10. Open skyrimprefs.ini and add this text somewhere under the [Display] section: bUseTAA = 1 (Fixes menus in Enderal VR; Requires TAA tweaking via VR FPS Stabilizer)
 11. Open skyrimprefs.ini and add this text somewhere under the [Display] and [Trees] section: (Recommended tree settings from [STEP guide](https://stepmodifications.org/wiki/Guide:Skyrim_Tree_Settings)): 
