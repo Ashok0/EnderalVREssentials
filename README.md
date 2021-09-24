@@ -993,7 +993,12 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "TexGenx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
 	- Select Add an executable ("+" icon in upper left) > Add from file > Navigate to "DynDOLODx64.exe" in the folder created in Step 6 and select "Open" > Type -tes5vr under "Arguments" and click "Apply".  
 	- Click OK to return to the main Mod Organizer 2 window. 
-11.  Select xLODGenx64 from the upper right drop down bar and click Run.
+11.  Select DynDOLODx64 from the upper right drop down bar and click Run.  (We are not ready to use DynDOLOD yet but need to run the tool now to check for potential errors in our modlist) 
+		- If you receive an "Injected Worldspace" error for a mod which does not require plugins to work (i.e. texture/mesh mods), delete the .esp files associated with the mod.
+		- If you receive an "Injected Worldspace" error for a mod which requires plugins to function, fix the .esp files associated with the mod by opening the mods plugins in xEdit and deleting all Cell and Worldspace data.
+		- If you receive a "Worldspace Editor ID MQP01 Home is changed to Tamriel" error, you can simply ignore this error. 
+		- Close the DynDOLOD window once it appears.
+12.  Select xLODGenx64 from the upper right drop down bar and click Run.
 		- Untick MQP01Home and tick all other world spaces once the xLODGen window appears.  Tick Terrain LOD.  Set "Optimize Unseen" to 500.  Tick "Protect Borders".  Leave Objects LOD, Trees LOD, and Occlusion unticked.  Then click Generate.	
 		- Close the xLODGen window once you see "LOD generation complete".	
 12.  Navigate to C:\xLODGen_Output\ and move this folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable xLODGen_Output in the left window pane.  Place this mod near the end of your load order.
@@ -1004,12 +1009,12 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 		- Wait for TexGen to finish running, it typically takes several minutes.  When the process completes, click "Exit TexGen".
 14.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \TexGen_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable TexGen_Output in the left window pane.  Place this mod directly under "xLODGen_Output".
 15.  Select DynDOLODx64 from the upper right drop down bar and click Run.
-		- If you get a "Worldspace Editor ID MQP01Home..." error, click "Ignore".
+		- If you get a "Worldspace Editor ID MQP01Home is changed to Tamriel" error, click "Ignore".
 		- Once the DynDOLOD window appears, click "Advanced".  Then tick all world spaces, click "High" at the top of the window,  tick "Ultra", and untick "Occlusion data" in the options below.  Then click "OK" to start the process.  Wait for DynDOLOD to finish running, it typically takes several minutes.  When the process completes, click "Save & Exit". 
 		- Under "Mesh and Reference rules", 'tree' can be set to Level0/Billboard2/Billboard2 under LOD Level 4/8/16 respectively for slightly improved visuals.  Not recommended for VR due to the moderate performance drop.  
 16.  Navigate to your \DynDOLOD\ folder from Step 9 and move the \DynDOLOD_Output\ folder to C:\ (Your Game Folder)\mods.  Refresh MO2 with "F5" and enable DynDOLOD_Output in the left window pane. Place this mod directly under "TexGen_Output".
 17.  Confirm "xLODGen_Output", "TexGen_Output", and "DynDOLOD_Output" are ticked in the left window pane and ensure DynDOLOD.esp is ticked in the right window pane.
-18.  Navigate to \Enhanced Vanilla Trees SE-Lush Trees\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). You will need to reinstall EVT with its plugin if you ever wish to re-run DynDOLOD.  
+18.  Navigate to \Enhanced Vanilla Trees SE-Lush Trees\ folder and delete the ESP file (untested with Enderal VR), then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). Then press F5 with the right window pane selected to refresh the active plugin list. You will need to reinstall EVT with its plugin if you ever wish to re-run DynDOLOD.  
 		- This step may be unnecessary but avoids potential compatability issues with the EVT plugin.
 19.  Revert the upper right dropdown bar back to "SKSE".
 20.  DynDOLOD is now successfully configured!  You should see FAR more detail in the distance when looking across large open areas of the game! (You may need to re-run this process if you change your load order.)
