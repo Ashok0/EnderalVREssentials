@@ -963,10 +963,13 @@ Note that many DynDOLOD guides on the Web are heavily outdated or are not relev
 	- Disable any billboards that are included in tree mods (found in \data\textures\lodgen\).
 4. Install a terrain LOD mod (that corresponds with the lowest texture mod used for terrain) and place it after other Skyrim SE texture mods.  Only used for terrain noise texture.  Remove ALL files except for the \textures\ folder.
 5. Finalize load order in Mod Organizer 2.
-6. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
-7. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
-8. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
-9. (Optional) Remove the Enhanced Vanilla Tree .esp file to avoid potential plugin issues.  Then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). 
+6. Launch DynDOLOD to check for plugins with worldspace injection errors.
+	- If no errors are found, close DynDOLOD. 
+	- If DynDOLOD reports a plugin error, remove the plugin if it isn't required or fix the plugin by removing its Cell and/or Worldspace data with xEdit.
+7. Use xLODGen to generate terrain LOD meshes and textures into a dedicated output folder and then install as a mod.
+8. Use TexGen to generate object LOD textures and tree/grass LOD billboards into a dedicated output folder and then install as a mod.
+9. Use DynDOLOD to generate object LOD (includes grass LOD if enabled), tree and optional dynamic LOD into a dedicated output folder and then install as a mod.
+10. (Optional) Remove the Enhanced Vanilla Tree .esp file to avoid potential plugin issues.  Then navigate to \Enhanced Vanilla Trees SE-Lush Trees\meshes\landscape\trees\ and remove the SRG_ prefix from all filenames (required if not using plugin). 
 
 #### xLODGen/TexGen/DynDOLOD Configuration 
 
