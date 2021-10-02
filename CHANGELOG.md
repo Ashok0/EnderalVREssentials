@@ -3,16 +3,16 @@
 ### v1.101:
 Release date: October 1st, 2021
 
-New Mods:
+New Mods
 - Magic Improvements for Skyrim VR v1.0.2: Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
 - 4K Stockade v1.0: 4K, 2K, or 1K retexture of the stockades seen around Skyrim.
 - Fluffworks (Fluffy Animals) v1.0: Enhanced fur on animals using shell texturing.
 - Meditation Area Fixes v1.0: Fixes some issues in the meditation area.
 
-Updated Tools:
+Updated Tools
 - DynDOLOD Standalone 3.0 Alpha-44
 
-Updated Mods:
+Updated Mods
 - Scoped Bows SE v1.3.1: "Cell" and "Worldspace" data removed from ScopedBows.esp with xEdit to resolve issue with Skyrim worldspace data being injected into Enderal.
 - VRIK V0.8.1. In-Dev Build 28: INI updated. Spell casting feature set to "When Hand Closes + Opens" to allow casting of elemental spells by quickly squeezing your fist and then opening your hand when using Index controllers or Touch controllers with grips (Kiwi grips recommended).
 - DynDOLOD Resources SE v3.00 Alpha-12
@@ -28,7 +28,7 @@ Updated Mods:
 - Misc Retexture Project v2.6.1: A small update, added the fox and wolf pelts and also the chicken.
 - Armored Flesh v2.0: Fixed broken Nexus links.
 
-Removed Mods:
+Removed Mods
 - Stockade Brown Timber 2K v1.1: Redundant with 4K Stockade.
 
 ### v1.10:
