@@ -2,13 +2,13 @@
 
 ### v1.103:
 
-**Release date: December 5th, 2021**
+Release date: December 5th, 2021
 - - -
-**Added support for Frozen Electrocuted Combustion. FEC is disabled by default.  Do not enable FEC until completing the tutorial mission as the FEC mods will break the character creation wizard.  To enable FEC, tick "Frozen Electrocuted Combustion", "Frozen Electrocuted Combustion VR", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.**
+Added support for Frozen Electrocuted Combustion. FEC is disabled by default.  Do not enable FEC until completing the tutorial mission as the FEC mods will break the character creation wizard.  To enable FEC, tick "Frozen Electrocuted Combustion", "Frozen Electrocuted Combustion VR", and "Frozen Electrocuted Combustion - Enderal Fix" in Mod Organizer 2.
 - - -
-**Added two DynDOLOD mods for selecting LODs optimized for performance versus quality.  Use only one.**
-- **For max performance, enable "DynDOLOD_Output_PERFORMANCE" in Mod Organizer 2.  This uses "billboard1" trees at LOD Level 4 for maximum performance. Enabled by default.**
-- **For max quality, enable "DynDOLOD_Output_QUALITY" in Mod Organizer 2. This uses "level0" trees at LOD Level 4 for greatly improved tree LODs. Results in -10fps in large open areas on an RTX 3070. Not recommended for wireless VR. Disabled by default.**
+Added two DynDOLOD mods for selecting LODs optimized for performance versus quality.  Use only one.
+- For max performance, enable "DynDOLOD_Output_PERFORMANCE" in Mod Organizer 2.  This uses "billboard1" trees at LOD Level 4 for maximum performance. Enabled by default.**
+- For max quality, enable "DynDOLOD_Output_QUALITY" in Mod Organizer 2. This uses "level0" trees at LOD Level 4 for greatly improved tree LODs. Results in -10fps in large open areas on an RTX 3070. Not recommended for wireless VR. Disabled by default.
 
 - - -
 
