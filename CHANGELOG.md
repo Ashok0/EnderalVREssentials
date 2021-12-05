@@ -12,14 +12,14 @@
 
 - - -
 
-Updated Tools: 
+Updated Tools 
 - xLODGen Beta 85: Tool for generating terrain LOD.
 - DynDOLOD Standalone 3.0 Alpha-56: DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 - The Sharper Eye v1.0: MaxDelta setting in INI reverted to defaults.
 - Synthesis v0.20.6: A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 - SSEEdit v4.0.4: SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
-New Mods:
+New Mods
 - VR Address Library for SKSEVR v0.15.0: VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE. Required by FEC.
 - Papyrus Extender SSE - 4.5.5: SKSE64 plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events.  Required by FEC.
 - Papyrus Extender VR v4.5.5: SKSEVR plugin that extends Papyrus script functionality, with over 275 new Papyrus functions, and 29 events. This requires the original Papyrus Extender and is built from po3's source. Required by FEC.
@@ -39,7 +39,7 @@ New Mods:
 - Intense Sandstorms v1.01: Increases the intensity of sandstorms in the Desert.
 - Oorbaya Replacer v1.0: Replaces the models Oorbayas with high quality alternatives.
 
-Updated Mods:
+Updated Mods
 - Enderal SE Update v2.0.9: Update for Complete Enderal for Skyrim Special Edition. 
 - Enderal SE - Bug Fixes v1.29: This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 - Enderal VR - Patch v3.0: Fixed pipe smoking: player is no more stuck after smoking.  Increased camera height in akropolis to ease the use of higher perks (triggering the lowest perks might require to crouch).  Slight improvements in mq03, scene 3.  Removed the dialoguemenu.swf check introduced in enderal se 2.09 (modification of _00e_questfunctions).
