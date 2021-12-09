@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: December 5th, 2021 (v1.103)
+Latest update: December 8th, 2021 (v1.104)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -52,7 +52,7 @@ Recommended:
 * [Enderal: Forgotten Stories (Special Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
 * [Premium NexusMods account](https://www.nexusmods.com/)
 * [Wabbajack](https://www.wabbajack.org/#/)
-* [EVRE_v1.103.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
+* [EVRE_v1.104.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
@@ -63,8 +63,8 @@ Recommended:
 5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 6.  Run Wabbajack one time and then exit the program.  
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVRE_v1.103.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
-9.  Launch Wabbajack by double-clicking "EVRE_v1.103.wabbajack"
+8.  Download "EVRE_v1.104.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
+9.  Launch Wabbajack by double-clicking "EVRE_v1.104.wabbajack"
 10.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
@@ -81,7 +81,6 @@ Recommended:
 	* Disable "Bijin Skin UNP and CBBE" if you prefer vanilla skin.
 	* Enable "Equippable Tattoo Skins UNP + CBBE" if you wish to apply tattoos/bodypaint to your character (female only).
 	* Disable "VR FPS Stabilizer" to enable TAA effects.  By default, the console features of this mod are used to disable all TAA effects.  This removes TAA blur but creates shimmering foliage.  (TAA effects must be disabled via "VR FPS Stabilizer" tweaks.  TAA should not be disabled in-game as TAA must be active for the menu artwork to display properly.)
-	* Enable "Frozen Electrocuted Combustion", "Frozen Electrocuted Combustion VR", and "Frozen Electrocuted Combustion - Enderal Fix" to enable FEC.  FEC applies visual effects to NPCs when killed with damage status effects.  Do not enable FEC until you complete the tutorial mission as these mods will break the character creation wizard for Enderal VR. These mods are disabled by default.
 	* Enable "Replace spiders with wolfs and bears" if you have arachnophobia!
 	* Enable "DynDOLOD_Output_PERFORMANCE" OR "DynDOLOD_Output_QUALITY".  Select only one.  The PERFORMANCE version uses "billboard1" trees for LOD4 for optimal performance.  The QUALITY version uses "level0" trees for LOD4.  This will greatly improve tree LODs but results in -10fps in large open areas on an RTX 3070.  The PERFORMANCE version is enabled by default.
 16.   (Optional) You can optimize your VR performance by installing either [OpenVR FSR](https://github.com/fholger/openvr_fsr) (Compatible with all headsets) or the 64-bit DLL for [OpenComposite](https://gitlab.com/znixian/OpenOVR/) (Compatible with Oculus headsets only, highly recommended when using Air Link) to your Skyrim VR installation folder.  Backup and overwrite the existing DLL file in your Skyrim VR folder.  
@@ -110,7 +109,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
  
 ## Updating
 
-This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVRE_v1.103.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
+This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVRE_v1.104.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
 
 Wabbajack will delete all files that are not part of its modlist when updating!  Your downloads folder will not be touched.  If you have installed additional mods not included in the Wabbajack, you will need to re-install them manually if you choose to update your mods via the Wabbajack file.  You can alternatively update your mods manually through Mod Organizer 2.
 
@@ -142,7 +141,6 @@ Wabbajack will delete all files that are not part of its modlist when updating! 
 * By default, your shield is slightly offset from your hand position when equipped.  This can be fixed by enabling "Realistic Shield Grip" from the in-game settings, but when this feature is enabled you cannot walk forward/backward when your shield is raised if you are using Wand-Relative locomotion.
 * The loading screen artwork is out of frame.
 * The talent points in the game are too high to reach in VR.  To use them, install [OVR Advanced Settings](https://github.com/OpenVR-Advanced-Settings/OpenVR-AdvancedSettings) which allows you to change your player height on the fly.  From the in-game Steam menu, select OVR Advanced Settings > Space Offsets -> Y-Axis (up/down). Just lower the value there to "grow" ingame. Note that this fix requires SteamVR and is not compatible with OpenComposite.
-* The "Frozen Electrocuted Combustion - Enderal Fix" mod causes glitches with the character creation wizard.    
 * &#x1F53A; If using Auriels Holy Bow - REDUX, Blended Roads, Embers HD, Embers XD, Glorious Doors of Skyrim (GDOS) SE, Inferno - Fire Effects Redux, JS Instruments of Skyrim SE, Kanjs - Chaurus Eggs and Staff, Skyrim Particle Patch for ENB, Snazzy Furniture and Clutter Overhaul SE, Static Mesh Improvement Mod - SMIM, Unofficial Skyrim Special Edition Patch, or Water for ENB you must make sure you are NOT using any plugins for these mods.  Only meshes and textures may be used.  Delete ALL .esp files associated with these mods before launching the game or running DynDOLOD 3.0. (Incompatible plugins have already been removed with this Wabbajack release.) &#x1F53A; 
 * &#x1F53A; If using Scoped Bows SE, the .esp plugin must be fixed by removing all Cell and Worldspace data in xEdit.  Failure to do so will result in DynDOLOD 3.0 crashing. (This plugin has already been fixed with xEdit with this Wabbajack release.) &#x1F53A; 
 * &#x1F53A; When using OpenComposite, you cannot have any audio recording devices attached to your PC aside from your VR headset or Dragonborn Speaks Naturally will not work. &#x1F53A; 
@@ -877,7 +875,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Frozen Electrocuted Combustion VR v4.9.6**](https://www.nexusmods.com/skyrimspecialedition/mods/59118?tab=files): Applies visual effects to NPCs and the player, when killed by air, ash, dragons, drain, fire, frost, fear, lightning, poison, soultrap, steam and sun damage status effects. VR version that requires original FEC to run.
 
-[**Frozen Electrocuted Combustion - Enderal Fix v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/282?tab=files): Loading Enderal with this ESP will allow you to use Frozen Electrocuted Combustion. If it still crashes change the load order.
+[**Enderal Missing Race Fix (For mods such as FEC) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/321?tab=files): Adds the missing player race-entries from Skyrim into Enderal (leaving Enderal's overwriting of the other races intact!) for any\all mods that requires their existence, such as FEC.
 
 Required load order:
 * VR Address Library for SKSEVR
@@ -885,7 +883,7 @@ Required load order:
 * Papyrus Extender VR
 * Frozen Electrocuted Combustion
 * Frozen Electrocuted Combustion VR
-* Frozen Electrocuted Combustion - Enderal Fix v1.1
+* Enderal Missing Race Fix (For mods such as FEC) v1.0
 
 [**Enderal NPC Overhaul - SE version v2.3.1**](https://www.nexusmods.com/enderalspecialedition/mods/150?tab=description): Overhaul of all NPCs in Enderal. Most important NPCs are given unique look (100+), others - KS Hairdos Hair. NO ESP. No requirements.
 
