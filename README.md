@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: December 8th, 2021 (v1.104)
+Latest update: December 18th, 2021 (v1.105)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -37,14 +37,14 @@ Minimum:
 * RAM: 8 GB
 * OS: Windows 7/8.1/10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 970 / AMD RX 480 8GB or better
-* STORAGE: 90GB
+* STORAGE: 93GB
 
 Recommended:
 * CPU: Intel Core i7-4790 or AMD Ryzen 5 1500X or better
 * RAM: 8 GB
 * OS: Windows 10 (64-bit versions)
 * GPU: Nvidia GeForce GTX 1070 8GB or better
-* STORAGE: 90GB
+* STORAGE: 93GB
 * WI-FI: 802.11ac or 802.11ax (for Virtual Desktop or Air Link; optional) 
 
 ## Requirements
@@ -52,7 +52,7 @@ Recommended:
 * [Enderal: Forgotten Stories (Special Edition)](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition)
 * [Premium NexusMods account](https://www.nexusmods.com/)
 * [Wabbajack](https://www.wabbajack.org/#/)
-* [EVRE_v1.104.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
+* [EVRE_v1.105.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/)
 	
 ## Installation
 1.  Add Enderal SE to your Steam library from [HERE](https://store.steampowered.com/app/976620/Enderal_Forgotten_Stories_Special_Edition/). The game needs to be in your Steam library but does not need to be installed.
@@ -63,8 +63,8 @@ Recommended:
 5.  Download Wabbajack from [HERE](https://www.wabbajack.org/#/) and place "Wabbajack.exe" in a blank folder i.e. C:\Games\Wabbajack 
 6.  Run Wabbajack one time and then exit the program.  
 7.  Create a new folder where you wish to install Enderal VR i.e. C:\Games\Enderal VR
-8.  Download "EVRE_v1.104.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
-9.  Launch Wabbajack by double-clicking "EVRE_v1.104.wabbajack"
+8.  Download "EVRE_v1.105.wabbajack" from [HERE](https://github.com/Ashok0/EnderalVREssentials/releases/) and place it anywhere outside of your Wabbajack folder.
+9.  Launch Wabbajack by double-clicking "EVRE_v1.105.wabbajack"
 10.  Under "Installation Location", select the folder you created above under Step 6 and then click the green "PLAY" icon in the lower right. 
 11.  Wait for Wabbajack to download all the mods and patches required to play Enderal VR.  This could take several hours depending on your Internet connection.
 		* If you receive an error message during this step, a mod has most likely been updated preventing the modlist from installing.  Wait for me to update this Wabbajack modlist and then try again.
@@ -109,7 +109,7 @@ Once you start a new game, you can configure your individual Enderal VR mods thr
  
 ## Updating
 
-This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVRE_v1.104.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
+This Wabbajack modlist will be updated regularly with the latest versions of all its included mods.  If the Wabbajack is updated, just re-download [EVRE_v1.105.wabbajack](https://github.com/Ashok0/EnderalVREssentials/releases/) and re-install the Wabbajack file to keep your mods up to date with a single click.  Be sure to set the "Installation Location" to the same path used during the original installation and tick "Overwrite Installation" before hitting the "Run" button.  Updating should be much quicker than the initial installation process.    
 
 Wabbajack will delete all files that are not part of its modlist when updating!  Your downloads folder will not be touched.  If you have installed additional mods not included in the Wabbajack, you will need to re-install them manually if you choose to update your mods via the Wabbajack file.  You can alternatively update your mods manually through Mod Organizer 2.
 
@@ -354,13 +354,13 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**UI Tweaks v1.0**](https://www.nexusmods.com/skyrim/mods/70774/?tab=files): Theme for Mod Organizer, based on the default style with better and cleaner UI elements.
 
-[**Nemesis Unlimited Behavior Engine v0.84-beta**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
+[**Nemesis Unlimited Behavior Engine v0.84-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/60033?tab=files): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
 
 [**xLODGen Beta 85**](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-80-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/): Tool for generating terrain LOD.
 
-[**DynDOLOD Standalone 3.0 Alpha-56**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
+[**DynDOLOD Standalone 3.0 Alpha-58**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
-[**Synthesis v0.20.6**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+[**Synthesis v0.21.1**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 [**SSEEdit v4.0.4**](https://www.nexusmods.com/enderalspecialedition/mods/78?tab=files): SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
@@ -384,9 +384,10 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal SE Update v2.0.8.2**](https://www.nexusmods.com/enderalspecialedition/mods/1?tab=files): Update for Complete Enderal for Skyrim Special Edition. 
 
-[**Enderal SE Update v2.0.9**](https://eddoursul.win/mods/enderal-se/): Update for Complete Enderal for Skyrim Special Edition. 
+[**Enderal SE Update v2.0.11**](https://eddoursul.win/mods/enderal-se/): Update for Complete Enderal for Skyrim Special Edition. 
+- Remove "fs_se.dll"
 
-[**Enderal SE - Bug Fixes v1.29**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
+[**Enderal SE - Bug Fixes v1.30**](https://www.nexusmods.com/enderalspecialedition/mods/2?tab=files): This mod fixes several issues with the game and also includes some small gameplay/balance fixes.
 
 [**SkyUI v1.2.0**](https://github.com/Odie/skyui-vr): Elegant, PC-friendly interface mod with many advanced features.
 - The new Highlight and Search features do not work if using "Dear Diary".
@@ -397,7 +398,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**SkyrimVRTools v2.3-BETA**](https://www.nexusmods.com/skyrimspecialedition/mods/27782?tab=files): Providing OpenVR input information and control as a service to other Skyrim VR mods.
 
-[**Enderal VR - Patch v3.0**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
+[**Enderal VR - Patch v3.1**](https://www.nexusmods.com/enderalspecialedition/mods/8?tab=files): Mod for playing Enderal in VR (with the SkyrimVR engine).
 
 [**SKSEVR 2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
 
@@ -413,7 +414,9 @@ If you are using a language pack, you may need to change the font used by Dear D
          taa po 1.0	 
          taa ps 0
 
-[**VR Address Library for SKSEVR v0.15.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+[**VR Address Library for SKSEVR v0.19.0**](https://www.nexusmods.com/skyrimspecialedition/mods/58101?tab=files): VR Address Library database for end users. This is intended as a VR replacement for Address Library for SKSE for mods designed for it. Only download if the mod says this is a requirement. It is currently an alpha. This is not for SSE. This is different from Address Library for SKSE.
+
+[**Crash Logger VR v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/59818?tab=files): Generates crash logs when the game Just Works™. This is a VR port using fudgyduff's MIT source.
 
 [**PapyrusUtil VR - Scripting Utility Functions v3.6b**](https://www.nexusmods.com/skyrimspecialedition/mods/13048?tab=files): An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  DynDOLOD requirement.
 
@@ -446,7 +449,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Smaller HUD for VR Larger Text Patch**]: An override patch for [Smaller HUD for VR](https://www.nexusmods.com/skyrimspecialedition/mods/30726?tab=files) to increase text size while retaining the smaller HUD elements from the original mod.  Overrides "Smaller HUD for VR" with vanilla skyvr_hmd_info.nif to increase text size.  Rescales Health, Magica, Stamina, and Quest Update Base Instance sprites in vr_hmd_info.swf to shrink HUD elements from vanilla Skyrim back to the smaller sizes used in the original "Smaller HUD for VR" mod.  Shifts Quest Update Base Instance sprite on X-axis to prevent menu clipping.  Patch created with JPEXS Free Flash Decompiler.
 - Place after other Skyrim SE UI mods.
 
-[**Nemesis Unlimited Behavior Engine v0.84-beta**](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
+[**Nemesis Unlimited Behavior Engine v0.84-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/60033?tab=files): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
 
 [**Spell Perk Item Distributor VR v5.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/59121?tab=files): SKSEVR plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files. This is the VR version built from po3's source.
 
@@ -467,7 +470,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**VRIK Rift-Index-WMR Controller Bindings V2.1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/23416?tab=files): These control bindings are an optional add-on for VRIK to make it easier to use holsters.  The button for shout has been moved to Right A (or the right WMR touchpad), and interact is performed by squeezing the right grip.  Sprinting is now done by squeezing the left grip.  With these "safe" inputs on grips, players do not need to worry about shouting accidentally when grabbing holstered weapons.
 
-[**HIGGS VR v1.4.5**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
+[**HIGGS VR v1.4.6**](https://www.nexusmods.com/skyrimspecialedition/mods/43930?tab=files): Hand/weapon collision, realistic object grabbing, and gravity gloves-style mechanics for Skyrim VR.
 - Remove any [HAVOK] settings from your Skyrim INI files as these settings are no longer necessary with HIGGS VR v1.2+.
 - Make the following changes to higgs_vr.ini to make all held objects use velocity-based movement (recommended):
 	- ForcePhysicsGrab = 1
@@ -478,6 +481,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Spell Wheel VR v1.2.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47630?tab=files): Selection wheel mod for Skyrim VR. It allows you to select spells, weapons, shields, arrows, potions, poisons, food, torch, armors and more without going into a menu very quickly by press of a button or button combinations to spawn the wheel and hold your hand over the item and letting go of the button. It's equipped automatically.
 
 [**Magic Improvements for Skyrim VR v1.0.2**](https://www.nexusmods.com/skyrimspecialedition/mods/55751?tab=files): Vastly improved dual casting, spell effect size scales based on magicka percentage, and additional options for aiming spells in VR.
+
+[**Improved Bound Sword and Dagger Collision v1.0**](https://www.nexusmods.com/skyrimspecialedition/mods/60064?tab=files): More accurate collision for the bound dagger and sword.
 
 [**NavigateVR v1.5**](https://www.nexusmods.com/skyrimspecialedition/mods/47174?tab=files): This mod brings immersive navigation to VR with a functional compass
 - Replace "LHandTamrielSettlements.dds" and "RHandTamrielSettlements.dds" with maps of your choice from the "Maps - SE" or "Anna's Enderal Map" mod to make the default Navigate VR map artwork lore friendly to Enderal.
@@ -596,12 +601,12 @@ If you are using a language pack, you may need to change the font used by Dear D
 - Use the following installation options: Ultra > Brighter > Freesia > New > Regular > None > No Patch
 - ESP file not supported.  Do not install patches.
 
-[**Embers XD v2.4.8**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
+[**Embers XD v2.4.9**](https://www.nexusmods.com/skyrimspecialedition/mods/37085?tab=files): An overhaul of campfires and other fire sources.
 - Use "Inferno Flames" if using "Inferno - Fire Effects Redux".
 - Install Forges and Lava Craters Add-On.
 - Delete ESP files.
 
-[**Animated Forge Water v0.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
+[**Animated Forge Water v0.5**](https://www.nexusmods.com/skyrimspecialedition/mods/52322?tab=files): A mesh only animated forge water replacer with refraction. No ESP. Includes patches for Elsopa and Embers.
 - Install "Elsopa and Embers XD" patch. 
 
 [**HLP Night Sky High v2.07**](https://www.nexusmods.com/skyrimspecialedition/mods/8752): HLP Night Sky offers a tasteful, realistic, and lore-friendly replacement of the night sky textures (stars, constellations, and the milky way. 
@@ -748,7 +753,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 [**Smoking Torches and Candles SSE v1.76**](https://www.nexusmods.com/skyrimspecialedition/mods/8607): A modification that adds a smoke particle effect to torches used by the player and the NPCs as well as those mounted to the wall. Optional component will add a smoke particle effect to most candles in the game world.
 - Added for smoking candles.  Smoking torches appears to not always function.
 
-[**Storm Lightning for SSE and VR v1.4.12**](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files): A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
+[**Storm Lightning for SSE and VR v1.4.13**](https://www.nexusmods.com/skyrimspecialedition/mods/29243?tab=files): A remake of Minty's Lightning mod as an SKSE plugin. The purpose of this mod is stability and scalability. It can summon up to 50 sheet lightnings and 50 fork lightnings per second and up to 31 cells distance. This results in a more natural and enjoyable storm experience.
 
 [**Pouring Rain v2.0**](https://www.nexusmods.com/skyrimspecialedition/mods/6077?tab=files): Increases rain particles density during raining weathers.
 
@@ -897,6 +902,8 @@ Required load order:
 
 [**Amanda v1.4.2**](https://www.nexusmods.com/enderalspecialedition/mods/15?tab=files): Adds female follower to The Drunken Bee tavern in Riverville.
 
+[**A Follower Named Ishan v1.2**](https://www.nexusmods.com/enderalspecialedition/mods/327?tab=files): Adds a custom voiced Qyranian follower at the Drunken Bee in Riverville.
+
 [**Jespar Has Steel SE v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/239?tab=files): Jespar no longer uses toothpicks in battles of life and death.
 
 [**Seagulls of Skyrim v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/52153?tab=files): This mod adds seagulls along the coasts of Skyrim and Solstheim, with animated models and sounds from Mr. Siika Seagulls for Skyrim SE!
@@ -909,7 +916,7 @@ Required load order:
 
 [**Bears of the North v1.1**](https://www.nexusmods.com/skyrimspecialedition/mods/47541?tab=files): Visual overhaul of the bears of Skyrim. Bigger, badder bears fit for the harsh northern lands they roam.
 
-[**Enderal SE - Bears of the North v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files): Enderal SE compatibility patch for Bears of the North.
+[**Enderal SE - Bears of the North v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/30?tab=files): Enderal SE compatibility patch for Bears of the North.
 
 [**Creature Replacer Pack v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/74?tab=files): A collection of creature replacers for Enderal converted to SE.
 
