@@ -455,7 +455,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Ultimate Combat and Creatures Behaviour compatibility for Nemesis v1.12**](https://www.nexusmods.com/skyrimspecialedition/mods/45966?tab=files): This is just a VERY HACKY compatibility patch thing for creature behaviour edits, Nemesis and Ultimate combat, as more and more mods are coming out effecting creature's behaviours it just makes sense to have something like this instead of it being inside multiple mods.
 
-6- Requires patching with Nemesis.
+- Requires patching with Nemesis.
 
 [**Flinching for VR v1.4**](https://www.nexusmods.com/skyrimspecialedition/mods/42550?tab=files): A little mod that allows the player and NPCs to flinch when hit. This version uses the OnHitFramework for hit detection.
 
