@@ -441,6 +441,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Dot Crosshair VR v0.8**](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
+[**Path of the Prophet (No Floating Quest Marker) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+
 [**RaceMenu SE v0.4.16**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - Remove skee64.dll an skee64.ini
 
