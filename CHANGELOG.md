@@ -307,10 +307,10 @@ New Mods
 
 Updated Mods
 - Embers XD v2.2.3: Reinstalled with Vanilla Flames for improved fire FX.
-- Kolapon's Undead Creatures Replacer v1.2u: Removed ESP file to fix crash during "Old Wounds" quest.
 - DynDOLOD: Updated with better tree LODs.
 
 Removed Mods
+- Kolapon's Undead Creatures Replacer v1.2u: Removed to fix crash during "Old Wounds" quest.
 - R's Windmill v1.0: Removed due to clipping issues with terrain.
 - Farmhouse Stonewalls 4K 2K by CleverCharff v1.3:  Duplicate functionality with WiZkiD Parallax Farmhouses 2k No Parallax.
 
