@@ -368,7 +368,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**SSEEdit v4.0.4**](https://www.nexusmods.com/enderalspecialedition/mods/78?tab=files): SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
-[**LOOT v0.16.1**](https://github.com/loot/loot/releases/tag/0.16.1): LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
+[**LOOT v0.17**](https://github.com/loot/loot/releases/): LOOT is a plugin load order optimisation tool for Skyrim VR.  It is designed to assist mod users in avoiding detrimental conflicts, by automatically calculating a load order that satisfies all plugin dependencies and maximises each plugin's impact on the user's game.
 
 ## Included Mods and Tools (Skyrim VR Installation Folder)
 [**SKSE VR v2.0.12**](https://skse.silverlock.org): A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game.
