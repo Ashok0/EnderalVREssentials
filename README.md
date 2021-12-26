@@ -1,5 +1,5 @@
 # ENDERAL VR ESSENTIALS (EVRE)
-Latest update: December 19th, 2021 (v1.105)
+Latest update: December 26th, 2021 (v1.106)
 
 ## Table of contents
 * [Preamble](#preamble)
@@ -354,6 +354,8 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 ## Tools
 
+[**Mod Organizer 2 v2.4.3**](https://www.nexusmods.com/skyrimspecialedition/mods/6194?tab=files): Mod Organizer (MO) is a tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them.
+
 [**UI Tweaks v1.0**](https://www.nexusmods.com/skyrim/mods/70774/?tab=files): Theme for Mod Organizer, based on the default style with better and cleaner UI elements.
 
 [**Nemesis Unlimited Behavior Engine v0.84-beta**](https://www.nexusmods.com/skyrimspecialedition/mods/60033?tab=files): An animation framework that enables behavior mods like CGO, SkySA, Ultimate Combat and most FNIS dependent mods to work together.
@@ -362,7 +364,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**DynDOLOD Standalone 3.0 Alpha-58**](https://www.nexusmods.com/skyrimspecialedition/mods/32382?tab=files): DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim. By combining DynDOLOD with xLODGen users can create drastically enhanced static object LOD + tree LOD and the new, optional dynamic distant object LOD in a few simple steps.
 
-[**Synthesis v0.21.1**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
+[**Synthesis v0.21.4**](https://github.com/Mutagen-Modding/Synthesis): A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.
 
 [**SSEEdit v4.0.4**](https://www.nexusmods.com/enderalspecialedition/mods/78?tab=files): SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector.
 
@@ -443,7 +445,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Dot Crosshair VR v0.8**](https://www.nexusmods.com/skyrimspecialedition/mods/17764?tab=files): Colors the target crosshairs as red and green and converts them to dots since the default grey target crosshairs are often difficult to see and you can not distinguish them in casting double magic.
 
-[**Path of the Prophet (No Floating Quest Marker) v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
+[**Path of the Prophet (No Floating Quest Marker) v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/332?tab=files): Removes floating quest markers from the game.  Quest markers are still viewable on the compass.
 
 [**RaceMenu SE v0.4.16**](https://www.nexusmods.com/skyrimspecialedition/mods/19080?tab=files): Complete overhaul to the character creation menu including new customization features such as multiple RGBA warpaints, body paints, hand paint, and foot paints.
 - Remove skee64.dll an skee64.ini
@@ -806,7 +808,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Beach House v1.0**](https://www.nexusmods.com/enderalspecialedition/mods/145?tab=files): There is an abondoned house at the Sun Coast beach for you to explore and occupy as a player home.
 
-[**Golden Mare Mill SE v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/142?tab=files): Golden Mare Mill provides a quaint player home in the scenic area of Riverville which is rewarded for the completion of the quest "Secrets from the Can".
+[**Golden Mare Mill SE v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/142?tab=files): Golden Mare Mill provides a quaint player home in the scenic area of Riverville which is rewarded for the completion of the quest "Secrets from the Can".
 
 [**Undercity Home v1.1**](https://www.nexusmods.com/enderalspecialedition/mods/146?tab=files): A simple place for you to sleep in the Undercity - ported to SE.
 
@@ -873,7 +875,7 @@ If you are using a language pack, you may need to change the font used by Dear D
 
 [**Enderal SE - True Storms v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/203?tab=files): Compatibility patch for True Storms.
 
-[**Intense Sandstorms v1.01**](https://www.nexusmods.com/enderalspecialedition/mods/279?tab=files): Increases the intensity of sandstorms in the Desert.
+[**Intense Sandstorms v1.02**](https://www.nexusmods.com/enderalspecialedition/mods/279?tab=files): Increases the intensity of sandstorms in the Desert.
 
 [**Dirt and Blood - Dynamic Visual Effects v2.11**](https://www.nexusmods.com/skyrimspecialedition/mods/38886?tab=files): Your character will accumulate dirt and blood dynamically, which you can clean by swimming or standing in the rain. The effects are mostly visual only and do not affect gameplay. NPCs will also get bloody as a result of battles. Mod is designed to be simple and lightweight.
 - Remove "Wash and Rinse" from the plugin's Spell data and set FE00682F records to 0 from Quest.Dirty_Quest and Quest.DirtyQuesMCM using xEdit to completely remove the broken "Wash and Rinse" spell from the mod.
